@@ -49,14 +49,13 @@ file = "mods/Farmersrespite-Fabric-3.0.8.jar"
 hash = "2aa70b33fad98fcbb55be95e46e3fa68c3e71605920826a22ff929249a5c4714"
 
 [[files]]
-file = "mods/accessories-tc-layer.pw.toml"
-hash = "856c61ddccf4a4937eaac7f355e126a1ad6a7a08206198578146e24048450585"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "eb6027f889866dddde5c67919a8a3e873c0fae7ff477aea4a4df12334675933e"
 metafile = true
+
+[[files]]
+file = "mods/accessories_tclayer-3.8.1-beta.14.1+1.20.1.jar"
+hash = "fa88c808216b19dd2a4006389926bd281b5e51b0059c77e07042c3358ff2dfda"
 
 [[files]]
 file = "mods/additional-structures.pw.toml"
