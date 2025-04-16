@@ -10,7 +10,7 @@ hash = "92d711d3dcd68e93d829a084b7527dc8d90a67d7350e7696a54e3c8c322fee7c"
 
 [[files]]
 file = "config/figura.json"
-hash = "ae67a580fb30c4af7e94b328b8f3866289fdd955aacdb53cea9fdf5273b90c81"
+hash = "9d73394705c554e7f9706d304c3751ef2382574aa1fcf2c09c00bc812fcca5ea"
 
 [[files]]
 file = "config/fwaystones/config.json5"
@@ -18,7 +18,7 @@ hash = "b48d089498ba6fb5b5a8ccbf1a6348d0ec3aeaea62fccf4bc35a80de01f7a82e"
 
 [[files]]
 file = "config/immersive_melodies.json"
-hash = "b1d96820343aeed9db44e3432074503b83df428b25dbcc0950b417f63c9f8305"
+hash = "c14e3a1635c72e487dd2707e7bd558c1325211e2121353e6a98f071297a2e637"
 
 [[files]]
 file = "config/indypets.json"
@@ -31,6 +31,14 @@ hash = "2511a89805ce365930d1f610ef2c21aa410f9c32a5679b958a73b48763601738"
 [[files]]
 file = "config/soulsweapons.json"
 hash = "0603735ad1f5cb757d23dcc8a8c8d071489279e0372e765aaea0b9c1ca96a154"
+
+[[files]]
+file = "config/supplementaries-client.json"
+hash = "df64b9e319b724bcc7a0b5af2602afce22d376a721bd830440f85c5401169eb4"
+
+[[files]]
+file = "config/supplementaries-common.json"
+hash = "a43402df3586f78b8b12f000a026d93613b5dc47f635db26a1ce4eab3620cb52"
 
 [[files]]
 file = "config/travellersbootsreloaded.properties"
@@ -853,10 +861,6 @@ metafile = true
 file = "mods/spectral-decorations.pw.toml"
 hash = "e431428345edc7b5da76e548a5c19f8839cc2091cfb0bd3045dbc1ecf56e95a8"
 metafile = true
-
-[[files]]
-file = "mods/spectrum-1.8.4.jar"
-hash = "bcbfaaaa765fd4d45b8a0fc1a83ba6f6e24cf6d7bca9ca56b9c056de86c24fb6"
 
 [[files]]
 file = "mods/spectrum-jetpacks.pw.toml"
