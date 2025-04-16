@@ -1,0 +1,13 @@
+name = "Spectrum Jetpacks"
+filename = "spectrum-jetpacks-1.0.4+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iXT7GFmP/versions/VuS8MvDV/spectrum-jetpacks-1.0.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "30579031c9d55440a6171b277f414cad0d93ef74"
+
+[update]
+[update.modrinth]
+mod-id = "iXT7GFmP"
+version = "VuS8MvDV"

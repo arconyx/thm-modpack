@@ -1,0 +1,13 @@
+name = "Map Atlases"
+filename = "map_atlases-1.20-6.0.16-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/C255PPUX/versions/X3yDvO9E/map_atlases-1.20-6.0.16-fabric.jar"
+hash-format = "sha1"
+hash = "063a9608f02aaf79cf741d6da9c826c66fd30ccf"
+
+[update]
+[update.modrinth]
+mod-id = "C255PPUX"
+version = "X3yDvO9E"

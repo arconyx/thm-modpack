@@ -1,0 +1,13 @@
+name = "YUNG's Cave Biomes"
+filename = "YungsCaveBiomes-1.20.1-Fabric-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cs7iGVq1/versions/Holxc5LS/YungsCaveBiomes-1.20.1-Fabric-2.0.4.jar"
+hash-format = "sha1"
+hash = "5db778e5a31359cdbbeb9422d396daafdd09a027"
+
+[update]
+[update.modrinth]
+mod-id = "cs7iGVq1"
+version = "Holxc5LS"

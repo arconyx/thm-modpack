@@ -1,0 +1,13 @@
+name = "Melon slabs"
+filename = "melon-slabs-1.3.0+1.20-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EtpnVvW0/versions/FLbQyYsd/melon-slabs-1.3.0%2B1.20-1.20.1.jar"
+hash-format = "sha1"
+hash = "66021dded5ea4eeca99b856a36d5f0c950cd2446"
+
+[update]
+[update.modrinth]
+mod-id = "EtpnVvW0"
+version = "FLbQyYsd"

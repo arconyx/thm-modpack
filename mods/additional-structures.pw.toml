@@ -1,0 +1,13 @@
+name = "Additional Structures"
+filename = "AdditionalStructures-1.20.x-(v.4.2.2-fabric).jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TWsbC6jW/versions/Z1oQ0Gjc/AdditionalStructures-1.20.x-%28v.4.2.2-fabric%29.jar"
+hash-format = "sha1"
+hash = "48dc5b3bc6ffafd20b365b8a9e3fb6082d7b5a6c"
+
+[update]
+[update.modrinth]
+mod-id = "TWsbC6jW"
+version = "Z1oQ0Gjc"

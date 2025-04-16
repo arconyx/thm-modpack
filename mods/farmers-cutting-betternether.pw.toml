@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: BetterNether"
+filename = "farmers-cutting-betternether-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RFzQi5Io/versions/XMZntiuL/farmers-cutting-betternether-1.20.1-1.0.jar"
+hash-format = "sha1"
+hash = "d8ef1075c3e603b56eeeeadb773ee90fb1b894a2"
+
+[update]
+[update.modrinth]
+mod-id = "RFzQi5Io"
+version = "XMZntiuL"

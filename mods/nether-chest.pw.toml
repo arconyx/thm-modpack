@@ -1,0 +1,13 @@
+name = "Nether Chest"
+filename = "nether-chest-mc1.20-5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okOUGirG/versions/zzztVW2K/nether-chest-mc1.20-5.0.jar"
+hash-format = "sha1"
+hash = "bbaf1b5fb63f0581948bd5f22ec926b3c14ee433"
+
+[update]
+[update.modrinth]
+mod-id = "okOUGirG"
+version = "zzztVW2K"

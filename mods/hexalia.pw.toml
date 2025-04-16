@@ -1,0 +1,13 @@
+name = "Hexalia"
+filename = "hexalia-1.2.4-1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bkz5C0dQ/versions/mBFrvoIO/hexalia-1.2.4-1.20.1%2Bfabric.jar"
+hash-format = "sha1"
+hash = "222b5b3f1af7ab6167564a949143034d400d29d3"
+
+[update]
+[update.modrinth]
+mod-id = "bkz5C0dQ"
+version = "mBFrvoIO"

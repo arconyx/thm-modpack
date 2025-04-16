@@ -1,0 +1,13 @@
+name = "Almanac for Spyglass Astronomy"
+filename = "Almanac-0.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rhj2L1Jf/versions/mGefcZnC/Almanac-0.6.1.jar"
+hash-format = "sha1"
+hash = "4ac9f6f0b0580f7565ef00f3c94047881a722139"
+
+[update]
+[update.modrinth]
+mod-id = "rhj2L1Jf"
+version = "mGefcZnC"

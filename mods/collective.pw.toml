@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.20.1-8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/jcKaR4j8/collective-1.20.1-8.1.jar"
+hash-format = "sha1"
+hash = "0cf6c1a725a1d38d965364475f3f4e543fb64fbe"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "jcKaR4j8"

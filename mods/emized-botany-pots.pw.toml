@@ -1,0 +1,13 @@
+name = "EMIzed Botany Pots"
+filename = "emized-botany-pots-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IhMKi1nq/versions/8zvSgkjC/emized-botany-pots-1.0.0.jar"
+hash-format = "sha1"
+hash = "d973ba1e5c5f393f63716d3b7588facc8c9bcb38"
+
+[update]
+[update.modrinth]
+mod-id = "IhMKi1nq"
+version = "8zvSgkjC"

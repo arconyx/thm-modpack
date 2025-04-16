@@ -1,0 +1,13 @@
+name = "Traveller's Boots"
+filename = "TravellersBootsReloaded-1.20.1-2.1.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4nDndTIl/versions/i2j6Voi5/TravellersBootsReloaded-1.20.1-2.1.2-fabric.jar"
+hash-format = "sha1"
+hash = "4f502db5cea52aa1e8c19a1b4b5647ae868743b6"
+
+[update]
+[update.modrinth]
+mod-id = "4nDndTIl"
+version = "i2j6Voi5"
