@@ -1,0 +1,7 @@
+name = "spectrum"
+filename = "spectrum-arc-1.8.4-arc.jar"
+
+[download]
+url = "https://thehivemind.gay/share/spectrum-arc-1.8.4-arc.jar"
+hash-format = "sha256"
+hash = "19933704921161fdfe439a6510ad2ca7c501c6c689a439502ad748cdf5322b0f"

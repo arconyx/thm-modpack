@@ -864,6 +864,11 @@ hash = "49b4ebcb6260e740c83f9ea802538f47eaa5141ffa3106b9ff8ee488482ff7da"
 metafile = true
 
 [[files]]
+file = "mods/spectrum.pw.toml"
+hash = "431d04ef7c40e576c6aad7ccc91c3a0fbb3e914c4f74a718f270d982ec8438af"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-astronomy.pw.toml"
 hash = "1ba73c74e7232df75a64a2c90f2968731477d709987d733ce0f48af2719e7de4"
 metafile = true
