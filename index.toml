@@ -120,11 +120,6 @@ hash = "a95312f747d56e561bb2332f0c03f08842cde88d7d832d05b8b61ca50cc40b64"
 metafile = true
 
 [[files]]
-file = "mods/better-combat.pw.toml"
-hash = "0998161f34280a8e4c4d7858bfc5879c111794003ed4c29e5a90eb19e08a579a"
-metafile = true
-
-[[files]]
 file = "mods/betterend.pw.toml"
 hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
