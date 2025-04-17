@@ -5,6 +5,30 @@ file = "config/Spectrum.json5"
 hash = "96a8055e4eec773d764ac94384266528882cbca194a78884ff2d64a84d0d6a44"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "66a151dbf2123ba09e0ec7c3aade37066dc98c153b692b20df7844c5a44c60b3"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "badf7a576a843013b87c7379c9b3457fb97e1058cc7cb153b813418ba783cce6"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "08c500c5920acffef2fe2eee5672f06670d4624f39f9920101f2b74ef405ebb5"
+
+[[files]]
 file = "config/creeperoverhaul.jsonc"
 hash = "92d711d3dcd68e93d829a084b7527dc8d90a67d7350e7696a54e3c8c322fee7c"
 
