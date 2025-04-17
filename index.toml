@@ -480,7 +480,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
-hash = "570337ac395941fd789aab44a77cf30ff9a96d7c05d1963a06d36e84c7865d67"
+hash = "d1ed859191e9e5ec59b82a13974535cb07802c3c684ff29b13f205c3a47458c0"
 metafile = true
 
 [[files]]
