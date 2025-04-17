@@ -705,6 +705,11 @@ file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
 hash = "a356f09b59e8deb42f3de7e3d88943b3afb2afa1242bab4268ca6f0f4fe63acb"
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "ec277331d582b3e88b3f6bed3a77f4f526689680507d718f76a1d0fd03ffcf54"
+metafile = true
+
+[[files]]
 file = "mods/otbwtweaked-1.0.0.jar"
 hash = "e95a62f8d92f3ecc064162dd05214006ef5714e116a966c5354e1ab08d21dbb5"
 
