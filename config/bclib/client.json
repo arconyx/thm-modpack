@@ -12,10 +12,10 @@
   },
   "auto_sync": {
     "enabled [default: true]": false,
-    "acceptConfigs [default: true]": true,
-    "acceptFiles [default: true]": true,
-    "acceptMods [default: true]": true,
-    "displayModInfo [default: true]": true,
+    "acceptConfigs [default: true]": false,
+    "acceptFiles [default: true]": false,
+    "acceptMods [default: true]": false,
+    "displayModInfo [default: true]": false,
     "debugHashes [default: false]": false
   },
   "rendering": {
