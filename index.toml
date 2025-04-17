@@ -942,6 +942,11 @@ hash = "71759ba6675ec4109bc555e2f5adfa5d433d8f633692a1bb69b0c7b2a0b90ae9"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "5b45f546ca39ef446fa627f5a12e07784216dda33f5e1d7fdbe96f1a03e84715"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "2252dfd20101615d8f433985c528b96fd74e8be37244b6e752e854424a0164a7"
 metafile = true
