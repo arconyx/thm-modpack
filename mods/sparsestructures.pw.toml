@@ -1,6 +1,6 @@
 name = "Sparse Structures"
 filename = "sparsestructures-fabric-1.20.1-2.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/qwvI41y9/versions/RCqdXzHa/sparsestructures-fabric-1.20.1-2.2.0.jar"

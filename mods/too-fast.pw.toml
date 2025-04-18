@@ -1,6 +1,6 @@
 name = "Too Fast"
 filename = "toofast-fabric-1.20-1.2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/w6JSkKSH/versions/ZyY2Xraw/toofast-fabric-1.20-1.2.0.jar"
