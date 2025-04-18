@@ -680,6 +680,11 @@ hash = "dda8e3884776546230530725d76d00189b1067ef3ce4ff66158d72822aa9dd1f"
 metafile = true
 
 [[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "20cc340fd7477aed53df00cd5a0f84c69c25a535cfa9e41f3900fd43e51a450b"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "230202fc2f3e586cb8dcb44e971c27c3fd1efb649f2d3bd8edaa64fb453ba9b3"
 metafile = true
