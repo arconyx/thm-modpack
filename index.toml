@@ -615,11 +615,6 @@ hash = "a95312f747d56e561bb2332f0c03f08842cde88d7d832d05b8b61ca50cc40b64"
 metafile = true
 
 [[files]]
-file = "mods/better-end-cities-for-betterend.pw.toml"
-hash = "79fca9aa713e5005bab45afc489ee57302726de6a7aaf18ed50325540525776f"
-metafile = true
-
-[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
@@ -1142,11 +1137,6 @@ metafile = true
 [[files]]
 file = "mods/melon-slabs.pw.toml"
 hash = "95280ef05c92ac0c0faf202636e596ded4984e5f9214d05bc7d0bcf0405a2557"
-metafile = true
-
-[[files]]
-file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "d6dee7f50e18a18f212f433e4449bb6f92eb03f1ac771532593819bbde1f0883"
 metafile = true
 
 [[files]]
