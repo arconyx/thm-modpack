@@ -533,14 +533,6 @@ file = "config/travellersbootsreloaded.properties"
 hash = "b1a916d2a08735a2113f1ffbcff2b05c220fc219ce21dbf9e2157f5c513189e9"
 
 [[files]]
-file = "flake.lock"
-hash = "ec5af91d06f89019f5bd83d894787c12934be8f197c0fec3ee4db1fb71f66d1d"
-
-[[files]]
-file = "flake.nix"
-hash = "aeadc4e3d9df0dfb782646bde449b810390b28a16d55559c28120844d42625e2"
-
-[[files]]
 file = "mods/Farmersrespite-Fabric-3.0.8.jar"
 hash = "2aa70b33fad98fcbb55be95e46e3fa68c3e71605920826a22ff929249a5c4714"
 
