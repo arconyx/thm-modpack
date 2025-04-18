@@ -62,7 +62,7 @@ hash = "c14e3a1635c72e487dd2707e7bd558c1325211e2121353e6a98f071297a2e637"
 
 [[files]]
 file = "config/indypets.json"
-hash = "2ed2f54836fd4b0a7d2f9e2c8ad9dc884938d30611d532873f7a0b440d6420e8"
+hash = "1c02dff518f8c05b0fe61d9fbc9aa0d5eeb7059b07ae4ad92024dad203da11d6"
 
 [[files]]
 file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/badlands_or_wasteland.json"

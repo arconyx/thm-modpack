@@ -9,7 +9,7 @@
     "lovely_snails:snail"
   ],
   "interactBlocklist": [
-    "cobblemon:*"
+    "cobblemon:*",
     "dragon_mounts:dragon"
   ],
   "hornConfig": {},
