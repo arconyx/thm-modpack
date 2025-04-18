@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".direnv/flake-profile"
-hash = "83f6ab236ec18b98d8b416043488cd521df6c2c29bb2ab868ad79db03c5e32b1"
-
-[[files]]
-file = ".direnv/flake-profile-2-link"
-hash = "83f6ab236ec18b98d8b416043488cd521df6c2c29bb2ab868ad79db03c5e32b1"
-
-[[files]]
-file = ".envrc"
-hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
-
-[[files]]
 file = ".github/workflows/refresh.yml"
 hash = "bedef77e9e7d9a1c8f79ebbd52ac4b6bc173c047c3b3a51ba4135ce526769656"
 
