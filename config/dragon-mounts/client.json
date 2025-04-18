@@ -1,0 +1,16 @@
+{
+  "misc": {
+    "cameraDrivenFlight": true,
+    "thirdPersonOnMount": true
+  },
+  "back": {
+    "distance": 6.0,
+    "vertical": 4.0,
+    "horizontal": 0.0
+  },
+  "front": {
+    "distance": 6.0,
+    "vertical": 4.0,
+    "horizontal": 0.0
+  }
+}

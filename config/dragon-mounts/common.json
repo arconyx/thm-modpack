@@ -1,0 +1,28 @@
+{
+  "common": {
+    "allowEggOverride": true,
+    "replenishEggs": true,
+    "updateHabitats": true,
+    "maxMountPerDragon": 4,
+    "dragFactor": 0.95,
+    "eggGenerateChance": {
+      "dragon_mounts:nether": 0.35,
+      "dragon_mounts:forest": 0.3,
+      "dragon_mounts:aether": 0.15,
+      "dragon_mounts:fire": 0.075,
+      "dragon_mounts:ghost": 0.095,
+      "dragon_mounts:ice": 0.2,
+      "dragon_mounts:water": 0.175
+    },
+    "reproduceLimit": {
+      "dragon_mounts:nether": -1,
+      "dragon_mounts:forest": -1,
+      "dragon_mounts:aether": -1,
+      "dragon_mounts:fire": -1,
+      "dragon_mounts:ghost": -1,
+      "dragon_mounts:ice": -1,
+      "dragon_mounts:end": -1,
+      "dragon_mounts:water": -1
+    }
+  }
+}

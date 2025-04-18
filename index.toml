@@ -41,6 +41,14 @@ file = "config/creeperoverhaul.jsonc"
 hash = "92d711d3dcd68e93d829a084b7527dc8d90a67d7350e7696a54e3c8c322fee7c"
 
 [[files]]
+file = "config/dragon-mounts/client.json"
+hash = "f518c2d3d7809addc8836374e76579814e23b90af29716b7deafeaaa5277442a"
+
+[[files]]
+file = "config/dragon-mounts/common.json"
+hash = "166dcefbf9de9d391e0df3aaf5cef554883453246d301b5707a54129ec7fd459"
+
+[[files]]
 file = "config/figura.json"
 hash = "9d73394705c554e7f9706d304c3751ef2382574aa1fcf2c09c00bc812fcca5ea"
 
@@ -533,6 +541,10 @@ file = "config/travellersbootsreloaded.properties"
 hash = "b1a916d2a08735a2113f1ffbcff2b05c220fc219ce21dbf9e2157f5c513189e9"
 
 [[files]]
+file = "mods/DragonMountsSoWEdition-1.3.jar"
+hash = "b7827deae05e5938a8392adf42ab4fdfb5af4d7c9f929d1403fbd50bf1b62985"
+
+[[files]]
 file = "mods/Farmersrespite-Fabric-3.0.8.jar"
 hash = "2aa70b33fad98fcbb55be95e46e3fa68c3e71605920826a22ff929249a5c4714"
 
@@ -787,11 +799,6 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "3945904a1e56870a41a1ae0db8928c10fc82e33af2355f2f7265e06cc858d8ba"
-metafile = true
-
-[[files]]
-file = "mods/dragon-mounts-sow-edition.pw.toml"
-hash = "7250a7758ac701757fafaa36cae67cbc45aab2fa05805716884f3dbfe2f2e9e6"
 metafile = true
 
 [[files]]
