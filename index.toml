@@ -625,6 +625,11 @@ hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
+file = "mods/betterend-crashed-ships-tweaks.pw.toml"
+hash = "34bbcac027b42525a1fe9cdf76ac144b9844cc39e7deebf404e6201d97ed9d3e"
+metafile = true
+
+[[files]]
 file = "mods/betterend.pw.toml"
 hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
 metafile = true
@@ -681,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/bundle-recipe.pw.toml"
-hash = "20cc340fd7477aed53df00cd5a0f84c69c25a535cfa9e41f3900fd43e51a450b"
+hash = "2c618660055cf17ad49560a235cc8c7a6b3c320f11b79f6752525de18d63e38b"
 metafile = true
 
 [[files]]
