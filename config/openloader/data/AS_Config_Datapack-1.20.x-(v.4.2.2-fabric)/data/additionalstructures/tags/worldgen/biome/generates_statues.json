@@ -1,0 +1,13 @@
+{
+  "values": [
+    "#c:forest",
+    "#c:jungle",
+    "#c:mountain",
+    "#c:ocean",
+
+    {
+      "id": "regions_unexplored:tropics",
+      "required": false
+    }
+  ]
+}

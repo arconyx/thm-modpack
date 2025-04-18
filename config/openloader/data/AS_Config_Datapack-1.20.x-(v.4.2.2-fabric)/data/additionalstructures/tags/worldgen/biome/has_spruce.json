@@ -1,0 +1,91 @@
+{
+  "values": [
+    "minecraft:grove",
+    "minecraft:old_growth_pine_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:taiga",
+    "minecraft:windswept_forest",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_hills",
+
+    {
+      "id": "biomeswevegone:aspen_boreal",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:canadian_shield",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:crimson_tundra",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:dacite_ridges",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:eroded_borealis",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:frosted_coniferous_forest",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:frosted_taiga",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:howling_peaks",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:maple_taiga",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:redwood_thicket",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:rose_fields",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:skyrise_vale",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:weeping_witch_forest",
+      "required": false
+    },
+
+    {
+      "id": "regions_unexplored:cold_deciduous_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:frozen_tundra",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:maple_forest",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:shrubland",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:spires",
+      "required": false
+    }
+  ]
+}

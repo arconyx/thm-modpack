@@ -1,0 +1,40 @@
+{
+  "values": [
+    "minecraft:birch_forest",
+    "minecraft:dark_forest",
+    "minecraft:flower_forest",
+    "minecraft:forest",
+    "minecraft:meadow",
+    "minecraft:old_growth_birch_forest",
+
+    {
+      "id": "biomeswevegone:howling_peaks",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:overgrowth_woodlands",
+      "required": false
+    },
+    {
+      "id": "biomeswevegone:temperate_grove",
+      "required": false
+    },
+
+    {
+      "id": "regions_unexplored:boreal_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:cold_boreal_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:golden_boreal_taiga",
+      "required": false
+    },
+    {
+      "id": "regions_unexplored:temperate_grove",
+      "required": false
+    }
+  ]
+}

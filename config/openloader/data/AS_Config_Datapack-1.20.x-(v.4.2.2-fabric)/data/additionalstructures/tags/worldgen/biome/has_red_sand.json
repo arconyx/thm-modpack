@@ -1,0 +1,15 @@
+{
+  "values": [
+    "minecraft:badlands",
+
+    {
+      "id": "biomeswevegone:atacama_outback",
+      "required": false
+    },
+
+    {
+      "id": "regions_unexplored:outback",
+      "required": false
+    }
+  ]
+}

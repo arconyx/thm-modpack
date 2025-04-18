@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#c:extreme_hills",
+
+    "minecraft:meadow",
+
+    {
+      "id": "regions_unexplored:highland_fields",
+      "required": "false"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+      {
+  "structures": [
+    {
+      "structure": "additionalstructures:dead_tree_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:dead_tree_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:cactus_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:cactus_2",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 1,
+    "salt": 1230122
+  }
+}
