@@ -732,6 +732,11 @@ hash = "41c81f095b5a96775d2cf261dc8350e8214ef3a12bfa608f2761634e8560cfb9"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "84521ef11288d9db039cb5498aa6e87f079076b2a6dfd95c67c93069d261bf9e"
 metafile = true
@@ -799,6 +804,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "3945904a1e56870a41a1ae0db8928c10fc82e33af2355f2f7265e06cc858d8ba"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
 
 [[files]]
