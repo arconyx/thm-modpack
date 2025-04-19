@@ -65,459 +65,459 @@ file = "config/indypets.json"
 hash = "1c02dff518f8c05b0fe61d9fbc9aa0d5eeb7059b07ae4ad92024dad203da11d6"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/badlands_or_wasteland.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/badlands_or_wasteland.json"
 hash = "3bf88db766ef09a969b87d77a46ec390ec56b0103b740627895a4d0f6cb81a59"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/generates_statues.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/generates_statues.json"
 hash = "7bc363f4d6905721cf4eda185efd69c58fd85701b63097e4dcf1e33db64f2ca8"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/generates_underground_additionalstructures.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/generates_underground_additionalstructures.json"
 hash = "b87255db07a5132f511c478c7b265c86add39226b318ef5ff506184fdc1249e9"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/grassy_highland.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/grassy_highland.json"
 hash = "9a92571b3d1ef8f0e104982722b1b47fd0aa5ecd06298caa9f197c261c6984f6"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_acacia.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_acacia.json"
 hash = "504ae49c65286ed6abd10658b446912edd7bd8d7298795375ea3615ee3063845"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_birch.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_birch.json"
 hash = "f95401f6f2f2c89695ba15eec12b11ca65397487f1dddf8a620f2be721683150"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_dark_oak.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_dark_oak.json"
 hash = "a1b9c2eef9a290974c633242b2afb3f0dfb58671336e433962651f74322268b6"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_jungle.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_jungle.json"
 hash = "9d8566b9558fd875f5336b0b74a2eebc6c2b008c54326962e2146bfb9ea64c1a"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_oak.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_oak.json"
 hash = "151dcaeec7e0802b3ebff0b410e7c2650709d96eae41a4cf6152d3b6be65ec1f"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_red_sand.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_red_sand.json"
 hash = "cfae25d09d59bbb5f4ac2aca20c90b783425a8727e71a01fe73f632fede456a6"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_spruce.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_spruce.json"
 hash = "379fe3ccab55ee5f07912a7203663fa05876656731a826811c4025e3c12c9a9c"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_vanilla_giant_mushrooms.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_vanilla_giant_mushrooms.json"
 hash = "6433492ab23a7304f34a4d35ae99ac0295ac0deb3432592158fbdafd5a9fee25"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_yellow_sand.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_yellow_sand.json"
 hash = "32d1055c34bb2094d93c88e9bc149cb3864207069b813f35e5f364082708a845"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/highland.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/highland.json"
 hash = "c17c30c545010c62d613a1c1fd0fd9f5c9dec7df6a77ee3a3453a0c1985a3063"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/yellow_sand_desert.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/yellow_sand_desert.json"
 hash = "e84ba0af78ca75adc9d6dd54a63f25f38d12069f44106dab5c6ca5d0e72e9f66"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/acacia_log.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/acacia_log.json"
 hash = "fd59b8a57ff327f56ad09a6aa60fb6f241c7ab5733cee17f82952fd76c16ff7e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/birch_log.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/birch_log.json"
 hash = "5284ec4cd52227d49ae2ddb410c30897cd0b84a26dc17bfc498fd32e9886636d"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/cactus_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/cactus_1.json"
 hash = "9ad47249f2bd6c5c74149bc3e04ce090dcb79d14d5f2b8f1634be2e14893ebff"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/cactus_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/cactus_2.json"
 hash = "a26c46fc91d11352d876b7fe3a3954cff1f4a347c96f84dd4014d565b8ef4274"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/damaged_mushroom_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/damaged_mushroom_1.json"
 hash = "957dfe83d8af5027b0b10c4a010b1107052630642dc13654cb9d41f1d645e193"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/damaged_mushroom_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/damaged_mushroom_2.json"
 hash = "4add3b38d3389685f0b294319c9615cef0c0611755448e43b941c2b647264019"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/desert_tomb_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/desert_tomb_1.json"
 hash = "66fafb843cad63b5fdc732be358ba5558d0c8b0a6596bf0244c8b02f587e84fb"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/desert_tomb_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/desert_tomb_2.json"
 hash = "782fbdee9f01a073b2e47643f5202e1a7c26784fdfb52ac4844aaa0b2128be92"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/fallen_oak_tree_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/fallen_oak_tree_1.json"
 hash = "5a111e1499d26d1e776557e69512166223bc3829680d1da7588ee16307ae2b03"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/fallen_oak_tree_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/fallen_oak_tree_2.json"
 hash = "2d4abb5221ca637e3b611aa310fe3a474f3d071f407d671c68ec2a285f84ab0d"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/mushroom_house_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/mushroom_house_1.json"
 hash = "9f9310da73cabc977636cdee55ab52551640b68711561c11a244061f9bcee42d"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/mushroom_house_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/mushroom_house_2.json"
 hash = "1e13361938fc936b19227abdd102ea314c949b0b1a1b7eaf845f04f3557f6ffb"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oasis_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oasis_1.json"
 hash = "96412f598a7322a3201214039ea1686badff476c33cdfb926830176609de773f"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oasis_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oasis_2.json"
 hash = "407cba8a3a9e7380189f994817ae3d7720f98d96a1a19ec352260c5ae52de797"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_1.json"
 hash = "230ba06390fffcdf0c36c571f38d9b9ce9985480f78b4b59b8c8098ae3b62d9e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_2.json"
 hash = "57ab7ee1b6b8e4bf9fb947fb2a6eb9fc52267ddcd27625661b4fb4d2706ee491"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_dungeon.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_dungeon.json"
 hash = "90da31e42f2e83ed5b87b15bb72372bd26880941d8769c59bad033239f1e736e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/red_sandstone_totem_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/red_sandstone_totem_1.json"
 hash = "b893b13c748ae1ebb1a429d6746066e584905d96c0cea29e8a5ac1291b947b5e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/red_sandstone_totem_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/red_sandstone_totem_2.json"
 hash = "64ab720d434a91c3ea259061970edc33984cf81ca04ef1debb441a9fec8ff64f"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/ruin_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/ruin_1.json"
 hash = "bfac4654ffff78036d355f8eb0b529c8644409f22814d6910ef8f4cc2f1282e9"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_1.json"
 hash = "0916dc82e95b961e845a993ad4b18ae42c7f53466d2c59ae69138a20a907bd8d"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_2.json"
 hash = "d72714d8013a0cdaf65142cb5b6cd86e0d97dee5bbda1cbfb255394de67e5094"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_3.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_3.json"
 hash = "e4457ec6617eb31be6c3535479b72c99485fddb91df0860868e103c37e40dadd"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_1.json"
 hash = "85a358bbc1817e1876e3291fffd2a6e2ed56d13cdf1136ae678f4550f41f02ea"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_2.json"
 hash = "07acd6174442a69fe7c5b504a2ff27d3f6f9f66c153332f1990b5dc271aa8320"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_3.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_3.json"
 hash = "3fd0549b5abc6dc876dd7dcef59efe056f68e69979925a355bfa6ebc7c2d27a5"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sewage_system_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sewage_system_1.json"
 hash = "80f92e81f2d7637dd645c0bb84a11485ffd4f5fe71913e97f00ca0d39c274f85"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/skeleton_skull.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/skeleton_skull.json"
 hash = "804d77720bdb6f55f24f8c270cd6b36314feecc1dae33376329f6d775044f390"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_1.json"
 hash = "661b730c3ea5ca956cff021595d13164badb091a299cb2e7249c54656e428008"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_2.json"
 hash = "6840f9fb8ef00da62ffb0a43e3b7ec8d875c5162672f31c29f0f468913450057"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_3.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_3.json"
 hash = "5542c3a0604b63d846b908e712624f4ff7273179b7056b397c0351df965637b6"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snowman_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snowman_1.json"
 hash = "24525a87606ffba91934869e372d45e9319f8af11da4518ccfe82cffea3c0694"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snowman_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snowman_2.json"
 hash = "7a8df593b0f8b2ef0c3463db6c9c1b12f3cd508cfdad6333b09945daa1419de2"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sphinx.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sphinx.json"
 hash = "4d3d7042b61ef797bb30640c8461457261650504f50273c8f635b198838e46b2"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_1.json"
 hash = "6231806e8331503c31c265e3a00a75d3ea9ca45b1878ae2700ecfc69df225657"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_2.json"
 hash = "53226c45f6354f3098409fe1b658ecab0f7eff36e7735c61f2b75fead25506ea"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_3.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_3.json"
 hash = "807ed19ff4136f599f1ce255f3140a61ee675685e8e15426848a2ea13c91bc14"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spruce_log_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spruce_log_1.json"
 hash = "832e687abab0086a41e0061e7e32ac6dfb46e97d769afc694a094c0e07206f1f"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spruce_log_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spruce_log_2.json"
 hash = "eef03f99c31bd2e458bc4bdd11f6dfa05e2f147e5883e8beb6240550a5e98c32"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_acacia_log.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_acacia_log.json"
 hash = "f60744f3254d98ef539d22034747f0ecce5a2f64c9e83840a12b09dee0253012"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_dark_oak_log.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_dark_oak_log.json"
 hash = "2600a3a129d7b12ccf78e72519b973d986bbe8d595ca26f098a329cba68e6f00"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_jungle_log.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_jungle_log.json"
 hash = "af26ea528386b513e62b4346bd71bfad34c8cabfc67e117da89d4f30d0dbe761"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_oak_log.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_oak_log.json"
 hash = "468e6ef90a2845d7a81078ed705d092424392bf34846c55b33e47ae04ee9559b"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_spruce_log.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_spruce_log.json"
 hash = "d2e50ade3eba59ef8278a2e76c6d3fedf3e311c7d2fbac2818d70a641661580a"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_gravel_patch_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_gravel_patch_1.json"
 hash = "5acbd9696e7696f3b1d055cbed0581bc5a1170f137978561003feb7666fcc98f"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_gravel_patch_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_gravel_patch_2.json"
 hash = "aa8155110f484ec872ea0f69f1c07ec5c13a4f98ea9e5ee453aaab31cd871e08"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_1.json"
 hash = "58f8d2ff38f9cf052de6da0ee9c73fe729e8d8c2f13eb7975e0418a86e2cf90e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_2.json"
 hash = "f48eafc95eff01cd68494ba67e10f2f8fc085df56d3ca4bc50a988e5e2620675"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_3.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_3.json"
 hash = "086f9069adc98c2d060ccd478dfc3882918868c7f5a5f16591740db2d8bba449"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_4.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_4.json"
 hash = "340f019fc1ccf905a83490d73681e09dcabf642785540ab3831b1f69b5831ed9"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/temple_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/temple_1.json"
 hash = "4d80632f68d1ce1fd79dc1f857b11cd9bd584baa5cd9646e7489cd5f85532dc9"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_1.json"
 hash = "7d7a8aa06a6d6ad06755b59974ce1d4e902fc3729f17d77f6223f37f0159c8a5"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_2.json"
 hash = "6d102c727a1eb196811c6b7399b97bd2fb3eef0d534aa9ee1f01e2af0718fb7b"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_3.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_3.json"
 hash = "4e8e1ff4acc6a7f5a4b57b644cd8055979c347665eb05f67d0865b2c834ebd1e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_4.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_4.json"
 hash = "2de07bd9754527396b1ca1c623f376a10b3f74f2d18c2ed653c22a9e5e64b73e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tower_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tower_1.json"
 hash = "f8dd8f52fd1182346d41518fe6de1858ab27d1325bda92bd3910309edfc79a50"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tower_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tower_2.json"
 hash = "01b80ffe894aeac7f1fc6f244f24ebe02087cfeb07613bbdb0c5ec3042e7e7ab"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_base_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_base_1.json"
 hash = "91687bfdcdf9ec32af8954b5fc426236b2510bbacf4710da1f239cbbb946c941"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_base_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_base_2.json"
 hash = "3ebb0321777d6a06dc08be13a7cd9b149566798545922164972ad40a25e04746"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_dungeon_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_dungeon_1.json"
 hash = "d189c56c537003ed7129e2c176334d1fb800af569d14a4397c1b031a3a3f99dd"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_dungeon_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_dungeon_2.json"
 hash = "1a0673a8a7157c35902e05312801daefc42bde0ea76b9c9ab5910cc63295cd8e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_nether_portal.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_nether_portal.json"
 hash = "cab8d52137dac964f85812197709e7e61f7d06c5aa199ca60af32afe164d8c5c"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_stollen_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_stollen_1.json"
 hash = "002d4f4cc98ce3c8ac04b528be5e611a30361483577d5d48132d2ca7e1673d24"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_1.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_1.json"
 hash = "ea07a853a4791e1dbe7dd168059e083b45a58f52b75ef7c853ab17b507e88ad2"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_2.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_2.json"
 hash = "4a2a41287623a8f014598100c2ca7ea14eff8cb223bfa6807d39f4df76051839"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_3.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_3.json"
 hash = "c60aa005b55b85abfe2974d2eb78d8a87740ad4c8c321efd3cdea62489bb11b5"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_4.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_4.json"
 hash = "adb86087b6afba84d177a97038e8f318879fbb1aa539af248d94efa2e5cea574"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_5.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_5.json"
 hash = "e09a31cf5a669c46d925940c9311ecc7fa9bd79e254a5c3f4b1575b7ad86fc1e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/boats.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/boats.json"
 hash = "a95e0732535ee799cc072c4f8b541c6709b7e162cca7087c8a74ab82f501aebd"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/camps.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/camps.json"
 hash = "5a3880e896b8e23fcf0dfb9346d05600041970afcc0224cd923012e8570aabe6"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dead_trees.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dead_trees.json"
 hash = "43064ad3ddaa2b332044e22e3c8c53a8f126047f7d4212825d6599b1ac198d03"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dragon_fossils.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dragon_fossils.json"
 hash = "09277566897997749b7ec81923b8c48382d7291338c1c54700cc703e7e8d71b4"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dungeon-spawners.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dungeon-spawners.json"
 hash = "8bac8e7e7f3e6aa1e1b1fafb70c3d99c4c1d6fcdee5735b03eec65040aa27d19"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/flotsam.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/flotsam.json"
 hash = "6e7697de6f0b3221d99d7593835b616511c27231efc5584fbfb3ee413781729b"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/illager_houses.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/illager_houses.json"
 hash = "deaa99360aa2ef40b572c6df65a7c4a7466f52017ea45b76e340ab2ec21edac3"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/meteor.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/meteor.json"
 hash = "f7ca270f2a99b480433800b1c44a12752db6514e06488f29333063539a1aecc6"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/mushroom_houses.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/mushroom_houses.json"
 hash = "cd4b4a38cbf024aad3cc04628f189fc5ff779e924944524c2eda32b36aede915"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/nether_buildings.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/nether_buildings.json"
 hash = "43c26d622e01f1318838e305536e3f73d1659b1dc6ccea1666abe55a7c502299"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/oasis.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/oasis.json"
 hash = "3a022eb196ce17b42e8c31ad43131a5f0b7d718155673d52df6d7efa9aa369e9"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/obsidian_structures.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/obsidian_structures.json"
 hash = "4a847a3eeacbb60c09589609b84ae999d23e483e045befae95dbd61332714c26"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/pillars.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/pillars.json"
 hash = "7f099b456fa95382418121183685f4fc23f0069ab902964573593719f88b7c27"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/pyramids.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/pyramids.json"
 hash = "cbf9f21acbf2f031937700ac25d199281286de8a7735c47ad5c928c7cb46b14b"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/ruins.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/ruins.json"
 hash = "61855a7fae784047d1c016cbd8baced893adc4385946a363d7f2648044a5b84a"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/spawn_altars.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/spawn_altars.json"
 hash = "e014ef97d8d47c9c550655e863db4777b8456a1a1c1fba0aabd59c03ad0926fc"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/sphinx.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/sphinx.json"
 hash = "e62c2ddd9ad1e65e03ea351310e9200ac741cd2e9699eacc11803fc1f73f05e8"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/spider_nests.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/spider_nests.json"
 hash = "e6884a69fc073d94869a8277127d902ce1573e63347ee7bd3bb605a8dc088397"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/stone_circles.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/stone_circles.json"
 hash = "6bb55aaaf9adee1b1f1f15bd8a00d6aca4c7944aa073c84d762175aa372d2c2a"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/temples.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/temples.json"
 hash = "9efef723c9b127a8499e5b93f56ce0bbd27905eefdcc703210169f9a6005c694"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/tombs.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/tombs.json"
 hash = "f19160f7c02a843e7afa35752ed2cbe045b1854062678125a2d01a0476e08599"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/totems.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/totems.json"
 hash = "54a9d59a9d1d03d9a885bdfd62659eeeb093b354ca7881951297751dd7064831"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/towers.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/towers.json"
 hash = "374390563b593e8c124fe1c3579752426a7aeb37e3e0e97a32cc3bb09b9fa387"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/trees.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/trees.json"
 hash = "3120597834e9f07d9550a5d4ae646b7af22da54753774766aeb551ea64af8482"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/underground_bases.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/underground_bases.json"
 hash = "c67ed770dfcbefe0cfa67b2beab0f9b69a68dff6fb775978ca9c901d745143ce"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/underground_structures.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/underground_structures.json"
 hash = "4f1a920c1562c82f076d25db63c016a1ae33beb5c39fdf1b3455b08598aa278d"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/villager_structures.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/villager_structures.json"
 hash = "ad5d1e69326b4effbd5786771ef710cc329b6bcfaeec546f1e3fcd21951cf955"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/wall_ruins.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/wall_ruins.json"
 hash = "daa25e34f562ac68c32561f55fe68e0a712dba3fbf97a81f071b6723f2d2da0b"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/wells.json"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/wells.json"
 hash = "4867f229d9b90e8268aa1d7b729732a197ced60c94b50937d8b32c3a37cf88a2"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.mcmeta"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.mcmeta"
 hash = "de524d00c31b3bbb7f85f8f254b70b6d964933a827c77de89f44fa98f8abc02e"
 
 [[files]]
-file = "config/openloader/data/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.png"
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.png"
 hash = "e4e5262c5e95ee0b9c0fb196f0c1eed60afadda067f8f583474099fabd41d196"
 
 [[files]]
@@ -891,7 +891,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b32e44b08919d3c15ecd715e4ab585c3cc8d8d42cec81403f961dca3b51424b6"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
@@ -1240,11 +1240,6 @@ file = "mods/oneironaut-fabric-1.20.1-0.5.0.jar"
 hash = "a356f09b59e8deb42f3de7e3d88943b3afb2afa1242bab4268ca6f0f4fe63acb"
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "ec277331d582b3e88b3f6bed3a77f4f526689680507d718f76a1d0fd03ffcf54"
-metafile = true
-
-[[files]]
 file = "mods/otbwtweaked-1.0.0.jar"
 hash = "e95a62f8d92f3ecc064162dd05214006ef5714e116a966c5354e1ab08d21dbb5"
 
@@ -1275,6 +1270,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "de40d3845dd5c1fc91b618bb5e99662b5a5b9805b3b0e4ee345221dac62e8ece"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "58e0dcbd933909735c31a0da3009fc05276b322196026137ef39da9a50525d8d"
 metafile = true
 
 [[files]]
@@ -1543,7 +1543,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
+hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
 
 [[files]]
