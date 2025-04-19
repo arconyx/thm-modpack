@@ -1,6 +1,6 @@
 {
-  "start_pool": "additionalstructures:tower_2",
-  "biomes": "#additionalstructures:highland",
+  "start_pool": "additionalstructures:jungle_log",
+  "biomes": "#additionalstructures:has_jungle",
   "type": "minecraft:jigsaw",
   "step": "surface_structures",
   "project_start_to_heightmap": "WORLD_SURFACE_WG",
