@@ -1097,8 +1097,13 @@ hash = "54aeed25984ce2e6d9b10e408300e6ea375d18b431e7f058390e31fda985bccf"
 metafile = true
 
 [[files]]
+file = "mods/ledger-databases.pw.toml"
+hash = "d8c5d10864c6ee4a5ffdcf775ef6325fb88e6441db9c5c7874be1a6f1d714250"
+metafile = true
+
+[[files]]
 file = "mods/ledger.pw.toml"
-hash = "1a257e859329e2d0d66b48a8d3886c8517317d9c2511c45e3fc22b28062993d1"
+hash = "84defc8f8116d5c0e4210934ed1f555641a1db71b767fa4beddee21c47118868"
 metafile = true
 
 [[files]]
