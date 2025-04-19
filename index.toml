@@ -66,455 +66,471 @@ hash = "1c02dff518f8c05b0fe61d9fbc9aa0d5eeb7059b07ae4ad92024dad203da11d6"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/badlands_or_wasteland.json"
-hash = "3bf88db766ef09a969b87d77a46ec390ec56b0103b740627895a4d0f6cb81a59"
+hash = "bc301d87649033b85a5acacb58c6afbe982334f7ff05eb228861e7985e6dd027"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/generates_statues.json"
-hash = "7bc363f4d6905721cf4eda185efd69c58fd85701b63097e4dcf1e33db64f2ca8"
+hash = "d8a2bc0141c26e1578cb95fed1111a1b421dead9a0e7336c0d7b9a7cfdea6a73"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/generates_underground_additionalstructures.json"
-hash = "b87255db07a5132f511c478c7b265c86add39226b318ef5ff506184fdc1249e9"
+hash = "33f7ad9fb531c7b89e53175b8757d6cd8ad3821b104e828659561deec3543743"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/grassy_highland.json"
-hash = "9a92571b3d1ef8f0e104982722b1b47fd0aa5ecd06298caa9f197c261c6984f6"
+hash = "44018e89b285c780b0d0d5954508f5ecd4ef2c9dec578b6258e3d91611b329fd"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_acacia.json"
-hash = "504ae49c65286ed6abd10658b446912edd7bd8d7298795375ea3615ee3063845"
+hash = "9c62e35595f230f3e6ae6aa129c37944074f2524fda716d8ad2bfa23bfe934c3"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_birch.json"
-hash = "f95401f6f2f2c89695ba15eec12b11ca65397487f1dddf8a620f2be721683150"
+hash = "c113926d3f129a874a63e7cd9edd07f8dfc12789d77e00d5cebeb04ccc1eb8fe"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_dark_oak.json"
-hash = "a1b9c2eef9a290974c633242b2afb3f0dfb58671336e433962651f74322268b6"
+hash = "6d82fc87e53115a5408af52e4ee85a95210c0ec819ee490dd843c24b10d160c1"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_jungle.json"
-hash = "9d8566b9558fd875f5336b0b74a2eebc6c2b008c54326962e2146bfb9ea64c1a"
+hash = "b6eb262d0ffe200515d01d087c3eaf5129af44620e2cb757ed7f90e5f14d3ce9"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_oak.json"
-hash = "151dcaeec7e0802b3ebff0b410e7c2650709d96eae41a4cf6152d3b6be65ec1f"
+hash = "62a06cff962a1fd771eb23f43b7a3f3dbe4221255d824b6d4605374bdcbc06f9"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_red_sand.json"
-hash = "cfae25d09d59bbb5f4ac2aca20c90b783425a8727e71a01fe73f632fede456a6"
+hash = "6d5011f32982e154e607ceae03cf2175fa9eeea5513472a075ccd7a810bc04bb"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_spruce.json"
-hash = "379fe3ccab55ee5f07912a7203663fa05876656731a826811c4025e3c12c9a9c"
+hash = "310f825da00060acefeaf433135cf6cabaa54e8cc8447943106cd7bb9e151462"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_vanilla_giant_mushrooms.json"
-hash = "6433492ab23a7304f34a4d35ae99ac0295ac0deb3432592158fbdafd5a9fee25"
+hash = "2056ef1c45be08bb9a04e3fbdeab07d451bf55cc617bdf8c0611306ea9c61ddb"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/has_yellow_sand.json"
-hash = "32d1055c34bb2094d93c88e9bc149cb3864207069b813f35e5f364082708a845"
+hash = "a6c0bc18c01871a03620b5e0acc68db1b025367136cd74391d15a5a71233acca"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/highland.json"
-hash = "c17c30c545010c62d613a1c1fd0fd9f5c9dec7df6a77ee3a3453a0c1985a3063"
+hash = "33ef752fe23727d2fab6a1fd4be6da997fb8f1881008e1fc84b63196861ed821"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/yellow_sand_desert.json"
-hash = "e84ba0af78ca75adc9d6dd54a63f25f38d12069f44106dab5c6ca5d0e72e9f66"
+hash = "6704625a57d683a1f2c7ef6fb6299c70f954c1b38adc47c3c1ecfeee6064378e"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/acacia_log.json"
-hash = "fd59b8a57ff327f56ad09a6aa60fb6f241c7ab5733cee17f82952fd76c16ff7e"
+hash = "a9036ae91ee448c374718a9d706ed9e5a0af7ee2a1e7078734e57c39b5ef567b"
+
+[[files]]
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/big_jungle_log.json"
+hash = "5b85750af4e117620c626f77e31fb412df556da9881f343b07e0e3e2d830e7a2"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/birch_log.json"
-hash = "5284ec4cd52227d49ae2ddb410c30897cd0b84a26dc17bfc498fd32e9886636d"
+hash = "c2037cbe9da9c260508dc1c15bc11c786dd324d6752310e2c1db9fdb8c3fc8dc"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/cactus_1.json"
-hash = "9ad47249f2bd6c5c74149bc3e04ce090dcb79d14d5f2b8f1634be2e14893ebff"
+hash = "23404073b501aea21057afea19c58ac7d46e9980efaa1ff7fb602ea942f178f4"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/cactus_2.json"
-hash = "a26c46fc91d11352d876b7fe3a3954cff1f4a347c96f84dd4014d565b8ef4274"
+hash = "e7ee2b43000f4ef0f24343cf5543952958ede0415615b9df920a8af6d5b779e2"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/damaged_mushroom_1.json"
-hash = "957dfe83d8af5027b0b10c4a010b1107052630642dc13654cb9d41f1d645e193"
+hash = "6fa98cdffe4d1d12389efed2696f9ca50602cea82400a17ccc902792e7f4ae5b"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/damaged_mushroom_2.json"
-hash = "4add3b38d3389685f0b294319c9615cef0c0611755448e43b941c2b647264019"
+hash = "aece06bbf2f466f22da481a25aa9f994fe6a0c7ef343d84d8cacfd5d0f1bd6f0"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/desert_tomb_1.json"
-hash = "66fafb843cad63b5fdc732be358ba5558d0c8b0a6596bf0244c8b02f587e84fb"
+hash = "139997cc425fa53bc1229558f395fa171c1bc5875ddf347d7bdcbc57a5c04546"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/desert_tomb_2.json"
-hash = "782fbdee9f01a073b2e47643f5202e1a7c26784fdfb52ac4844aaa0b2128be92"
+hash = "b0f2cafe5f3081371e429a9baf2890c6d635372a401f1ea30341ff3af6f03ddb"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/fallen_oak_tree_1.json"
-hash = "5a111e1499d26d1e776557e69512166223bc3829680d1da7588ee16307ae2b03"
+hash = "b54fd69222eaa24ddada4c0279d6498bbe600930c8ce8c110278b28b57488f33"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/fallen_oak_tree_2.json"
-hash = "2d4abb5221ca637e3b611aa310fe3a474f3d071f407d671c68ec2a285f84ab0d"
+hash = "db3edd6c1e65303ea242c2a19714b7fd609d23b100806ae5861e162e33546deb"
+
+[[files]]
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/jungle_log.json"
+hash = "fc3dea3f852395bb8fba7ed317caf85ce8323d1ccf96add44e50ed4dbd64e205"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/mushroom_house_1.json"
-hash = "9f9310da73cabc977636cdee55ab52551640b68711561c11a244061f9bcee42d"
+hash = "4272febec89610909c97252b5faba56f889337e80763b2e91101024506296860"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/mushroom_house_2.json"
-hash = "1e13361938fc936b19227abdd102ea314c949b0b1a1b7eaf845f04f3557f6ffb"
+hash = "b58c075f4339077c8f6cb09aa13607f9f0a229eba1f5655f4a64abb8b936cb2f"
+
+[[files]]
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oak_log_1.json"
+hash = "d764f02c6ab27b06082e87849e6bb94412108ecb7b2989a6df3b42957161ad34"
+
+[[files]]
+file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oak_log_2.json"
+hash = "938ad4220e20a03b9d12cfc74010cb104958d554bf52bb1ed54ff71672ea2e43"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oasis_1.json"
-hash = "96412f598a7322a3201214039ea1686badff476c33cdfb926830176609de773f"
+hash = "ae785cb3f389c0095ab9220fdcd564432f53c44166e5629a8ca9cd2bbbc1fdd1"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/oasis_2.json"
-hash = "407cba8a3a9e7380189f994817ae3d7720f98d96a1a19ec352260c5ae52de797"
+hash = "d9e5e703ed2559f83dbb2caccf239e87f96bfc7f68065894bc97cb15a10eaa44"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_1.json"
-hash = "230ba06390fffcdf0c36c571f38d9b9ce9985480f78b4b59b8c8098ae3b62d9e"
+hash = "18d799451f00cbabbf944df1aec2bc6ae4312525bd445b65abcdbc6be1f9b27b"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_2.json"
-hash = "57ab7ee1b6b8e4bf9fb947fb2a6eb9fc52267ddcd27625661b4fb4d2706ee491"
+hash = "7a551c993916915888e5c85467750b72ac942ba02487b3af60b4b7c397aaea3c"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/pyramid_dungeon.json"
-hash = "90da31e42f2e83ed5b87b15bb72372bd26880941d8769c59bad033239f1e736e"
+hash = "b813c1ec208747a3a8f625295d6a27e0728d5eebb71f9b0b872ece1c8ff2cbff"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/red_sandstone_totem_1.json"
-hash = "b893b13c748ae1ebb1a429d6746066e584905d96c0cea29e8a5ac1291b947b5e"
+hash = "0729359a0caaec9c4285486140d9574b41ad091926e294989cfb9867861d2213"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/red_sandstone_totem_2.json"
-hash = "64ab720d434a91c3ea259061970edc33984cf81ca04ef1debb441a9fec8ff64f"
+hash = "e8fdfbb1176d57d04ab6d04a744a1080f23482a660da04f5925ada00d0d75a60"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/ruin_1.json"
-hash = "bfac4654ffff78036d355f8eb0b529c8644409f22814d6910ef8f4cc2f1282e9"
+hash = "4cd8f5fb00f309996f1e178c2a54a7f58d2f1d36795ced6477b6e5568cf56f2d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_1.json"
-hash = "0916dc82e95b961e845a993ad4b18ae42c7f53466d2c59ae69138a20a907bd8d"
+hash = "66619a3b41b54ba83ed6c679ec6c9ab3ec96eab6d30ab48ddcb3f16449b37a11"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_2.json"
-hash = "d72714d8013a0cdaf65142cb5b6cd86e0d97dee5bbda1cbfb255394de67e5094"
+hash = "734ec7fe2f0e9c9cd2688d343c668f7189b3eae0ca69c86de417447748f9f2bf"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_rock_3.json"
-hash = "e4457ec6617eb31be6c3535479b72c99485fddb91df0860868e103c37e40dadd"
+hash = "04485158a76e24590ffb5355e19a032e270dc5b427239326bb1c9c02acc05b20"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_1.json"
-hash = "85a358bbc1817e1876e3291fffd2a6e2ed56d13cdf1136ae678f4550f41f02ea"
+hash = "f613adaa64b58b1251b4d093fd5ed611ee409e80b74339185b1ed668125d3888"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_2.json"
-hash = "07acd6174442a69fe7c5b504a2ff27d3f6f9f66c153332f1990b5dc271aa8320"
+hash = "d152ff92988b2e58f5b5df37c537d5d834b42972ec02215df76ba185874eafa5"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sandstone_totem_3.json"
-hash = "3fd0549b5abc6dc876dd7dcef59efe056f68e69979925a355bfa6ebc7c2d27a5"
+hash = "459db9fa9b2ff98ee1fc25a9d5fe11b52055f15ea09b2cab731a35d1423c7b30"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sewage_system_1.json"
-hash = "80f92e81f2d7637dd645c0bb84a11485ffd4f5fe71913e97f00ca0d39c274f85"
+hash = "66eeaafae2f844a052c56ef7fec689121bdc58a90b97b38da227c15ece8e9468"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/skeleton_skull.json"
-hash = "804d77720bdb6f55f24f8c270cd6b36314feecc1dae33376329f6d775044f390"
+hash = "2405f00915d4f1ca5578361033a0c4a0219a4e5e6f0fce199c1908fbc5cad1db"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_1.json"
-hash = "661b730c3ea5ca956cff021595d13164badb091a299cb2e7249c54656e428008"
+hash = "7b6af020236fc3d3e612139ce78e24213b5befa6da4672324e8e40807d3f1715"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_2.json"
-hash = "6840f9fb8ef00da62ffb0a43e3b7ec8d875c5162672f31c29f0f468913450057"
+hash = "0c16969c2e56e2de288ecf35595af778f84039b894065864ea2258bcc91c0597"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snow_pile_3.json"
-hash = "5542c3a0604b63d846b908e712624f4ff7273179b7056b397c0351df965637b6"
+hash = "28bc4d4fe8d4899154ea4bd6df407c2521b8eeec4357fbe35d3c1a8726fb396d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snowman_1.json"
-hash = "24525a87606ffba91934869e372d45e9319f8af11da4518ccfe82cffea3c0694"
+hash = "14af5b1f908c2ecb56221427c5692f864fec504a501c03b3d53979593c5f57ea"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/snowman_2.json"
-hash = "7a8df593b0f8b2ef0c3463db6c9c1b12f3cd508cfdad6333b09945daa1419de2"
+hash = "076bb942f4ac2ad0a567b4eb69c77dfd5d54ae6eefca5756f268b91837f04a7d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/sphinx.json"
-hash = "4d3d7042b61ef797bb30640c8461457261650504f50273c8f635b198838e46b2"
+hash = "57d396c17bf103e9151042f38b67def7ecec2a24ea7631158b1e46c13843636d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_1.json"
-hash = "6231806e8331503c31c265e3a00a75d3ea9ca45b1878ae2700ecfc69df225657"
+hash = "fcda511d9587dd1e5ec1f817743f2e6d7123f30eceb077e288c232a3c2fe552e"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_2.json"
-hash = "53226c45f6354f3098409fe1b658ecab0f7eff36e7735c61f2b75fead25506ea"
+hash = "a4b3f88737b8e4307072c88304565b911cdfb4ac80434b6cd7bd9b47c8145fc6"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spider_nest_3.json"
-hash = "807ed19ff4136f599f1ce255f3140a61ee675685e8e15426848a2ea13c91bc14"
+hash = "5990e8dcf3b5ee7b7d67ceee0216f48f24456f7c3c34779e4cd75114cf04f07f"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spruce_log_1.json"
-hash = "832e687abab0086a41e0061e7e32ac6dfb46e97d769afc694a094c0e07206f1f"
+hash = "a708641248ae0f25c9f6895a2999093a0173ddd4984585963f34c946b344ff8e"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/spruce_log_2.json"
-hash = "eef03f99c31bd2e458bc4bdd11f6dfa05e2f147e5883e8beb6240550a5e98c32"
+hash = "0f47006484b729e8dfbba94a9c7f763efc606bd812df69ad9ce6d9c6d9930b67"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_acacia_log.json"
-hash = "f60744f3254d98ef539d22034747f0ecce5a2f64c9e83840a12b09dee0253012"
+hash = "fd02073990fcb5f08d089a7efea6311640c64004cf31545fede588b5e505db23"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_dark_oak_log.json"
-hash = "2600a3a129d7b12ccf78e72519b973d986bbe8d595ca26f098a329cba68e6f00"
+hash = "3f1019541e4fc5bde2856b8b9b09f3c3bffb090910c42279607b33b2acc75d44"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_jungle_log.json"
-hash = "af26ea528386b513e62b4346bd71bfad34c8cabfc67e117da89d4f30d0dbe761"
+hash = "7c1bb545cc05f90e58e20ccbbd60b2aa7144ccc394e0567badd884833af6f5ee"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_oak_log.json"
-hash = "468e6ef90a2845d7a81078ed705d092424392bf34846c55b33e47ae04ee9559b"
+hash = "0a86825fb32bfb8359d714fb95932fc06fb89829cb2f92a09fdf25932217e1b6"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/standing_spruce_log.json"
-hash = "d2e50ade3eba59ef8278a2e76c6d3fedf3e311c7d2fbac2818d70a641661580a"
+hash = "18b4b2cfd413c0c93d9ee9bcda4526b3a0c1062f43da00cafb67d1de8ca188b9"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_gravel_patch_1.json"
-hash = "5acbd9696e7696f3b1d055cbed0581bc5a1170f137978561003feb7666fcc98f"
+hash = "a048069c49e47eaf697dd2ace7e2c51554147d021a8fbbf5ab2591f5c5b86c2b"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_gravel_patch_2.json"
-hash = "aa8155110f484ec872ea0f69f1c07ec5c13a4f98ea9e5ee453aaab31cd871e08"
+hash = "2a7f83203129e2289720b576642b6420cde39d4620da4550b1ff35d735c23b67"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_1.json"
-hash = "58f8d2ff38f9cf052de6da0ee9c73fe729e8d8c2f13eb7975e0418a86e2cf90e"
+hash = "f9a3fc42b83011c853c60f5bbcad0fcf0d13f61fa7440d8069b8c0c514ac4366"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_2.json"
-hash = "f48eafc95eff01cd68494ba67e10f2f8fc085df56d3ca4bc50a988e5e2620675"
+hash = "6a1af33b6e284aa688f37671be8d7231a0707d6152863de20d16eac96732b81d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_3.json"
-hash = "086f9069adc98c2d060ccd478dfc3882918868c7f5a5f16591740db2d8bba449"
+hash = "13160b73f4f33f850d5b2ba75c857cca9cf2dd18ab9de23a3c6ada0c84b034c0"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/suspicious_sand_patch_4.json"
-hash = "340f019fc1ccf905a83490d73681e09dcabf642785540ab3831b1f69b5831ed9"
+hash = "54b45721ecd037457362a542ed14ebc7b20ed567146dc06deb88b9085687c0c1"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/temple_1.json"
-hash = "4d80632f68d1ce1fd79dc1f857b11cd9bd584baa5cd9646e7489cd5f85532dc9"
+hash = "b6b5af3a0e4d1011034f6ad56db0aef32375b278dd779731ef6bcef73f669782"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_1.json"
-hash = "7d7a8aa06a6d6ad06755b59974ce1d4e902fc3729f17d77f6223f37f0159c8a5"
+hash = "994ef62bc9f115fd10a9d19545c1ebd171b77aff631d8ab0f11aa1a29e495235"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_2.json"
-hash = "6d102c727a1eb196811c6b7399b97bd2fb3eef0d534aa9ee1f01e2af0718fb7b"
+hash = "6a42f4293ec9fc8aaffc8e8395033df6495b1b3fcfef25f7e30fb28f28a3976b"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_3.json"
-hash = "4e8e1ff4acc6a7f5a4b57b644cd8055979c347665eb05f67d0865b2c834ebd1e"
+hash = "73524eae9099726fcfe9b5a7e930a7e2c359fee71dc612a8e384d4d2bdaf6056"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tomb_4.json"
-hash = "2de07bd9754527396b1ca1c623f376a10b3f74f2d18c2ed653c22a9e5e64b73e"
+hash = "60ecdd1015f7b132fc8632e55cf0ae4864486892aef9c02bc5aac4714ffe1e37"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tower_1.json"
-hash = "f8dd8f52fd1182346d41518fe6de1858ab27d1325bda92bd3910309edfc79a50"
+hash = "64429b6fc82afcaf4e21cb65b7589246567f9e9226a505cb5e4b6377f73d9605"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/tower_2.json"
-hash = "01b80ffe894aeac7f1fc6f244f24ebe02087cfeb07613bbdb0c5ec3042e7e7ab"
+hash = "d7ce548662f017cbde5237517256a6d39ef98fc39d852996fe988b63b48ed879"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_base_1.json"
-hash = "91687bfdcdf9ec32af8954b5fc426236b2510bbacf4710da1f239cbbb946c941"
+hash = "6579c6eb3e1dc783f9402c5c9b7d7181a262ea60e7c706fda1bc7dd163870553"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_base_2.json"
-hash = "3ebb0321777d6a06dc08be13a7cd9b149566798545922164972ad40a25e04746"
+hash = "a01b120f336756da124293872849c9a13af962853d71c61a37d8c418b138b86f"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_dungeon_1.json"
-hash = "d189c56c537003ed7129e2c176334d1fb800af569d14a4397c1b031a3a3f99dd"
+hash = "bd4e8b6c764e1aaf4770cd77e1b47a4511aabdc38bd51bb52bc3de8ea22bf831"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_dungeon_2.json"
-hash = "1a0673a8a7157c35902e05312801daefc42bde0ea76b9c9ab5910cc63295cd8e"
+hash = "0221086e09d9993872453dcde3f89f4df854e77c2ae186975cdc72cb1030ae97"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_nether_portal.json"
-hash = "cab8d52137dac964f85812197709e7e61f7d06c5aa199ca60af32afe164d8c5c"
+hash = "50874451ba3db0690525f27b12baac5a2803482bd48433dfb08ae7dd7e14124b"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/underground_stollen_1.json"
-hash = "002d4f4cc98ce3c8ac04b528be5e611a30361483577d5d48132d2ca7e1673d24"
+hash = "ea71429da5412cc9bbe8373759455d04c88b55d76b5512ccaa57ac63285b8e25"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_1.json"
-hash = "ea07a853a4791e1dbe7dd168059e083b45a58f52b75ef7c853ab17b507e88ad2"
+hash = "9dde24630edd444949f8ccbfa7f77cbe6667f1420b13f9cdcdb5c881d2b52add"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_2.json"
-hash = "4a2a41287623a8f014598100c2ca7ea14eff8cb223bfa6807d39f4df76051839"
+hash = "8f6de182124b91a1051de81c1eca61dcd07d7d8b0f8f4ce38f535a4fb820adbf"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_3.json"
-hash = "c60aa005b55b85abfe2974d2eb78d8a87740ad4c8c321efd3cdea62489bb11b5"
+hash = "333cfc6aa24e4f40e59326bd4f2f5823470546e98e19a27b5104f2b737ab6e00"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_4.json"
-hash = "adb86087b6afba84d177a97038e8f318879fbb1aa539af248d94efa2e5cea574"
+hash = "4300909bdd4dd5c2d45d7d0b68f1d51379ff3cc8f2488e252a9406dcb1967605"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure/villager_statue_5.json"
-hash = "e09a31cf5a669c46d925940c9311ecc7fa9bd79e254a5c3f4b1575b7ad86fc1e"
+hash = "a3d31233ae4da3b9badf24a6a483beb8d838fc92fcf4f73c5b2e8173c3555aae"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/boats.json"
-hash = "a95e0732535ee799cc072c4f8b541c6709b7e162cca7087c8a74ab82f501aebd"
+hash = "537afbc104c3a956a7424f44e944e92de73638409e59c5f1cd239c85c55dd178"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/camps.json"
-hash = "5a3880e896b8e23fcf0dfb9346d05600041970afcc0224cd923012e8570aabe6"
+hash = "80dd75e6fb108c86dee0348eb03da874d9650e93c0ba7651851ccc1520d487dd"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dead_trees.json"
-hash = "43064ad3ddaa2b332044e22e3c8c53a8f126047f7d4212825d6599b1ac198d03"
+hash = "53f61ec07028094c03898b3155557d1e0012ea939fbdb22d8db85b9d65027803"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dragon_fossils.json"
-hash = "09277566897997749b7ec81923b8c48382d7291338c1c54700cc703e7e8d71b4"
+hash = "1f5459c16d18064e1743f5c42782e2557962d8ab90faf3fc312103c36740613e"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/dungeon-spawners.json"
-hash = "8bac8e7e7f3e6aa1e1b1fafb70c3d99c4c1d6fcdee5735b03eec65040aa27d19"
+hash = "944595703ed3032f5dba9a72baab7291126df50a2dd19aa2b2f06db174781e18"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/flotsam.json"
-hash = "6e7697de6f0b3221d99d7593835b616511c27231efc5584fbfb3ee413781729b"
+hash = "b065b522337af981661535d39523ae928f14bdc8b37fb6d0d7a5c45599cb811f"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/illager_houses.json"
-hash = "deaa99360aa2ef40b572c6df65a7c4a7466f52017ea45b76e340ab2ec21edac3"
+hash = "c90a578dfb7b02a43d449b39c1c5f1d660547c1e5d7aa9dc0ee6295b785a2da3"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/meteor.json"
-hash = "f7ca270f2a99b480433800b1c44a12752db6514e06488f29333063539a1aecc6"
+hash = "ecdd136950dfb1ef81cd6c648df2f21edde8c6905263b92c31476b64682e770d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/mushroom_houses.json"
-hash = "cd4b4a38cbf024aad3cc04628f189fc5ff779e924944524c2eda32b36aede915"
+hash = "f443d0f0dcd5670b445bb760666e8ed174b65f8e17c618c0635e1430ec73153c"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/nether_buildings.json"
-hash = "43c26d622e01f1318838e305536e3f73d1659b1dc6ccea1666abe55a7c502299"
+hash = "517ae671087e202042827f701a0d2a6379a1370e49a66f38476537911d350c70"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/oasis.json"
-hash = "3a022eb196ce17b42e8c31ad43131a5f0b7d718155673d52df6d7efa9aa369e9"
+hash = "7ea43a755ef17f993b3da514213fa0d85fe7540e91ac434f6a0099e0bcb98eb2"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/obsidian_structures.json"
-hash = "4a847a3eeacbb60c09589609b84ae999d23e483e045befae95dbd61332714c26"
+hash = "65d17d0f2a60daa38376e8c986fcadb2fa4425a7c7d164e90bd600f593333e02"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/pillars.json"
-hash = "7f099b456fa95382418121183685f4fc23f0069ab902964573593719f88b7c27"
+hash = "4e1d1ea95de93bfc04c57e58256f4bd2bb406d685b4f5d342c2c8369ad338860"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/pyramids.json"
-hash = "cbf9f21acbf2f031937700ac25d199281286de8a7735c47ad5c928c7cb46b14b"
+hash = "e4bbb90b3c98cc64fa00c827b1925bef869964787bbbee261816a23da5091c5c"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/ruins.json"
-hash = "61855a7fae784047d1c016cbd8baced893adc4385946a363d7f2648044a5b84a"
+hash = "994dd6d1281565891fecf688d7bd1b21fdb511df80a44f7ef6b74d3dda5b4610"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/spawn_altars.json"
-hash = "e014ef97d8d47c9c550655e863db4777b8456a1a1c1fba0aabd59c03ad0926fc"
+hash = "b94f493d45d860f96fcb2e61f724a5102f35ad8b36c10cb4f3480d11c44b0e73"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/sphinx.json"
-hash = "e62c2ddd9ad1e65e03ea351310e9200ac741cd2e9699eacc11803fc1f73f05e8"
+hash = "dc4e7c614629d991f6fe23196b73f976e5f6a085d819cd98aaf7ada834701d55"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/spider_nests.json"
-hash = "e6884a69fc073d94869a8277127d902ce1573e63347ee7bd3bb605a8dc088397"
+hash = "cdf12f8dbb6623c8a722c13a8a306a0531df454db88ef96c84d4bba3c95eaa56"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/stone_circles.json"
-hash = "6bb55aaaf9adee1b1f1f15bd8a00d6aca4c7944aa073c84d762175aa372d2c2a"
+hash = "25d3e87b794de82b09e41888a0c82449c201c9dd8e9a43414934dca6a0dd3d13"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/temples.json"
-hash = "9efef723c9b127a8499e5b93f56ce0bbd27905eefdcc703210169f9a6005c694"
+hash = "1126e8c0c07181735f66ca84cb8325b910f4f49d9da161583e65cf7d4a9431e7"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/tombs.json"
-hash = "f19160f7c02a843e7afa35752ed2cbe045b1854062678125a2d01a0476e08599"
+hash = "e287b3dd1fd154c14fd2fb6883f7f0c06d265278fc6d3f18271c1d3a85ba0a9d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/totems.json"
-hash = "54a9d59a9d1d03d9a885bdfd62659eeeb093b354ca7881951297751dd7064831"
+hash = "e75ccad631dd8d4de66d8117cc5d378853873ac8a2bef1f5f318aee1126004c9"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/towers.json"
-hash = "374390563b593e8c124fe1c3579752426a7aeb37e3e0e97a32cc3bb09b9fa387"
+hash = "86179cae21299da60a8c12f6da32ec9c1f3e4581c432c312e01cdb0d726d0fb6"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/trees.json"
-hash = "3120597834e9f07d9550a5d4ae646b7af22da54753774766aeb551ea64af8482"
+hash = "1ef3a4f9d60ef6e6c78718fe154537a7363fdf38441a0cff2012d40c58d23454"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/underground_bases.json"
-hash = "c67ed770dfcbefe0cfa67b2beab0f9b69a68dff6fb775978ca9c901d745143ce"
+hash = "79d86d081f9d58a108581e2ca9f15b9b34597a49de64bd7464907b916dc6a97b"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/underground_structures.json"
-hash = "4f1a920c1562c82f076d25db63c016a1ae33beb5c39fdf1b3455b08598aa278d"
+hash = "24434b447534b5b718ca18d2d8eae0f3ce7be007a2d26ba898c0664df1871e87"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/villager_structures.json"
-hash = "ad5d1e69326b4effbd5786771ef710cc329b6bcfaeec546f1e3fcd21951cf955"
+hash = "1f532245aec09815ce0aff78bbfeecc9fe9b21fda76af69862051a8fae7be233"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/wall_ruins.json"
-hash = "daa25e34f562ac68c32561f55fe68e0a712dba3fbf97a81f071b6723f2d2da0b"
+hash = "1e0a5d3d200545a47cf80b8a7a1c76ec48275279b2b062ee5789b0e2ee120196"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/worldgen/structure_set/wells.json"
-hash = "4867f229d9b90e8268aa1d7b729732a197ced60c94b50937d8b32c3a37cf88a2"
+hash = "ad13a48968b6f8a706021fbd2e1d69d3026ea4cc49b10dd39bcfa62c606041e6"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.mcmeta"
-hash = "de524d00c31b3bbb7f85f8f254b70b6d964933a827c77de89f44fa98f8abc02e"
+hash = "ed4107781501f6568540dd682dd4d4386260acc55067db8275ed7e8f7dfb4f2d"
 
 [[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.png"
