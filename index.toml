@@ -1308,11 +1308,6 @@ file = "mods/porting_lib-2.3.9+nested-loot-modifiers.jar"
 hash = "771a0fea8cb9177e1257493f1bd444ee984f1c924b8c38557348a26536b1c6e4"
 
 [[files]]
-file = "mods/pride-moths.pw.toml"
-hash = "709e9ebff963680a4b7b5af87c2d35f003ef184d18b429fc9fa33357e06fd8b5"
-metafile = true
-
-[[files]]
 file = "mods/profundis.pw.toml"
 hash = "b94bb5326b086afd3c2162406191b8bd75ee866dc7337ddc227f9e88c713016c"
 metafile = true
