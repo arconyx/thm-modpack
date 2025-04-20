@@ -9,6 +9,10 @@ file = "config/Spectrum.json5"
 hash = "96a8055e4eec773d764ac94384266528882cbca194a78884ff2d64a84d0d6a44"
 
 [[files]]
+file = "config/amcdb.properties"
+hash = "0e18e6b8a1f5620f35131b7a153d3c646c47e7aba1cb68b0f8f392e3d05d51b7"
+
+[[files]]
 file = "config/bclib/biomes.json"
 hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
 
@@ -586,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "1d5e1d9123f2bcc75407ada82e0989ef84c293b656aedeb6d876fba1494d562f"
+metafile = true
+
+[[files]]
+file = "mods/amcdb.pw.toml"
+hash = "f207b7283524d5c8b8964595bca969d77ffe6db8c6aeaecc71c8c06f9fa1a51d"
 metafile = true
 
 [[files]]
