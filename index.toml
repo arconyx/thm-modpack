@@ -636,9 +636,8 @@ hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
-file = "mods/bclib.pw.toml"
-hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
-metafile = true
+file = "mods/bclib-3.0.15.jar"
+hash = "5359d29633604037c371163c32e30631c0f19818129c70dbbda04cb4b77b5e74"
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
