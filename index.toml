@@ -37,6 +37,10 @@ file = "config/bclib/server.json"
 hash = "08c500c5920acffef2fe2eee5672f06670d4624f39f9920101f2b74ef405ebb5"
 
 [[files]]
+file = "config/better_log4j_config.xml"
+hash = "4cd54ad7e6f4296fa76b878c924a8ace61a36eeb21373e076d43b307a03e156f"
+
+[[files]]
 file = "config/betterend/generator.json"
 hash = "23bc0018ddd33f04aedd4dae697f7adb66cac431ff5faaa60fc02d76392afc2e"
 
@@ -654,6 +658,11 @@ metafile = true
 [[files]]
 file = "mods/better-end-cities-for-betterend.pw.toml"
 hash = "0882839a5ca890164e26948ad8dc6e3aef3e15132d0c357d63ac28e0128b1a12"
+metafile = true
+
+[[files]]
+file = "mods/better-log4j-config.pw.toml"
+hash = "989b845e6ccf31bd1462e0b243b034594abe1fc92a963f28b4c32dbc66d7c93c"
 metafile = true
 
 [[files]]
