@@ -542,7 +542,7 @@ hash = "2511a89805ce365930d1f610ef2c21aa410f9c32a5679b958a73b48763601738"
 
 [[files]]
 file = "config/soulsweapons.json"
-hash = "0603735ad1f5cb757d23dcc8a8c8d071489279e0372e765aaea0b9c1ca96a154"
+hash = "9ec5e674e256c5e0663a77c46dfaa0ddbb84f9fae393590d441576aa18859c97"
 
 [[files]]
 file = "config/supplementaries-client.json"

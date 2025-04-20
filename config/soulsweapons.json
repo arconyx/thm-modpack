@@ -719,7 +719,7 @@
   "enable_shield_parry": true,
   "shield_parry_cooldown": 40,
   "shield_parry_max_animation_frames": 10,
-  "shield_parry_frames": 3,
+  "shield_parry_frames": 20,
   "chungus_tonic_can_use": true,
   "chungus_tonic_ticks_until_chungified": 300,
   "can_chungus_barter": true,
