@@ -10,7 +10,7 @@ hash = "96a8055e4eec773d764ac94384266528882cbca194a78884ff2d64a84d0d6a44"
 
 [[files]]
 file = "config/amcdb.properties"
-hash = "0e18e6b8a1f5620f35131b7a153d3c646c47e7aba1cb68b0f8f392e3d05d51b7"
+hash = "e0051d34898f6c78bc39d94b9d41e619d23965ac48703b04a2acd0b6cf9812ae"
 
 [[files]]
 file = "config/bclib/biomes.json"
