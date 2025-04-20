@@ -594,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/amcdb.pw.toml"
-hash = "f207b7283524d5c8b8964595bca969d77ffe6db8c6aeaecc71c8c06f9fa1a51d"
+hash = "500813cea59deae63da3a186f0aa735a0370b1801a0510aa0d99731e92157d63"
 metafile = true
 
 [[files]]
