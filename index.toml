@@ -749,6 +749,14 @@ file = "config/paxi/datapacks/lootr-better-end-compat/pack.mcmeta"
 hash = "c7f276dd70fb9152dd7a6de68b1c48b925050b4082d78088bc5c9d372e3fe504"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
+hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/pack.mcmeta"
+hash = "2ba917efab092309975ef4b00f9e257cb7e598a31095557aff4964b3a16faa66"
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "2511a89805ce365930d1f610ef2c21aa410f9c32a5679b958a73b48763601738"
 
