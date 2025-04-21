@@ -786,7 +786,7 @@ hash = "8d8f6d76b9c88a392dc365e45fd039a080de69d4e5a094b323cc48c7736c7a7e"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/smelt_flesh.json"
-hash = "f7c68a0f0c9bf8e2c908b346315f386f872ddc88c4a09eb43a21f2f664678cf2"
+hash = "0082d60cc6e5211e0d73fad875d6a6817a5fc3536eb0734a44fffbed585098c4"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/string_recipe.json"
@@ -822,7 +822,7 @@ hash = "3872e5b9fc0f34131faf74f8257e60e1dc9c2c805d57282beffd0137beb29a65"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/cobblestone.json"
-hash = "9243bb0f6a0e6b0a1b69cc6a02de7fd376e0bfa8b89435258e00ca728ffdfb5d"
+hash = "ec750430aa1e665a2b311feb123551ef0478b215c7c7682ad783966583c5b0e6"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/mangrove_log.json"
