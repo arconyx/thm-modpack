@@ -10,7 +10,7 @@
         }
     ],
     "result": {
-        "id": "minecraft:phantom_membrane",
+        "item": "minecraft:phantom_membrane",
         "count": 1
     }
 }

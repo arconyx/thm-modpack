@@ -774,27 +774,27 @@ hash = "e235422a9007b624a60b1d36cbbd8bcd745a11a932a73c1cceb6bf713cdb4351"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/dripleaf_recipe.json"
-hash = "b69f1839b237d73b0f2dc4c9a6adb5303af20632e60e6d4e4720b050dba40a4e"
+hash = "3c4edf25d578e6fcee9506fc3ec71d0bcadd2d6ab03f2ee2a7c0c26431cadc7f"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/phantom_membrane.json"
-hash = "6a7109ad73cb8f25c6d2f099cec7c49aa04d408c785dcba90b1e7295960858e7"
+hash = "ceaa212945847af90f61fa8a8e35f4ff163c19fe221a950596b1e821f4ca9137"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/saddle_recipe.json"
-hash = "8d8f6d76b9c88a392dc365e45fd039a080de69d4e5a094b323cc48c7736c7a7e"
+hash = "bf4699b504fd50b0b1335774278752f5c4ce4abb97ef67370e2d539c424072c6"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/smelt_flesh.json"
-hash = "0082d60cc6e5211e0d73fad875d6a6817a5fc3536eb0734a44fffbed585098c4"
+hash = "2c29bbe42ee62d4925645e98e12520af1ddb0a337bf3fd128b5a77a2b60e14d8"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/string_recipe.json"
-hash = "e353f8a975d3ae7e140a71c03d8a5839e36488d613c031ee002de92fd9ab3179"
+hash = "aa7873f23c009c812b03790d03a98284b396a8fea6133e1fb539b476cc550139"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/trident_recipe.json"
-hash = "d21f3b181bc0a142e4e566fe502f8adfa2966891c72b5a9873c64135b3af4ccc"
+hash = "9b43a056c58f7869423d2db3b2405f4df0b2b22b55b6643e5d0efbf355bf3447"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
@@ -826,11 +826,11 @@ hash = "ec750430aa1e665a2b311feb123551ef0478b215c7c7682ad783966583c5b0e6"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/mangrove_log.json"
-hash = "bf85f30b2275c57cc878317836aa6f4abece457e354088a9befaadd29b58351c"
+hash = "ddec75e04feb3eb8b392bcb159712c4c0a72e9ab7a9175368d099716ad2162c0"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/rooted_dirt.json"
-hash = "5ae8af8034773c65f6331b61b943c5071538c972a7853f4ef66914aca9edf20b"
+hash = "5e70566ee7ffa45cb1e5f7ac53da1b55fde9d74c47b403b3277daf97f18efe8c"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/pack.mcmeta"

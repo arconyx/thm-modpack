@@ -5,6 +5,6 @@
       [{"item": "minecraft:hanging_roots"}, {"item": "minecraft:mangrove_roots"}]
     ],
     "result": {
-      "id": "minecraft:rooted_dirt"
+      "item": "minecraft:rooted_dirt"
     }
   }

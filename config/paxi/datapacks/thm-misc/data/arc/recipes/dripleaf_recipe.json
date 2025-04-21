@@ -9,7 +9,7 @@
         }
     ],
     "result": {
-        "id": "minecraft:small_dripleaf",
+        "item": "minecraft:small_dripleaf",
         "count": 1
     }
 }
