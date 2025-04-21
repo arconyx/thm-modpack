@@ -15,9 +15,7 @@
 	// Adjusts the general brightness of the dimension (an increase of 1 is a lot, for reference)
 	"DimensionBrightnessMod": 1.0,
 	// Mod Integration Packs to not load (in case of mod compat errors). Put the mod id of the mod with integration pack conflict here
-	"IntegrationPacksToSkipLoading": [
-		"travelersbackpack"
-	],
+	"IntegrationPacksToSkipLoading": [],
 	// Add some advanced tooltips to items, like if Sculk Shriekers are able to summon the Warden
 	"AddItemTooltips": true,
 	// Replaces the ornate models of spectrum's transfer system with something simpler for increased visibility. Great for technical players!
