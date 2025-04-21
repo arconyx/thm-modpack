@@ -545,6 +545,18 @@ file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.pn
 hash = "e4e5262c5e95ee0b9c0fb196f0c1eed60afadda067f8f583474099fabd41d196"
 
 [[files]]
+file = "config/paxi/datapacks/lootr-better-end-compat/data/lootr/tags/blocks/convert/barrels.json"
+hash = "a1c5a0f2731bc663c9d57c5700886fff86202623a17054cfecb914b4045bab28"
+
+[[files]]
+file = "config/paxi/datapacks/lootr-better-end-compat/data/lootr/tags/blocks/convert/chests.json"
+hash = "71893b61f86303f514295c89a2c5560167e9e2993fec78ecf4f90a487c43b722"
+
+[[files]]
+file = "config/paxi/datapacks/lootr-better-end-compat/pack.mcmeta"
+hash = "c7f276dd70fb9152dd7a6de68b1c48b925050b4082d78088bc5c9d372e3fe504"
+
+[[files]]
 file = "config/sidebar_buttons.json"
 hash = "2511a89805ce365930d1f610ef2c21aa410f9c32a5679b958a73b48763601738"
 
