@@ -545,6 +545,198 @@ file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.pn
 hash = "e4e5262c5e95ee0b9c0fb196f0c1eed60afadda067f8f583474099fabd41d196"
 
 [[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/badlands/copper_golem_area.nbt"
+hash = "68de0763ae63df99bd2cbcc7e30f079f878fddaba47ed2daafc808d9d0c3b69a"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/bamboo/beekeeper_area.nbt"
+hash = "99119835ac34ba7c881bcc77bc7da4959835766960b74590962d64a435df9e87"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/bamboo/copper_golem_area.nbt"
+hash = "dbb8466452ae141cff4a13ebdef1141da028ad873899aa0f352ca25a95979c50"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/birch/beekeeper_area.nbt"
+hash = "24d5ed0fa6ee72bfee6dcb8b2e3647d7b7ff5db9456afdbd1fd3cbf05a2714fe"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/birch/copper_golem_area.nbt"
+hash = "2d4d240ff1feb13e33db090428101742df2bf0a3de9dfaa72973721772f93636"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/cherry/beekeeper_area.nbt"
+hash = "f3209ce2b375d69f5461d331a647507730f3432f9db4f0e124c9f9ad16904574"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/cherry/copper_golem_area.nbt"
+hash = "3f680456848af3967645972e8d1ab5755366e6e9ae2544adf35cbbd5453beed9"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/dark_forest/beekeeper_area.nbt"
+hash = "d09d5d629090c3bf65f343e39ca8bab021d1bb783e0e2e0b9058f9da3f3ac8c2"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/dark_forest/copper_golem_area.nbt"
+hash = "9c8946f1c1665f5d74cdcebb81f65a1f50e42605dcef2b760bb58bdc1594d038"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/giant_taiga/beekeeper_area.nbt"
+hash = "ad1cea3933860e0aed92688b6a6cccdbfcdf08b573b278ed1619e5cdaf2c801d"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/giant_taiga/copper_golem_area.nbt"
+hash = "8a21a46383a5828a9be519725455e61d4b32d0713411793b5b82262d541a35bd"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/jungle/beekeeper_area.nbt"
+hash = "a85b6a233cace8fd60dce3434d8cbf3cd5fbe14bdce1352e358f0fd3298f8b99"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/jungle/copper_golem_area.nbt"
+hash = "132bc9a24f2c079db10287fc58bfe3304d28e2760ecf761cf277a3693973896f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/mountains/beekeeper_area.nbt"
+hash = "4b950622278c75a17c70b40e8aa0498886c94ca84d9622ad0e9a78e07df56ef5"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/mountains/copper_golem_area.nbt"
+hash = "c0a5af7761fb5e38e468eb6b88898e32d22d6fd09f4ba3e86d1160a8d0eed1ee"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/mushroom/beekeeper_area.nbt"
+hash = "de476868c006426bd9f01903c1c7eb5e93cb734a5ca21bca6a26d444f23c3b64"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/mushroom/copper_golem_area.nbt"
+hash = "f7e70da295412618ecacc1487b27601ac4cbea860d215b174839603cd0c813ed"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/oak/beekeeper_area.nbt"
+hash = "b38b7e7fc155361d846448e5a7f9984dff11ed4c1481c7cfb5fadd4e826552eb"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/oak/copper_golem_area.nbt"
+hash = "a3b1b82704852c088c1cf86e58ebabbadc5bd9009446ec197115f7662e7516bf"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/ocean/beekeeper_area.nbt"
+hash = "ded4fb48b5ad45aba9f7eee8804c6b8eb20cb1743d50c3bc54706daea45b975f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/ocean/copper_golem_area.nbt"
+hash = "07a09f9e5d8c8b1d7c01168bcde1b85ff03fdef7b63a2a63f0f0edc2e2e502dc"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/swamp/beekeeper_area.nbt"
+hash = "cc70ad23d05bcfa2c7e909dd22a1d7d59084b935c822300115962c139fee7984"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/swamp/copper_golem_area.nbt"
+hash = "f9fba7efc206560ee072caa3080c7673c205e5ca7ce5e5ef52d0f80c9d4c3296"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/badlands/houses.json"
+hash = "8fc599af96c7f02aa4fa98014120fa3985c10e151d5a714b1a721150e364cc1c"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/bamboo/houses.json"
+hash = "70cc3efea35e71d53a6a0c9ac76fbecf29e251bd37e4773b8306c305b8001c9e"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/birch/houses.json"
+hash = "3dd64b31d379c88c6beb14ed9532b47e3bbc98ed9a119af06a8c94ad14f6ec1c"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/cherry/houses.json"
+hash = "6f0cca44891a30cb058fe97153cfede24241d356a54294862ba33f71131abac3"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/dark_forest/houses.json"
+hash = "202cfab75d3e238935621c2d093bddc04ecc81409bac31b275fcfd219c23c348"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/giant_taiga/houses.json"
+hash = "ab334b1047386e9ba20971042d26a806bd54cd7783e531b18c1fbfcbd74c816d"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/jungle/houses.json"
+hash = "ecaf0f5901f635f351ba83a78917d94bbd459de422a919a2aacb398ca98862f4"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/mountains/houses.json"
+hash = "b029f104c42acd2a4b9dcfb72db8f6fcf8d76f95858f8b852e488322ad254ca0"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/mushroom/houses.json"
+hash = "f1288ec6851f7e6e8fcfe77caf0bcc1cfecc8e34738584ec3188a06cc2c0f14f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/oak/houses.json"
+hash = "52151eb3f23cc57cdbb4cf794fc20b5a2c42a874b180597011a1839fcbdf9dea"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/ocean/houses.json"
+hash = "36b5fb54e63d9e3956071cf0565520c5afdcdc08f80b927e6a30a10491895a44"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/pool_additions/villages/swamp/houses.json"
+hash = "047765c16516b792d5aa5c9966fc21b95c4fcccf2286898b9be18d832892cfd7"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_badlands.json"
+hash = "b466d7fb1dec46cf1f0ac39e990ffdee6a5e155ad846ba699d2648afbc6a43b2"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_bamboo.json"
+hash = "ea72a5381f5079e0759b7666fa747453356439567461adce62230a39b62c9ca0"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_birch.json"
+hash = "72d7b2d0c9fd363a5e1b00c686d57a02b03f4163afa321db2d19bee37d036433"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_cherry.json"
+hash = "8de8102eedd53ef3d256a10da7e23ccbe31a962342a7f9238ba095b221be796c"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_dark_forest.json"
+hash = "048bba7b153bac02de1c8c0fc3b1767e75bd0c5296460f81820127301f8137ab"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_giant_taiga.json"
+hash = "1843a5ab4e853bd5b2690f7661a1e557d852e453ffc1bac7b4293bc75e05014d"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_jungle.json"
+hash = "cc3cc29407ea95f01ac84b1d7fcd837b100b02c963176ed29e365718c834b1b7"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mountains.json"
+hash = "701ed6249364115fff8133276ac99a98f7161617e6e5b05f6ccd7b83545162f1"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mushroom.json"
+hash = "5028786c3d9a9e46292ba467d088586fd27242f1ea48eab610b84a5c090d7362"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_oak.json"
+hash = "873e8920cf58654ee6fa3fe565846513448f3a40159a83f8be3d6863b6c1854c"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_ocean.json"
+hash = "cf01eedc3dae1ac7f7e75c8a1953f401678d548439e1f5df6013f70462502a7f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_swamp.json"
+hash = "14b97b6b7ffb1ea1cb151c09848bb0da3bcee0766a33069abd057fd25b9dc11f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/pack.mcmeta"
+hash = "e18c9a23b996a9cb7dbda070baaa92b54a0e46b48f9571faa6791de0ed4cb53c"
+
+[[files]]
 file = "config/paxi/datapacks/lootr-better-end-compat/data/lootr/tags/blocks/convert/barrels.json"
 hash = "a1c5a0f2731bc663c9d57c5700886fff86202623a17054cfecb914b4045bab28"
 
