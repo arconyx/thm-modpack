@@ -1613,6 +1613,11 @@ hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "a27d8585b88946ca03f3476a70e1679a113d3059f2daf68581bd1d70994ac137"
+metafile = true
+
+[[files]]
 file = "mods/porting_lib-2.3.9+nested-loot-modifiers.jar"
 hash = "771a0fea8cb9177e1257493f1bd444ee984f1c924b8c38557348a26536b1c6e4"
 
