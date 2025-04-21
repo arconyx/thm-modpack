@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/SVJhmJvx/versions/cYWX1aNG/indypets-1.4.7-1.20.1.jar"
-hash-format = "sha1"
-hash = "abd19808fa03c0960ded347474d5d58d398d6872"
+hash-format = "sha512"
+hash = "3e6caa964f7bc8b2094af6b3af76c584d917ffb0084168fa056388cf91f3551df0e360a34f5cf1292743c5baf456f9f4a8e81cb13e1d062605ad321126651c63"
 
 [update]
 [update.modrinth]

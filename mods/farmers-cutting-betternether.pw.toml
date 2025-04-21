@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RFzQi5Io/versions/XMZntiuL/farmers-cutting-betternether-1.20.1-1.0.jar"
-hash-format = "sha1"
-hash = "d8ef1075c3e603b56eeeeadb773ee90fb1b894a2"
+hash-format = "sha512"
+hash = "1a7b10f4021646e93a5044a359687b0809c9b6a365cc77f5871b74b8ff7ff7319d660b38025b6983ea2182b62b2540a62de48471a3cc810a457dc2f2cd80ab10"
 
 [update]
 [update.modrinth]

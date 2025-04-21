@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/muf0XoRe/versions/MuqUgLqO/repurposed_structures-7.1.15%2B1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "2a4f469f582d049ecfc729a3f4269e9dc561aade"
+hash-format = "sha512"
+hash = "74e3c624af9fbc446fcd27b4051d4d905b0cbd92dd2f43c26414f47a38c7a28aef1355272116c6b1272121b9c4af51391b03249ac8c6e6ab67d968c9a23e67cc"
 
 [update]
 [update.modrinth]

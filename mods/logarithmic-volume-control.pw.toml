@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fPJLcvRR/versions/rMp4qJvr/logarithmic-volume-control-1.0.0-1.20.1.jar"
-hash-format = "sha1"
-hash = "b665a72dd29a7f74de1fd6dc081cb5225fb2d26f"
+hash-format = "sha512"
+hash = "c618c1ecab93eee8770015f629ad37f730a5345b865cce3950b23583762bc5d370e95747525244e13533c600283fa6817d8c2e50e3deedd3c5e84e071d9bbe80"
 
 [update]
 [update.modrinth]

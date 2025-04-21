@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AhtxbnpG/versions/jAVkcXz6/ExtendedDrawers-2.1.1%2Bmc.1.20.1.jar"
-hash-format = "sha1"
-hash = "3bd92feec248b44394d89cea91f1b421e9d4c186"
+hash-format = "sha512"
+hash = "071ed371ffcf81144a85177b30a3781948e2345431b8f89509cf65a48b997dde95182578af97d36051703c75ffc5e94581f74b3d122bf0b7e59887ef56ce1df7"
 
 [update]
 [update.modrinth]

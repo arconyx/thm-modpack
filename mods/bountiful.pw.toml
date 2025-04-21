@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BpwWFOVM/versions/E9PUxeM9/Bountiful-6.0.4%2B1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "1141381614582621d04ee094baac476e0875f71e"
+hash-format = "sha512"
+hash = "71716ad25123ccef2b7b7b5ff435e6585510c569060762d666ceedc6f03d28afc2ed762f6b415a01ed3b09ab1180ac0f39efe250811e4cb2304c3bb5f1415903"
 
 [update]
 [update.modrinth]

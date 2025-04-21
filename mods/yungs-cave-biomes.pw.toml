@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cs7iGVq1/versions/Holxc5LS/YungsCaveBiomes-1.20.1-Fabric-2.0.4.jar"
-hash-format = "sha1"
-hash = "5db778e5a31359cdbbeb9422d396daafdd09a027"
+hash-format = "sha512"
+hash = "d9e9e37e432526d11248a05b1d43edf2de9b469fcb71fc69d93a5c2c440c74bc021faa741045058eb3bc71cc2dfbef5f9bd2ce35f96128dbc07df35fe10b24b4"
 
 [update]
 [update.modrinth]

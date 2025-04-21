@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ROV8mPB1/versions/GaDtbkof/farmers-cutting-betterend-1.20.1-1.0.jar"
-hash-format = "sha1"
-hash = "462309d163b4d75c1fedf35f4bbb26bf5998829f"
+hash-format = "sha512"
+hash = "c1cf19d7ec0028d177483398a52949080dee6f3bb09a9e29bec43c8c9195dff3bec6e538c883a5c0c068996e0840a66a374fa3062e8d2afdf1eb29b0d793baa6"
 
 [update]
 [update.modrinth]

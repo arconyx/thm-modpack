@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iXT7GFmP/versions/VuS8MvDV/spectrum-jetpacks-1.0.4%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "30579031c9d55440a6171b277f414cad0d93ef74"
+hash-format = "sha512"
+hash = "a6f6aedfacdeac44dc3c4525187fb92544d3883607286c9758893b4df6fdf68d03c7075019298e2b5845f62daa7a8059299dc7bec0f4419bc7a9aed2e77bf694"
 
 [update]
 [update.modrinth]

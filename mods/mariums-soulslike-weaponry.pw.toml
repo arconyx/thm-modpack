@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oX6SohLj/versions/ExumPhsN/soulslike-weaponry-1.2.3-1.20.1-fabric.jar"
-hash-format = "sha1"
-hash = "3446fe1199d11ed11b9a8dc6799d1bd4277495a2"
+hash-format = "sha512"
+hash = "747740061b7633f47229bff02e1d65881d69b6fee4f8fc4f2533ca534c3788dd730053c104b3e4d5bf6d763fd6729b2a8622c67900d1d26f02a89321b3fb7b96"
 
 [update]
 [update.modrinth]

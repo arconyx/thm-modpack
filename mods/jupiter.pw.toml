@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/PRoHPboo/Jupiter-2.1-fabric.jar"
-hash-format = "sha1"
-hash = "978db22e762bd75f4f65040e2d40f34a2fdd04fb"
+hash-format = "sha512"
+hash = "8b157ad325d68d38e21989f488b0d1963058da7c4dfb2fc85e4d4af3d27e57894d378d0c81ba435c089cdb21a793b0c7675f661b5829c548437b1bc10e3da562"
 
 [update]
 [update.modrinth]

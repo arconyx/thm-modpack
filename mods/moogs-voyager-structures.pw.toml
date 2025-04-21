@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/tbOvFJdA/mvs-4.1.2-1.20-fabric.jar"
-hash-format = "sha1"
-hash = "c372d1c71b7e19d9d1c2c302bcedbcd795aaeb60"
+hash-format = "sha512"
+hash = "e1475f88623f53ef7609349af32acffcdcca80274d008096dd90369532a5198a6653a62d54bf97001edbb423ac172dbcf7f5298ad2c0e574f0973c21ad03f467"
 
 [update]
 [update.modrinth]

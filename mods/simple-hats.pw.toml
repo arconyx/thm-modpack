@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iSkQCp6b/versions/SDPZOmWZ/simplehats-fabric-1.20.1-0.3.2.jar"
-hash-format = "sha1"
-hash = "d5bb4206550343d100b08b40ad8fc66309c12fac"
+hash-format = "sha512"
+hash = "b9da2150f2e08d19783d09b32c5ff61549f86d15a8a0920dd90bbd3e081ff43e18d8d4a05dbdcfa9c60083343c97b0a499ebbf16b583cd169f277efb1e04cd07"
 
 [update]
 [update.modrinth]

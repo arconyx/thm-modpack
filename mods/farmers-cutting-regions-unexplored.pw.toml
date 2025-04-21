@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lFKDc2ny/versions/u0Qu8Fds/farmers-cutting-regions-unexplored-1.20.1-1.1a-fabric.jar"
-hash-format = "sha1"
-hash = "a6c08ff7fa4cefc8570bbb56686838b1e1cdf505"
+hash-format = "sha512"
+hash = "d402bed257dabde7a15538318d5b6506e6059322571cd158469b8312c3424560e6a07b35cbefc9a841e7365857cf4b6dcde743e172814d9d33c266400ee4e39f"
 
 [update]
 [update.modrinth]

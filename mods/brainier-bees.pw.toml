@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/O2WJc0f3/versions/bMTsZrpW/brainierbees-1.5.jar"
-hash-format = "sha1"
-hash = "fe94935147e1d320c3d481bead9b4b8385e85640"
+hash-format = "sha512"
+hash = "aaab683b25acf3e2608b2bd59e5c94d4cd59b0209d83398c790698324feef10e44c5f94844d6a88e5941185963e827a363fa5d91886c53c1d795074c25ab4935"
 
 [update]
 [update.modrinth]

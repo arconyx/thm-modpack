@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bkz5C0dQ/versions/mBFrvoIO/hexalia-1.2.4-1.20.1%2Bfabric.jar"
-hash-format = "sha1"
-hash = "222b5b3f1af7ab6167564a949143034d400d29d3"
+hash-format = "sha512"
+hash = "8bf9060966373aa69059c47f805847c2396b489e83a97a3793e3f981ab0f299658a7ac9166d5f8c80391ebdb85849f6567babdb11b80b900ee967fa783a4bc0d"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mvESKiJR/versions/lt0ErKjC/lanishextendedstaves-1.20.1-1.0.1.jar"
-hash-format = "sha1"
-hash = "a028937d7bd5907c57d3a6479e1b6e649f154f17"
+hash-format = "sha512"
+hash = "76c5c3fc2664f480602501e636cf264935b93c08065cb3754194899149b8cf2bb84f551d05b23ddd01fd4202b4c60550f59caa3817998f7073989e4005d5ef04"
 
 [update]
 [update.modrinth]

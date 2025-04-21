@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/bdBzXqbS/versions/pC0JHJ1s/moreslabsstairsandwalls-4.0.0.jar"
-hash-format = "sha1"
-hash = "e836989164986b76343d419933681c6a83aef0ce"
+hash-format = "sha512"
+hash = "a9b13e9a59cecc155aa4173caf5a8ec4567289f0b8f07d5512eb4515a4561094e0b1af68d3de17feeb60f5243d588c0c60a6877f13ea5eaf9b4131fe52fa005a"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/s9gIPDom/versions/r3bPBsmg/figura-0.1.5%2B1.20.1-fabric-mc.jar"
-hash-format = "sha1"
-hash = "1fcd7415221f081d00dece0083155862bcc7b09b"
+hash-format = "sha512"
+hash = "a842ae03f4477873934ad2a3bfeb50dcd75a668a91c072550c7db30dcd8825307bb74cfc26b3ae4a9ae933253a768eaed58ed7267221f2654ac2a93955a601ec"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4nDndTIl/versions/i2j6Voi5/TravellersBootsReloaded-1.20.1-2.1.2-fabric.jar"
-hash-format = "sha1"
-hash = "4f502db5cea52aa1e8c19a1b4b5647ae868743b6"
+hash-format = "sha512"
+hash = "d0b7a4b8bf75341a70a32792166e506ca5af9e90996cdad888a1ecc836392fad59828b24a0322de1739c5b437d3ba6880eb1e74d8abde1449b866f6a14168c0b"
 
 [update]
 [update.modrinth]

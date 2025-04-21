@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/aucz7XCt/versions/qX0iNakQ/profundis-1.6.2.jar"
-hash-format = "sha1"
-hash = "fada74105c1dd2d42fd3d26ca04ea713b40eaf5e"
+hash-format = "sha512"
+hash = "2fed4cdd30b509d374546ae02b018ef5675e42458da3bae9b1c9fc3b347bd169d90e428534ff9e0193dd60bcc5f6fbea1320ea541e22c9029743c3ad62b68d25"
 
 [update]
 [update.modrinth]

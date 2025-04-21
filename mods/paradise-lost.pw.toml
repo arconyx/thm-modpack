@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IKpsG0nF/versions/IJLX3k9B/paradise-lost-2.2.4-beta%2B1.20.0.jar"
-hash-format = "sha1"
-hash = "cdb9af80054057867695c6e31cc4dca1f770f930"
+hash-format = "sha512"
+hash = "6713336913946be481a3a4d2f48aae54021c9259b0a0df3eb8c90d7fc55e72f7ebe6b4f49165c266c0d81d02343e2a216881d5194cf8d695d139e6d0b854a03d"
 
 [update]
 [update.modrinth]

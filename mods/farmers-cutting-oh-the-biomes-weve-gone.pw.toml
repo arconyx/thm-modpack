@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ickBpNUE/versions/C4JGcEVt/farmers-cutting-oh-the-biomes-weve-gone-1.20.1-1.1-fabric.jar"
-hash-format = "sha1"
-hash = "9a85366e6cda5efd05c9ca8813ca1bfacc630b16"
+hash-format = "sha512"
+hash = "3b79b5d5fd419899318e29e524553aa6c0d365219cff8806f4370be9b3b6820aa3986fafb55b9c8f4ed285ab0ebad22f375bc18ecc1eef9944a0571ebc7499bb"
 
 [update]
 [update.modrinth]

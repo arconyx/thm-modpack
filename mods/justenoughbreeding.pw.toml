@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/bIwMGq4U/justenoughbreeding-fabric-1.20-1.20.1-1.5.0.jar"
-hash-format = "sha1"
-hash = "e5a85cb7c581479ff340f5c5790bb5c9043b00d9"
+hash-format = "sha512"
+hash = "e4ee127601ff19fd523b63262adfec997db8b2c702a2cc4df68e9667cb3df7ea202a48e2950c79237f1c0da9d48e6c4ffc94a8cb24aae1bba566b71aa92db442"
 
 [update]
 [update.modrinth]

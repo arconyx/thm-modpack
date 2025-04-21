@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/Gnum5EJm/Corgilib-Fabric-1.20.1-4.0.3.3.jar"
-hash-format = "sha1"
-hash = "ec528d194f9f6a016ba06f52b3776ca3029642fd"
+hash-format = "sha512"
+hash = "1aa954889a6aa423ae4882325f77dfa559b04ffe81be62f0170001d7451654ef9044fa333aa576284173cec1b2e22ba8ac54da9c552d88d121169fabdf969bfd"
 
 [update]
 [update.modrinth]

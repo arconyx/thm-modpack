@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xlOwuSdN/versions/VPA2WJX5/reinforced-shulker-boxes-2.5.0%2B1.20.jar"
-hash-format = "sha1"
-hash = "4bbc9174c4f4479c3a948f6a66f430856adc8094"
+hash-format = "sha512"
+hash = "6b4d067568d472725266554b1d634b7016b15b042a7cf32418983db414037877184ac97a12cd250dbb5114b22de409f0750471dfffad2acbab0b54b289f08f37"
 
 [update]
 [update.modrinth]
