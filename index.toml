@@ -786,7 +786,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "1855e14a74e1efca15021f6f56c14107180c6c87c7f21a80c4f4449d8060e965"
+hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
@@ -914,7 +914,7 @@ hash = "4618cc574a70501f21bb4d6642ee611aaedf8675b7a2e78e9a10f48b5cbb838f"
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "6ffec5633e9d912c85f3afb9b553f3120ac417f454c6449ea7c19c02c258983b"
+hash = "0c47d03d8d357331a7d48f1fb498708c5aae3ade57727280aa39c9744dab7c32"
 metafile = true
 
 [[files]]
@@ -934,7 +934,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -1131,7 +1131,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "54aeed25984ce2e6d9b10e408300e6ea375d18b431e7f058390e31fda985bccf"
+hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
 metafile = true
 
 [[files]]
@@ -1241,7 +1241,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8794925062563f0369399d044a3bd21b4fe33ab0816a088c73f4779af643d1f8"
+hash = "230c231ae1dcd4ee08b0cacf8c9cd617e7c0b0533609f92dfe82e53287d5a9f7"
 metafile = true
 
 [[files]]
@@ -1496,7 +1496,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "6834f9ff9bfdffef4feda108c2de1b0b73e1389e1a8b522843362e30ec42bc49"
+hash = "b9cfce05b161178bb1ae2a92197d3145b2468bc03f165dff8b1267b4145b8f42"
 metafile = true
 
 [[files]]
