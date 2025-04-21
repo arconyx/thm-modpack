@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-3.0.15.jar"
-hash = "5359d29633604037c371163c32e30631c0f19818129c70dbbda04cb4b77b5e74"
+hash = "826d2df3129d6e399dd081b369a420f2c05da0ff88c5391d3d7516a7207af287"
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
