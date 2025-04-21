@@ -750,27 +750,27 @@ hash = "c7f276dd70fb9152dd7a6de68b1c48b925050b4082d78088bc5c9d372e3fe504"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/dripleaf.json"
-hash = "9b4149a76c7e202a0a37956f528ff8a9595c55ab63e16a230b750994f1832f37"
+hash = "8dbc55cf9937dc5668d16671a338f402461f3b02d0f4c9fda5b9e6fe8c47c5e2"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/phantom_membrane.json"
-hash = "f2337a1347e4666d486e84fa9b3c12bb23393e9139673cc00ad5e2da811380bd"
+hash = "f689d77864614b0d54a7123a4cda66c886d2628544478777d70c10840fc8ed75"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/saddle.json"
-hash = "e59a9e8ff6d9cfbac76f493b5231e22443fb14c0b4ad16f3fc54a58ff8d157b1"
+hash = "739baf61c94f4d2df8d982b1f1a695ca6abbcc30013e8c78965c72b0c47901cb"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/smelt_flesh.json"
-hash = "50def667931532e12eb25bc7b5711ff694b9bae0ad48a0c50b9ff01cca4e81b1"
+hash = "12f5b725355796d832f951ef945ac3051cc74771cd334c953bbdc929bcc5353c"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/string_from_wool.json"
-hash = "d2b64546a5a9433eeb8f6a72b7ba7b19ddb99d551764c37d2a4f811923cfe3e7"
+hash = "94f6e514aa0a9c35a975969929ceea7671bde26408180ad33cec5b288638326e"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/trident.json"
-hash = "e235422a9007b624a60b1d36cbbd8bcd745a11a932a73c1cceb6bf713cdb4351"
+hash = "3ebf373d21afc82a04cf4484cae12a043cea046af6efea7410ed7e332ae268d2"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/dripleaf_recipe.json"
@@ -786,7 +786,7 @@ hash = "bf4699b504fd50b0b1335774278752f5c4ce4abb97ef67370e2d539c424072c6"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/smelt_flesh.json"
-hash = "2c29bbe42ee62d4925645e98e12520af1ddb0a337bf3fd128b5a77a2b60e14d8"
+hash = "d65bae4b809c85e09274aa7ebfb5f7ad0900d912fcac919dc1b0c5eebc767cb9"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/recipes/string_recipe.json"
@@ -810,15 +810,15 @@ hash = "465b833d72a5e8a25dc1646e0e0374da07940dbb1b82b22ebf29d9c12a4207ce"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/cobblestone.json"
-hash = "cb46877cdc1e43c098a84fe45131c02d30043d6087ac535d192242fdb26be891"
+hash = "d39a21e8ad53139dc78039c8076aa21c64472c4394a1d441fc7be6186a66c858"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/mangrove_log.json"
-hash = "8c390544812d8c6c1eb4647be9319f4a5a33ebb6bf601565a5be4b17890e53d2"
+hash = "6a500bb28f5e51eb99ad1e28ab5cee1e2712ea130e41d140667284dd7fc54f66"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/rooted_dirt.json"
-hash = "3872e5b9fc0f34131faf74f8257e60e1dc9c2c805d57282beffd0137beb29a65"
+hash = "86ff79f84b4af7b3e4219952bcfe363dd1a84e057a6e69d0951075917341a108"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/cobblestone.json"

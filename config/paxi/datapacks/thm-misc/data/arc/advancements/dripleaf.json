@@ -5,7 +5,7 @@
             "conditions": {
                 "items": [
                     {
-                        "items": "minecraft:big_dripleaf"
+                        "items": ["minecraft:big_dripleaf"]
                     }
                 ]
             },
