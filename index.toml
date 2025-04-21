@@ -581,6 +581,10 @@ file = "mods/DragonMountsSoWEdition-1.3.jar"
 hash = "55bc8bab802a8e07a5bc5111914425218ad8affe32d44995d08a1844105d45ae"
 
 [[files]]
+file = "mods/FarmersDelight-1.20.1-2.3.1+refabricated.jar"
+hash = "8fc7b0fdee05a84ce06da0aac0089512cfc66ece56b04644b136db4f9301e44b"
+
+[[files]]
 file = "mods/Farmersrespite-Fabric-3.0.8.jar"
 hash = "2aa70b33fad98fcbb55be95e46e3fa68c3e71605920826a22ff929249a5c4714"
 
@@ -967,11 +971,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-cutting-regions-unexplored.pw.toml"
 hash = "7a61e59e6ae59233abd49fb7d05b50225096d9b8239b3d51c455e6fa8e64b16a"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "515fa38276d6194d04e920ee1248d98e1d96287c1037efb2ce9989080f2830c6"
 metafile = true
 
 [[files]]
