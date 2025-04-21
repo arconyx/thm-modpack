@@ -6,11 +6,11 @@
   "innerHomePercentage": 0.66,
   "blocklist": [
     "mythicmounts:*",
-    "lovely_snails:snail"
+    "lovely_snails:snail",
+    "dragon_mounts:dragon"
   ],
   "interactBlocklist": [
-    "cobblemon:*",
-    "dragon_mounts:dragon"
+    "cobblemon:*"
   ],
   "hornConfig": {},
   "hornState": false,
