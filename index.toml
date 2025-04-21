@@ -1629,11 +1629,6 @@ hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
-file = "mods/sparsestructures.pw.toml"
-hash = "d8bd5b09c0a261607b4138877b52cdcef901daf11a1d055a9e208c8663db6e06"
-metafile = true
-
-[[files]]
 file = "mods/spectral-decorations.pw.toml"
 hash = "b5bacc033bf61a53a4d2095923a603ad99df709cc79e270228d9655151816cd4"
 metafile = true
