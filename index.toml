@@ -749,8 +749,88 @@ file = "config/paxi/datapacks/lootr-better-end-compat/pack.mcmeta"
 hash = "c7f276dd70fb9152dd7a6de68b1c48b925050b4082d78088bc5c9d372e3fe504"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/advancements/dripleaf.json"
+hash = "9b4149a76c7e202a0a37956f528ff8a9595c55ab63e16a230b750994f1832f37"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/advancements/phantom_membrane.json"
+hash = "f2337a1347e4666d486e84fa9b3c12bb23393e9139673cc00ad5e2da811380bd"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/advancements/saddle.json"
+hash = "e59a9e8ff6d9cfbac76f493b5231e22443fb14c0b4ad16f3fc54a58ff8d157b1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/advancements/smelt_flesh.json"
+hash = "50def667931532e12eb25bc7b5711ff694b9bae0ad48a0c50b9ff01cca4e81b1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/advancements/string_from_wool.json"
+hash = "d2b64546a5a9433eeb8f6a72b7ba7b19ddb99d551764c37d2a4f811923cfe3e7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/advancements/trident.json"
+hash = "e235422a9007b624a60b1d36cbbd8bcd745a11a932a73c1cceb6bf713cdb4351"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/recipes/dripleaf_recipe.json"
+hash = "b69f1839b237d73b0f2dc4c9a6adb5303af20632e60e6d4e4720b050dba40a4e"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/recipes/phantom_membrane.json"
+hash = "6a7109ad73cb8f25c6d2f099cec7c49aa04d408c785dcba90b1e7295960858e7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/recipes/saddle_recipe.json"
+hash = "8d8f6d76b9c88a392dc365e45fd039a080de69d4e5a094b323cc48c7736c7a7e"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/recipes/smelt_flesh.json"
+hash = "f7c68a0f0c9bf8e2c908b346315f386f872ddc88c4a09eb43a21f2f664678cf2"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/recipes/string_recipe.json"
+hash = "e353f8a975d3ae7e140a71c03d8a5839e36488d613c031ee002de92fd9ab3179"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/arc/recipes/trident_recipe.json"
+hash = "d21f3b181bc0a142e4e566fe502f8adfa2966891c72b5a9873c64135b3af4ccc"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/minecraft/tags/items/stone_crafting_materials.json"
+hash = "ef877f92d90fbdf895129ec6f494e6c1b3c766f1c3b81f161de4c51a5567054b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/minecraft/tags/items/stone_tool_materials.json"
+hash = "465b833d72a5e8a25dc1646e0e0374da07940dbb1b82b22ebf29d9c12a4207ce"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/cobblestone.json"
+hash = "cb46877cdc1e43c098a84fe45131c02d30043d6087ac535d192242fdb26be891"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/mangrove_log.json"
+hash = "8c390544812d8c6c1eb4647be9319f4a5a33ebb6bf601565a5be4b17890e53d2"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/rooted_dirt.json"
+hash = "3872e5b9fc0f34131faf74f8257e60e1dc9c2c805d57282beffd0137beb29a65"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/cobblestone.json"
+hash = "9243bb0f6a0e6b0a1b69cc6a02de7fd376e0bfa8b89435258e00ca728ffdfb5d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/mangrove_log.json"
+hash = "bf85f30b2275c57cc878317836aa6f4abece457e354088a9befaadd29b58351c"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/rooted_dirt.json"
+hash = "5ae8af8034773c65f6331b61b943c5071538c972a7853f4ef66914aca9edf20b"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/pack.mcmeta"
