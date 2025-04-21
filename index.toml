@@ -766,7 +766,7 @@ hash = "12f5b725355796d832f951ef945ac3051cc74771cd334c953bbdc929bcc5353c"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/string_from_wool.json"
-hash = "94f6e514aa0a9c35a975969929ceea7671bde26408180ad33cec5b288638326e"
+hash = "72ac6bc5fb1bd9f167c0505b524245ececc72f73e86ff4ead9657ce0a6638a9b"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/trident.json"
@@ -810,7 +810,7 @@ hash = "465b833d72a5e8a25dc1646e0e0374da07940dbb1b82b22ebf29d9c12a4207ce"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/cobblestone.json"
-hash = "d39a21e8ad53139dc78039c8076aa21c64472c4394a1d441fc7be6186a66c858"
+hash = "da08bd2d87122ed506b5f5bf3b627a1b2228921d165f450e23423cb52efc572e"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/mangrove_log.json"
@@ -818,7 +818,7 @@ hash = "6a500bb28f5e51eb99ad1e28ab5cee1e2712ea130e41d140667284dd7fc54f66"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/rooted_dirt.json"
-hash = "86ff79f84b4af7b3e4219952bcfe363dd1a84e057a6e69d0951075917341a108"
+hash = "947a9502dde4a0dd106f2610ce02cb4b5ddc23658ef1a71d45e8a0376282d644"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/cobblestone.json"
