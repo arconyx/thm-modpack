@@ -984,7 +984,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -1434,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "71e8a06cef4c957a93f975739b030d1bc3ca3fdf3b9c1b5a04b7e77d0c1c2784"
+hash = "e4cd7e0e13b5d387c44bbdf0f2ccd958d7c098f5dbb09836db40fd5b008e7f05"
 metafile = true
 
 [[files]]
@@ -1589,7 +1589,7 @@ metafile = true
 
 [[files]]
 file = "mods/revelationary.pw.toml"
-hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
+hash = "95dc1c49d6f94a6484e3c3688fa062fed91b323aa4cc088cc2748ca0dd43a7da"
 metafile = true
 
 [[files]]
@@ -1649,7 +1649,7 @@ metafile = true
 
 [[files]]
 file = "mods/spectrum.pw.toml"
-hash = "431d04ef7c40e576c6aad7ccc91c3a0fbb3e914c4f74a718f270d982ec8438af"
+hash = "5a8336071f8e411b99512874064e218edc63ba6370534afd45addb71095249df"
 metafile = true
 
 [[files]]
@@ -1734,7 +1734,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
