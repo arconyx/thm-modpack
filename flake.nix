@@ -12,13 +12,13 @@
       system:
       let
         pkgs = import nixpkgs { inherit system; };
-        lib = import ./nix/fromPackwiz.nix;
+        fromPackwiz = import ./nix/fromPackwiz.nix;
       in
       {
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [ packwiz ];
         };
-        apps.generateModSet = lib.mkModAttrsetApp pkgs ./mods;
+        packages.default = fromPackwiz.package pkgs ./.;
       }
     );
 }

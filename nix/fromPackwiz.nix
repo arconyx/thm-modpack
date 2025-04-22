@@ -12,6 +12,7 @@ let
     readDir
     readFile
     replaceStrings
+    fromTOML
     ;
 
   # loads data from a toml json given
@@ -40,7 +41,7 @@ let
 
   # maps each mod to the store path of a fixed output derivation
   # attrset -> attrset
-  getMods = pkgs: mapAttrs (fetchMod pkgs);
+  fetchMods = pkgs: mapAttrs (fetchMod pkgs);
 
   # this is probably what you're looking for if
   # you're an end user trying to implement a modpack in
@@ -52,7 +53,7 @@ let
   # `dir` is a directory containing the packwiz mod.pw.toml files
   #
   # attrset -> path -> attrset
-  mkPackwizPackages = pkgs: dir: getMods pkgs (mkModAttrset dir);
+  mkPackwizPackages = pkgs: dir: fetchMods pkgs (mkModAttrset dir);
 
   # this is probably what you're looking for if
   # you're a developer trying to use this in your modpack.
@@ -71,36 +72,6 @@ let
     in
     mapAttrs (mod: _: fromMod dir mod) mods;
 
-in
-{
-  inherit mkPackwizPackages mkModAttrset;
-
-  # this creates an `apps` attribute for a flake
-  # which runs a bash script to generate a checksums
-  # file
-  #
-  # `pkgs` is an instance of nixpkgs for your system,
-  # must at least contain `writeShellScriptBin`
-  #
-  # `dir` is a path to the folder containing your .pw.toml files
-  # files for mods. make sure they are the only files in the folder
-  #
-  # attrset -> path -> attrset
-  mkModAttrsetApp =
-    pkgs: dir:
-    let
-      inherit (pkgs) writeShellScriptBin;
-      attrs = mkModAttrset dir;
-      name = "generateModSet";
-      script = writeShellScriptBin name ''
-        echo ${attrs}
-      '';
-    in
-    {
-      type = "app";
-      program = script.outPath + "/bin/${name}";
-    };
-
   # this creates an attrset value for
   # minecraft-servers.servers.<server>.symlinks
   # attrset -> attrset
@@ -113,4 +84,31 @@ in
       }) (attrNames mods);
     in
     listToAttrs fixup;
+
+in
+{
+  inherit mkPackwizPackages mkModAttrset;
+
+  package =
+    pkgs: src:
+    let
+      manifest = fromTOML (readFile (src + "/pack.toml"));
+      modLinks = mkModLinks (mkPackwizPackages pkgs (src + "/mods"));
+    in
+    pkgs.stdenvNoCC.mkDerivation {
+      inherit src;
+
+      pname = manifest.name;
+      version = manifest.version;
+
+      installPhase = ''
+        mkdir -p $out
+        cp -r ./* $out/
+      '';
+    }
+    // {
+      passthru = {
+        inherit manifest modLinks;
+      };
+    };
 }
