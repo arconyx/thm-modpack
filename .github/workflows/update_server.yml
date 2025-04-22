@@ -1,0 +1,47 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update server
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches:
+      - main
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  refresh:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    environment: hive
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        repository: arconyx/thm-config
+        path: thm-config
+        token: ${{ secrets.THM_CONFIG_GITHUB_PAT }}
+
+      - name: Nix Quick Install
+        uses: nixbuild/nix-quick-install-action@v30
+
+      - name: Run nix flake update
+        run: |
+          cd thm-config
+          nix flake update thm-config
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add flake.lock
+          git commit -m "update flake.lock"
+          git push
+      

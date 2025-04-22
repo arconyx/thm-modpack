@@ -5,3 +5,5 @@
 flake.nix
 flake.lock
 nix/
+result
+.github

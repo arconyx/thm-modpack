@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/refresh.yml"
-hash = "bedef77e9e7d9a1c8f79ebbd52ac4b6bc173c047c3b3a51ba4135ce526769656"
-
-[[files]]
 file = "config/Spectrum.json5"
 hash = "a49a6a238ece8cb8bae91521b6cec36f0fe54faf189939b845b98ae824a03e99"
 
