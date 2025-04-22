@@ -889,6 +889,11 @@ hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
 
 [[files]]
+file = "mods/amber.pw.toml"
+hash = "4aac6eb296d70a7cca5f58dc288e202910d164772ab8ca475a6986b989348cdd"
+metafile = true
+
+[[files]]
 file = "mods/amcdb.pw.toml"
 hash = "187a1ec2a2f31d4c9c6c4086ae2567658db9e36e1988364ef6f3e684a9c9d8ca"
 metafile = true
@@ -1275,16 +1280,6 @@ hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
 
 [[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "ef94de01c9d3c9341592c7d3b53215273842d4a462fc22c899a8cbf909ba4bbd"
-metafile = true
-
-[[files]]
-file = "mods/ftb-ultimine-fabric.pw.toml"
-hash = "a540122c77f6f17d9ac266fae149efc817cbf0c96ef958559f56d86206c945a6"
-metafile = true
-
-[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "3251cbd6f9d698f979aa5db8ad95bedb3d39b4deb41ec18ab91635b650d977db"
 metafile = true
@@ -1429,6 +1424,11 @@ metafile = true
 [[files]]
 file = "mods/ledger.pw.toml"
 hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
+file = "mods/liteminer.pw.toml"
+hash = "5661c5d459dd0baa82fe42b4fc9ac5b54541bb7a3bee4c359dca9b7315a6c4c5"
 metafile = true
 
 [[files]]
