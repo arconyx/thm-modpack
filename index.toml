@@ -1382,6 +1382,11 @@ hash = "82d49e37ee8a4883be87a1cb5d8748f5a6bcfc758f4173b68f78f9e7caf989a7"
 metafile = true
 
 [[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "5798343ead56724652e437636b291b7240801757cdc982577a9cae8ed776d20d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
