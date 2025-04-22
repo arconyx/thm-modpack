@@ -105,8 +105,7 @@ in
         mkdir -p $out
         cp -r ./config $out/config
       '';
-    }
-    // {
+
       passthru = {
         inherit manifest modLinks;
       };
