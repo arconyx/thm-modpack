@@ -1,24 +1,27 @@
 # Modified from https://github.com/getchoo/packwiz2nix/blob/1c9c0ef2e40fbd1a921b446d8fe5884e645e4308/lib/default.nix#L67
 # Original file MIT Licensed, MIT License, Copyright 2022 seth
-# and
-# https://github.com/Infinidoge/nix-minecraft/blob/08e7432873f6af108912006a40629ab7799799e2/pkgs/tools/fetchPackwizModpack/default.nix
-# Original file MIT Licensed, Copyright 2022 Infinidoge
 
 let
   inherit (builtins)
     attrNames
+    baseNameOf
     listToAttrs
     mapAttrs
-    readDir
     readFile
     replaceStrings
     fromTOML
+    path
     ;
+
+  tomlFiles =
+    pkgs: dir: pkgs.lib.fileset.toList (pkgs.lib.fileset.fileFilter (file: file.hasExt "toml") dir);
+  jarFiles =
+    pkgs: dir: pkgs.lib.fileset.toList (pkgs.lib.fileset.fileFilter (file: file.hasExt "jar") dir);
 
   # loads data from a toml json given
   # the directory (dir) and filename (name)
   # string -> string -> attrset
-  fromMod = dir: name: fromTOML (readFile "${dir}/${name}");
+  fromMod = path: fromTOML (readFile path);
 
   # replaces `.pw.toml` extensions with `.jar`
   # to correct the store paths of jarfiles
@@ -40,50 +43,50 @@ let
     };
 
   # maps each mod to the store path of a fixed output derivation
-  # attrset -> attrset
+  # list -> attrset
   fetchMods = pkgs: mapAttrs (fetchMod pkgs);
 
-  # this is probably what you're looking for if
-  # you're an end user trying to implement a modpack in
-  # your module.
-  #
+  # get store paths for all external mods
   # `pkgs` is an instance of nixpkgs for your system,
   # must at least contain `fetchurl`.
   #
   # `dir` is a directory containing the packwiz mod.pw.toml files
   #
   # attrset -> path -> attrset
-  mkPackwizPackages = pkgs: dir: fetchMods pkgs (mkModAttrset dir);
+  mkPackwizPackages = pkgs: dir: fetchMods pkgs (mkModAttrset pkgs dir);
 
-  # this is probably what you're looking for if
-  # you're a developer trying to use this in your modpack.
-  # this is where you create a checksums file for end users
-  # to put into mkPackwizPackages, so make sure you keep it up to
-  # date!
-  #
   # `dir` is a path to the folder containing your .pw.toml files
   # files for mods. make sure they are the only files in the folder
   #
   # path -> attrset
   mkModAttrset =
-    dir:
-    let
-      mods = readDir dir;
-    in
-    mapAttrs (mod: _: fromMod dir mod) mods;
+    pkgs: dir:
+    listToAttrs (
+      map (path: {
+        name = baseNameOf path;
+        value = fromMod path;
+      }) (tomlFiles pkgs dir)
+    );
 
   # this creates an attrset value for
   # minecraft-servers.servers.<server>.symlinks
-  # attrset -> attrset
+  # This function takes external mods (from packwiz mod.pw.toml files) and local jar paths.
   mkModLinks =
-    mods:
+    fetchedMods: localJars:
     let
-      fixup = map (name: {
+      # Symlinks for fetched mods
+      fetchedLinks = map (name: {
         name = "mods/" + fixupName name;
-        value = mods.${name};
-      }) (attrNames mods);
+        value = fetchedMods.${name};
+      }) (attrNames fetchedMods);
+
+      # Symlinks for local jars
+      localLinks = map (localJarPath: {
+        name = "mods/" + (baseNameOf localJarPath); # Get filename from path
+        value = localJarPath; # Use the path directly
+      }) localJars;
     in
-    listToAttrs fixup;
+    listToAttrs (fetchedLinks ++ localLinks); # Combine both lists
 
 in
 {
@@ -93,7 +96,10 @@ in
     pkgs: src:
     let
       manifest = fromTOML (readFile (src + "/pack.toml"));
-      modLinks = mkModLinks (mkPackwizPackages pkgs (src + "/mods"));
+      #  Fetch the mods defined in .pw.toml files within src/mods
+      fetchedMods = mkPackwizPackages pkgs (src + "/mods");
+      # Find the local .jar files directly within src/mods at evaluation time
+      localJars = jarFiles pkgs (src + "/mods");
     in
     pkgs.stdenvNoCC.mkDerivation {
       inherit src;
@@ -101,13 +107,16 @@ in
       pname = manifest.name;
       version = manifest.version;
 
+      # TODO: validate hashes
+
       installPhase = ''
-        mkdir -p $out
-        cp -r ./config $out/config
+        mkdir -p $out/config
+        cp -r ./config/* $out/config/ || true # Copy config if it exists
       '';
 
       passthru = {
-        inherit manifest modLinks;
+        inherit manifest;
+        modLinks = mkModLinks fetchedMods localJars;
       };
     };
 }
