@@ -44,7 +44,7 @@ jobs:
 
       - name: Commit changes
         run: |
-            if [[ `git status --porcelain` ]]; then
+            if [[ `git -C thm-config status --porcelain` ]]; then
               COAUTHOR="Co-authored by $(git -C thm-modpack log -1 --pretty=format:'%an <%ae>')"
               HASH="Based on arconyx/thm-modpack commit $(git -C thm-modpack log -1 --pretty=format:'%H')"
               MSG="$(git -C thm-modpack log -1 --pretty=format:'%B')"
