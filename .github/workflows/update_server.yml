@@ -46,7 +46,7 @@ jobs:
         run: |
             if [[ `git status --porcelain` ]]; then
               COAUTHOR="Co-authored by $(git -C thm-modpack log -1 --pretty=format:'%an <%ae>')"
-              HASH="Based on arconyx/thm-modpack commit $(git -C thm-modpack log -1 --pretty=format:'%H')""
+              HASH="Based on arconyx/thm-modpack commit $(git -C thm-modpack log -1 --pretty=format:'%H')"
               MSG="$(git -C thm-modpack log -1 --pretty=format:'%B')"
               cd thm-config
               git config user.name github-actions
