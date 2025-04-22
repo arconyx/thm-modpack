@@ -10,7 +10,6 @@ let
     readFile
     replaceStrings
     fromTOML
-    path
     ;
 
   tomlFiles =
@@ -107,7 +106,8 @@ in
       pname = manifest.name;
       version = manifest.version;
 
-      # TODO: validate hashes
+      # it might be good to validate hashes
+      # but this should mostly be handled by flake.lock
 
       installPhase = ''
         mkdir -p $out/config
