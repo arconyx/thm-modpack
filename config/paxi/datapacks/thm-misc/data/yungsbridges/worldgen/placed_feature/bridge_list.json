@@ -1,0 +1,12 @@
+{
+  "feature": "yungsbridges:bridge_list",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 2
+    }
+  ]
+}

@@ -829,6 +829,10 @@ file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/rooted_dirt.json"
 hash = "5e70566ee7ffa45cb1e5f7ac53da1b55fde9d74c47b403b3277daf97f18efe8c"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/yungsbridges/worldgen/placed_feature/bridge_list.json"
+hash = "71510080205d736abc466ad01a5d3359b7a6eb7580bec8ce648d7c6c4de081d2"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/pack.mcmeta"
 hash = "2ba917efab092309975ef4b00f9e257cb7e598a31095557aff4964b3a16faa66"
 
