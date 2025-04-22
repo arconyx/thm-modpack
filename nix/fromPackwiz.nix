@@ -103,7 +103,7 @@ in
 
       installPhase = ''
         mkdir -p $out
-        cp -r ./* $out/
+        cp -r ./config $out/config
       '';
     }
     // {
