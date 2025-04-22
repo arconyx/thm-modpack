@@ -22,8 +22,12 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout repository
+      - name: Checkout modpack repository
+        uses: actions/checkout@v4
+        with:
+          path: thm-modpack
+
+      - name: Checkout server repository
         uses: actions/checkout@v4
         with:
           repository: arconyx/thm-config
@@ -36,14 +40,22 @@ jobs:
       - name: Run nix flake update
         run: |
           cd thm-config
-          nix flake update thm-config
+          nix flake update thm-modpack
 
       - name: Commit changes
         run: |
-          cd thm-config
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add flake.lock
-          git commit -m "update flake.lock"
-          git push
+            if [[ `git status --porcelain` ]]; then
+              COAUTHOR="Co-authored by $(git -C thm-modpack log -1 --pretty=format:'%an <%ae>')"
+              HASH="Based on arconyx/thm-modpack commit $(git -C thm-modpack log -1 --pretty=format:'%H')""
+              MSG="$(git -C thm-modpack log -1 --pretty=format:'%B')"
+              cd thm-config
+              git config user.name github-actions
+              git config user.email github-actions@github.com
+              git add flake.lock
+              git commit -m "update flake.lock" -m $HASH -m $MSG -m $COAUTHOR
+              git push
+            else
+              echo "No changes"
+            fi
+          
       
