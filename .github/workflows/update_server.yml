@@ -25,9 +25,10 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout repository
         uses: actions/checkout@v4
-        repository: arconyx/thm-config
-        path: thm-config
-        token: ${{ secrets.THM_CONFIG_GITHUB_PAT }}
+        with:
+          repository: arconyx/thm-config
+          path: thm-config
+          token: ${{ secrets.THM_CONFIG_GITHUB_PAT }}
 
       - name: Nix Quick Install
         uses: nixbuild/nix-quick-install-action@v30
