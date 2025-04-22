@@ -40,6 +40,7 @@ jobs:
 
       - name: Commit changes
         run: |
+          cd thm-config
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add flake.lock
