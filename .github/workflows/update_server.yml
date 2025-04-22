@@ -52,7 +52,7 @@ jobs:
               git config user.name github-actions
               git config user.email github-actions@github.com
               git add flake.lock
-              git commit -m "update flake.lock" -m $HASH -m $MSG -m $COAUTHOR
+              git commit -m "update flake.lock" -m "$HASH" -m "$MSG" -m "$COAUTHOR"
               git push
             else
               echo "No changes"
