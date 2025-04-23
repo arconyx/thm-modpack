@@ -1,0 +1,13 @@
+name = "Meal API"
+filename = "mealapi-0.3.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZfVQ3Rjs/versions/3lsXZMiV/mealapi-0.3.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "3959b1ad78573e5501a4c71c5d34a8038e7258f05b64e4da35f6c032139a63f4f46e851d1108601197af26a0e4f5c4f50a0b9be8f32e197b91a1f531d87abad5"
+
+[update]
+[update.modrinth]
+mod-id = "ZfVQ3Rjs"
+version = "3lsXZMiV"
