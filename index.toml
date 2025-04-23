@@ -745,6 +745,10 @@ file = "config/paxi/datapacks/lootr-better-end-compat/pack.mcmeta"
 hash = "c7f276dd70fb9152dd7a6de68b1c48b925050b4082d78088bc5c9d372e3fe504"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/anxff/tags/worldgen/biome/spawns_fireflies.json"
+hash = "7722e46df6fa92f86401b68c5b753c2280c70cfe73e0dbfe478c5d6b3a8cf0e6"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/arc/advancements/dripleaf.json"
 hash = "8dbc55cf9937dc5668d16671a338f402461f3b02d0f4c9fda5b9e6fe8c47c5e2"
 

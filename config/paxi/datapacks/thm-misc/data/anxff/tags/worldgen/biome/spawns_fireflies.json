@@ -1,0 +1,29 @@
+{
+  "replace": true,
+  "values": [
+    {
+      "id": "#c:climate_temperate",
+      "required": false
+    },
+    {
+      "id": "#c:jungle",
+      "required": false
+    },
+    {
+      "id": "#c:swamp",
+      "required": false
+    },
+    {
+      "id": "#c:floral",
+      "required": false
+    },
+    {
+      "id": "minecraft:beach",
+      "required": false
+    },
+    {
+      "id": "minecraft:savanna",
+      "required": false
+    }
+  ]
+}
