@@ -1712,11 +1712,6 @@ hash = "ab61419d2a844be219563360454526e1809907a5ead09fcafd5a3ba0c3ae45e4"
 metafile = true
 
 [[files]]
-file = "mods/scorched.pw.toml"
-hash = "43b05af7ea98a99a4872ed944f4b1180ef9c8ea1775f4fabc9406c903e0ed5d6"
-metafile = true
-
-[[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "ed7fc2e1fabeb5d3abe356a1a5f12c7ba3c846e14721ee6368f70d9067ce9936"
 metafile = true
