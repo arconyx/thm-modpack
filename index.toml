@@ -1301,6 +1301,10 @@ file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/so
 hash = "ffb41f9603fcef34db5051da7126c39c36efe1245992a877614ed0b483f8c417"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/supplementaries/soil/flax_bale.json"
+hash = "f5b0eb5ae8edc8cbf0c4c0c6e98d24eb0d5e74e82c554180e54ffa68cde198dd"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
