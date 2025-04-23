@@ -814,7 +814,7 @@ hash = "02a5faeb0f26965fdd8fcd7aa7ca1c9a442ec9fefbc6d6207eb50f5c3d126067"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/mandrake_root.json"
-hash = "acc520e4421ff827a8674910454e1f5856c28ff9ae2c631c71478005cad215d6"
+hash = "82003dbe335939f280816e47aa79059286740ee0938783e926ff17d0401bd3d7"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/allium_flower_bush.json"

@@ -3,7 +3,7 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "bewitchment:mandrake_rootseeds",
+        "bewitchment:mandrake_root",
         "bewitchment:mandrake"
       ]
     }
