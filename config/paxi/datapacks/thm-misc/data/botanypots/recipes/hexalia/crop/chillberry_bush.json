@@ -1,0 +1,48 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "hexalia:chillberries"
+  },
+  "categories": [
+    "dirt"
+  ],
+  "growthTicks": 1200,
+  "lightLevel": 14,
+  "display": {
+    "type": "botanypots:transitional",
+    "phases": [
+      {
+        "block": "hexalia:chillberry_bush",
+        "properties": {
+          "age": 0
+        }
+      },
+      {
+        "block": "hexalia:chillberry_bush",
+        "properties": {
+          "age": 1
+        }
+      },
+      {
+        "block": "hexalia:chillberry_bush",
+        "properties": {
+          "age": 2
+        }
+      }
+    ]
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "hexalia:chillberries"
+      }
+    },
+    {
+      "chance": 0.05,
+      "output": {
+        "item": "minecraft:sweet_berries"
+      }
+    }
+  ]
+}

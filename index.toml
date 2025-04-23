@@ -797,6 +797,26 @@ file = "config/paxi/datapacks/thm-misc/data/arc/recipes/trident_recipe.json"
 hash = "9b43a056c58f7869423d2db3b2405f4df0b2b22b55b6643e5d0efbf355bf3447"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/aconite.json"
+hash = "058be3fe9fffbff902c6dae92b7675dd158f461c53bb8db135d57e2307adcfa9"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/belladona.json"
+hash = "73c1357e8851b4d0e3c978dc411e7dbecb3f2c0e0313a1779a9498e3e09cc1cb"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/fruiting_bramble.json"
+hash = "8a75a3439dd1d19e32856af118e56b1bc9d7fbc5158981ac7bd63ecd8113ad90"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/garlic.json"
+hash = "02a5faeb0f26965fdd8fcd7aa7ca1c9a442ec9fefbc6d6207eb50f5c3d126067"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/mandrake_root.json"
+hash = "d353d8cbe35d03b486a951f0b340f4e35c0cb6c9082cd26001396ea9f2caefdd"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/allium_flower_bush.json"
 hash = "35a3f31669ec523390b8307f476f47597aa2915d600a9688cb71e23b5edf1cde"
 
@@ -1301,6 +1321,30 @@ file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/so
 hash = "ffb41f9603fcef34db5051da7126c39c36efe1245992a877614ed0b483f8c417"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/chillberry_bush.json"
+hash = "2475258837dffe34d39b4cef3cd54dcceb98ac7c53c777ab23e59fe4ade769f5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/mandrake.json"
+hash = "4240a59025da3c589c32349c19a7282753aec99d0bb6ba90187690afdb322937"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/moon_berries_vine_plant.json"
+hash = "6620e8b17edc84cb9c8e2633a97549f418cbf0d1fcb3fa95e44cfda300523eab"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/rabbage.json"
+hash = "16ec5a6bb284ae50c856d64592377e52887f1832384bd47ec2097deda5f63332"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/saltsprout.json"
+hash = "7a58634be91eb440b9e1ecbeb6f97f193d6839a9c3c4dbe6aebbea87541f0ade"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/sunfire_tomato.json"
+hash = "057d5ab7482ee434394c41978d9963d635e9736122e336189c2a8964fad08cac"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/pot_interaction/flatten_dirt_path.json"
 hash = "a31a26d1ff6df15947d0d7aa0f0cb87e258e8be3a55a5ce3bdea63a3d50197ed"
 
@@ -1325,12 +1369,80 @@ file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/soi
 hash = "b246956dfc50a1c5bf96aaf81c4aab1d76bb534bea02e99f496287e750ec1385"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/ancient_grain.json"
+hash = "d78a9113a2f2ebddb052c93e8745fe801a803deeab93fd7f274a8730f25f9230"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/cucumber.json"
+hash = "d3129b5ee36f7461f87473a7dcc83d74ac00b061e828e4d3ca772af7715caa9f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/lettuce.json"
+hash = "eb5f2bc09071c3d278e4270b98b3f31564645f2d8f2cb03eb922d8e80606d46b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/onion.json"
+hash = "ee15abfb637298be46c477c4eda24c3094269542423e8d9f5a30b3422fc5cc40"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/tomato.json"
+hash = "711000dc663777babd89b2e2c92faf0dc358d253d21d53e9a7afd1e177435435"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/supplementaries/soil/flax_bale.json"
 hash = "f5b0eb5ae8edc8cbf0c4c0c6e98d24eb0d5e74e82c554180e54ffa68cde198dd"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/tconstruct/crop/blood_slime_sapling.json"
 hash = "efacf0fa6f3eb437d7797bb4680b86e2f3c0c8cc6b90ea964cb56fb61906765f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/bewitchment/cypress.json"
+hash = "a872e401a0905f92ff0b1937ab39b802c55f6330baf2fe11fd557d9d8c370f73"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/bewitchment/dragons_blood.json"
+hash = "050e4ce64474bec120cc0f11bd89a97739a3232cb9daf0beff3ab8630334cf9c"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/bewitchment/elder.json"
+hash = "d6ba9a1b9e4ec5e3a6b81410e977fc042fe73fdc589300b66cd17339f96a92b0"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/bewitchment/juniper.json"
+hash = "e3a69b24affff56a50b78f653a0bb3ae950ebe6a7ed086baf9fab081b7019682"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/hexalia/cottonwood.json"
+hash = "2bd98029960e0daa8a93f2757b2f4720397e7c769ed9d58e9036f585b304e079"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/hexalia/willow.json"
+hash = "d4814a75f6f467ed76ac16783ab609b728db3a17e2474307fc4a5fb023003cc7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/aurel.json"
+hash = "05b4133336420e91dcbca513cfd55321c459465039eb261bcfefa57c489ed485"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/frost_wisteria.json"
+hash = "abde3008ef45caa3851e9fd3751c863d32a66573d89bab4e539d504928177316"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/lavender_wisteria.json"
+hash = "fe74022a435c3137900e63de0e115a30642994031b3eb9beef83266f880d16a1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/mother_aurel.json"
+hash = "c1d6691675fb9f33193f56f221182cb40bc12484800219c807c92a708f1531f8"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/orange.json"
+hash = "184d7c67bb2785bd8b2db0b67d00ec58922db10dd5432e1b90f785a95dc48aa7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/rose_wisteria.json"
+hash = "7840e60c85c7445f3154db9fa58ccb4ecab8061d6b75101f59ed0d519130274d"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"

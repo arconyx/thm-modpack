@@ -1,0 +1,40 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "hexalia:saltsprout"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "hexalia:saltsprout"
+  },
+  "categories": [
+    "dirt"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "hexalia:saltsprout"
+  },
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "hexalia:saltsprout"
+      },
+      "minRolls": 1,
+      "maxRolls": 1
+    },
+    {
+      "chance": 0.05,
+      "output": {
+        "item": "hexalia:saltsprout"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    }
+  ]
+}

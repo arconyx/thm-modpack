@@ -1,0 +1,33 @@
+{
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "bewitchment:fruiting_bramble"
+  },
+  "categories": [
+    "sand",
+    "dirt"
+  ],
+  "growthTicks": 1200,
+  "display": [
+    {
+      "block": "bewitchment:fruiting_bramble"
+    },
+    {
+      "block": "bewitchment:fruiting_bramble"
+    }
+  ],
+  "drops": [
+    {
+      "chance": 1.00,
+      "output": {
+        "item": "bewitchment:witchberry"
+      }
+    },
+    {
+      "chance": 0.05,
+      "output": {
+        "item": "bewitchment:witchberry"
+      }
+    }
+  ]
+}
