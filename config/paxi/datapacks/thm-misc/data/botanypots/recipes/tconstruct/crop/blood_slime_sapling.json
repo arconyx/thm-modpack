@@ -1,0 +1,37 @@
+{
+	"type": "botanypots:crop",
+	"seed": {
+		"item": "tconstruct:blood_slime_sapling"
+	},
+	"categories": ["blood_slime"],
+	"growthTicks": 1200,
+	"display": {
+		"block": "tconstruct:blood_slime_sapling"
+	},
+	"drops": [{
+		"chance": 1.00,
+		"output": {
+			"item": "tconstruct:blood_slime_log"
+		}
+	}, {
+		"chance": 1.00,
+		"output": {
+			"item": "tconstruct:blood_slime_sapling"
+		}
+	}, {
+		"chance": 0.25,
+		"output": {
+			"item": "tconstruct:blood_slime_leaves"
+		}
+	}, {
+		"chance": 0.25,
+		"output": {
+			"item": "tconstruct:blood_slime_ball"
+		}
+	}, {
+		"chance": 0.05,
+		"output": {
+			"item": "minecraft:shroomlight"
+		}
+	}]
+}

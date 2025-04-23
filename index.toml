@@ -1301,8 +1301,36 @@ file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/so
 hash = "ffb41f9603fcef34db5051da7126c39c36efe1245992a877614ed0b483f8c417"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/pot_interaction/flatten_dirt_path.json"
+hash = "a31a26d1ff6df15947d0d7aa0f0cb87e258e8be3a55a5ce3bdea63a3d50197ed"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/pot_interaction/till_farmland.json"
+hash = "ff35cb85ac39e56eac241ee69f6948cf7afcf20d56479d49cbfaf9fad9d9a218"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/soil/highlands_grass.json"
+hash = "1a65b2683ab53c7b0f91c565c3d6b76567cd8808048135bbed9d865e038278ab"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/soil/highlands_grass_path.json"
+hash = "c1343f57ebac530914e515b9183690e1e2786a6a4c9bbbed65049dc2769becab"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/soil/paradise_dirt.json"
+hash = "4f845d78aaab1f4d877a76fa843c7024f86af912e58ac2cbe3fb65e0c89abe56"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/soil/paradise_farmland.json"
+hash = "b246956dfc50a1c5bf96aaf81c4aab1d76bb534bea02e99f496287e750ec1385"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/supplementaries/soil/flax_bale.json"
 hash = "f5b0eb5ae8edc8cbf0c4c0c6e98d24eb0d5e74e82c554180e54ffa68cde198dd"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/tconstruct/crop/blood_slime_sapling.json"
+hash = "efacf0fa6f3eb437d7797bb4680b86e2f3c0c8cc6b90ea964cb56fb61906765f"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
