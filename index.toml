@@ -797,6 +797,510 @@ file = "config/paxi/datapacks/thm-misc/data/arc/recipes/trident_recipe.json"
 hash = "9b43a056c58f7869423d2db3b2405f4df0b2b22b55b6643e5d0efbf355bf3447"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/allium_flower_bush.json"
+hash = "35a3f31669ec523390b8307f476f47597aa2915d600a9688cb71e23b5edf1cde"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/aloe_vera.json"
+hash = "2f6bb18d2d694b1ffbb1358b07ec898b4fad3469850dbc2c34d1ea6acf327e0d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/alpine_bellflower.json"
+hash = "7c0a5d8873992369ef6e67edb76d9ff8388481296b08be24bda9b3fff1af169a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/amaranth.json"
+hash = "cad55355a9be2087eb1a6c07ffb8aa8e368d26ae553d11c99ddd9bf439c2fb5d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/angelica.json"
+hash = "e2505b6a5c233cb5c84c714b1ac9c5b1f5fce4e831088b6316ee4a741b29f212"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/barrel_cactus.json"
+hash = "8a63e6c651a4f863bb65549057764d034bedc64a58dacef2ec33f3b221743115"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/beach_grass.json"
+hash = "7d0fcfcdd10cc05d7909b625a135b3cb6474f5e8d48996412e8fb074fb6b89f5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/begonia.json"
+hash = "c883769c44656a34fdc5c41ed2752ef35baf76049d5ef5a02daac495ced8ec20"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/bistort.json"
+hash = "e9b0f1f73ade3c6bff0df06dc809f29655231c6b9c90ac83fbc045fe2e83ad2e"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/black_rose.json"
+hash = "cb65cd6a4d8753e4e4eff6607680573233b836634861aeddf53b6bed3f7c57e5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/blue_rose_bush.json"
+hash = "90539fc11ee3dbecc685d9f88050cb86fd1f172cd0f9bd23d5953167e5cf12d6"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/blue_sage.json"
+hash = "91a217dca4f920621c4949c2a76537a7ddb3cef4aace726c06eda9c011eef189"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/blueberries.json"
+hash = "1023261e1db986cc4ff49a9d97881d570f60e77f7a398508c2fdcc605425af00"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/california_poppy.json"
+hash = "2833239bffd253cf10eb562a8c3a2b9c38a18e2db3ce96e42edc1af5e7add819"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/cattail.json"
+hash = "c83e6c9429c27a8f688785a11c385a9da573410e85df0983906af18bdf1d00e1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/clover_patch.json"
+hash = "93b8bc3e856c69c1493ff1095cd4538fc0f5e77f19221c09d06bde4477347e0c"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/crocus.json"
+hash = "006b15ff749f9274ca3f0316874bcbbbd747ba6ca4363bbf90d99909ddaadda1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/cyan_amaranth.json"
+hash = "72a0e997a91182e19ccba4ec5912453a5f2500c64d38d3ea9086d0a83f9ca188"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/cyan_pitcher_plant.json"
+hash = "75a6fcbd7493fa8616f708017e31108feb6d0b37e949d9cd4cff904db91ac674"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/cyan_rose.json"
+hash = "ee20266b198a920218ecc62e31799cda80010e347eadc3fbef56165e684d53f9"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/cyan_tulip.json"
+hash = "63a4de20dce7f7dac11a6a13e03e957ceb385cbb339d56dbedd2558a052c511d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/daffodil.json"
+hash = "2fd79613e344f79bbc7141e4deb0667d2c06d72b64b9804050bb1f6fb4e88a3a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/delphinium.json"
+hash = "d7ef1f405a8c88b0219bd0e53b2e03dafadca8d433d9b4a8122490e878f138a5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/fairy_slipper.json"
+hash = "cdbdc3fe40e0c205d25e455b8a746be4e732c5268c56d9051ce63bc6ab2a8e44"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/firecracker_flower_bush.json"
+hash = "04c5966efabcc2b1873fe7383bbb00f474afbc2022003438f79056350819e54d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/flower_patch.json"
+hash = "5b843e2f0685997ccae0a1cb9b2db9c6239546d3a5e3fd9cd9aaaadcdbbe9fbd"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/flowering_barrel_cactus.json"
+hash = "c13e329d739f091b22d77774516ce49b693a0672528cc7ec99a35bc72a9cf6ec"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/flowering_indigo_jacaranda_bush.json"
+hash = "9055c1abbe440d3ef3eb6228e01613b836961f7f9f4e71839b4f7688c2de94c6"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/flowering_jacaranda_bush.json"
+hash = "cdfc4bc149bab02b478b7a01e36876e9798898f6bffaf47adcbf75214f40615f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/flowering_tiny_lilypads.json"
+hash = "f42ddc490c993b3eb3b3d4c03d896a5da2a5290df0b47f1ff4321509fa777006"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/foxglove.json"
+hash = "9bdc592df4cfbba2727fdb025f8e67a690bcb1a7385e2bab972b8cd923f5141e"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/golden_spined_cactus.json"
+hash = "2284c7bc12eb81a21fb0ab8b047a9aebfed653eea9431da847f8fc020462804f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/green_mushroom.json"
+hash = "6a656c64d99317dbe0d18234ca3c90264e5ce8796217e5de1e764a8a26eedb99"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/green_tulip.json"
+hash = "775541827bc54df904e22023a90acc14a00b7afee00f2f7110d7824f19f14d22"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/guzmania.json"
+hash = "7c5a9c789106c7186169591352d33e4eda43373ab16a42aa2bc69b125f3ea5db"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/horseweed.json"
+hash = "6ed34c3ab9f091264b797c9a1e7f8c6b6c13e0cdd8397fc69ce52db1a12b330d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/hydrangea_bush.json"
+hash = "05dfed77f6777a9ce4f68c0417088d5023b61e929be08e958f723f9fd33f2975"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/hydrangea_hedge.json"
+hash = "2a550be55c70754a50370fdfc79d96b42a900ce4fff7c65ff146c55b9428448f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/incan_lily.json"
+hash = "ed6c578dedca6ed6e0561715356a45444f25eb62d34ba967b7a098845b439863"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/indigo_jacaranda_bush.json"
+hash = "79d64108ae80f3f411dd8e3e913e2f2b2aa844da5026e271463ccf0f017c2413"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/iris.json"
+hash = "e2ddde32686cba2ab53be95127b07e9fe7b440fb9c59824e35a66486e74c4c2b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/jacaranda_bush.json"
+hash = "4771a1950f21ab6c54b0d35baf39d5ccfcd16083b762cb1af2e01f0c184b7663"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/japanese_orchid.json"
+hash = "b2b63b7ee8c691b2f39e19b7685d7506f19f0b3575f3ae4d59446694ef95dc01"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/kovan_flower.json"
+hash = "52c6dc19474a8a1673e625c5ad68633a6f919056e06b111ef4111235725cc19b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/lazarus_bellflower.json"
+hash = "2ba2c4bcd50ab9ebd714bab5dfdf0f69fe1647bd438d147a9d149e62310f07e8"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/leaf_pile.json"
+hash = "ea5c0ed4f99cbc4911c3e93871ffc614b1b79a6a7dd9c9badece3a058fd950af"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/lollipop_flower.json"
+hash = "97f20cc98260b5aafe66618c51c124e439103b87aca9ed3036c24d436588a5ea"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/magenta_amaranth.json"
+hash = "1a8b5e4bf56dd43e570502fb3c500ef302e5759ca2db5ec9722cc6d83bfa7b3b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/magenta_pitcher_plant.json"
+hash = "7ce5f95bd2f60bce1d705b2f64d384c7dcec90b0d30b750229b7c8ec1163f454"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/magenta_tulip.json"
+hash = "a870b8b5373330f7e48c2fbbe7cb45aa3b9699a855bce381892d60130bfe4859"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/mini_cactus.json"
+hash = "c8f5e2b17354c5a2f8026e67b4722dd489a5a2c2bf406b8aabf1629faea6a9e5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/orange_amaranth.json"
+hash = "7e859ebb25a4a36bf8b568bbafccbcc0d3476c24c714f05ceb2b6a15fdb5bd8b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/orange_daisy.json"
+hash = "fa89e7a414c524b58cbf1749795a162e7bead19b3b5c040b3b8cd389f3d38683"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/osiria_rose.json"
+hash = "7ec19f2657b55192104ebdda355c797b21ef286ff6d0d9494700577e112e2455"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/peach_leather_flower.json"
+hash = "c6dc53814a07430d5334f4de3a1e645375a50d2c5f336fb8d53fbc0bd2da1867"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/pink_allium.json"
+hash = "2604ca92fb873dba97ce25a8cafb55641f3a4260c0af04089f93478d0efd1385"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/pink_allium_flower_bush.json"
+hash = "390f40184c5a2d7029e1d17e595f24abdb435c70a1cf7fa58fc5b4ff8a0ba7d5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/pink_anemone.json"
+hash = "aaa2106dc08ed57c3994d50475a2b13bace3847740b43a685d680ea5ee01462b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/pink_daffodil.json"
+hash = "27e7f01fd1a308ef476b45a4c2c66b088db11226ae0e324258da6d8b88fa3b19"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/poison_ivy.json"
+hash = "5748e9f392656997fa6e4f0c2a595ee59d0f60335e4a88cc64a954807ef89802"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/prairie_grass.json"
+hash = "3e939c9d6aa7fc4eebbef572073467e34c3224a075b3690fad22772d2f1da7f0"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/prickly_pear_cactus.json"
+hash = "222dae92b56e6f41a0c1536e3b80679d47aa4724121451dd9e3327ad3e6592c7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/protea_flower.json"
+hash = "3d16cafdc075a6a1cb752e7968b710d1c72fbba1a722ca096558f4f71863da56"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/purple_amaranth.json"
+hash = "818145d3d744f7488a2970619a0e3def901f7d9719fd6601d181659964ec2057"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/purple_sage.json"
+hash = "93bd3a23c86987baccdbd3aefe5775dff7e649e312e854987b918b5fceb84117"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/purple_tulip.json"
+hash = "9aca4aa46a948ecc7d8493afc7c42202f4741ecdf8d13c0eb273c90522fafdc7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/richea.json"
+hash = "d95a2ab930d42db11358c79a404cd686ebe8d634f253d825b8899eae65827949"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/rose.json"
+hash = "b04d4e89e74f29497b43f2bfca30e5dabe23715b3b1fb86282c11d749f95c49d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/shrub.json"
+hash = "ea9170808c1da31e19a5c3aea18287d4da34877bbf7ca3a77abb38f8f6ad9351"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/silver_vase_flower.json"
+hash = "b02768936d8850f3af2bdcbeed3948d803fca4d59bbab4f6c627693d2832f1fa"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/skyris_vine.json"
+hash = "fc09baaa6c16c7c81e9655ea2018acfd365794c18b927f8a157704e5cf898a32"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/snowdrops.json"
+hash = "29c5ee66a8b5097b229db8f92890688c659149eb0d862bf5518f9fee5451b0af"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/tall_allium.json"
+hash = "9497158e8a5bfb6365ddba3f10ef98368e7372ca917f8f1e1a82cd585bf033de"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/tall_beach_grass.json"
+hash = "b2cfdb5831816383e7bdb0661c9ac319231a04dace4ed61415c4c5c11ba49122"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/tall_pink_allium.json"
+hash = "fa972b4fe37d83ab80a444f57f1ed7a19d957a8e99a5143569fd520b08b134da"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/tall_prairie_grass.json"
+hash = "fbf62df3d8306db548921be95c16b75d39978bc722ab495b298230bdff14bf02"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/tall_white_allium.json"
+hash = "3a4f1f42ddb5b45389e24808b1386fff39f41c37e41389b7f61bd815e06700d3"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/tiny_lilypads.json"
+hash = "654304597dd7341d3b997accefb93d09d144dd2124770d3924095342d41bd208"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/violet_leather_flower.json"
+hash = "d2764cba1ac820bde215331e84d8e77a4bf5c1145e42c9d48b00f97268d05287"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/water_silk.json"
+hash = "a5e50092268a4bd8c5cc1e13a45a5b4823ef9de76b727c7bdb07fa0a761cc66e"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/weeping_milkcap.json"
+hash = "e53afaf8f0f47d0e19f7099967d79a16fc94e6d82993f03a3f67b74c87f1752a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/white_allium.json"
+hash = "61432d292ad2dcf02b873dbad42733f511798b8e1eff30d6410c57b102b2b26c"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/white_allium_flower_bush.json"
+hash = "5d5f649b285bb34b17195438272013c2417cd995e8baf0edc08065774b8fb24c"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/white_anemone.json"
+hash = "8122c57ccb8eb92446f9b8939f296bad57c156553261bf1cba732cf3646bd9b6"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/white_sage.json"
+hash = "7d1a084c0b88878b25c9e69df1c2c6362cb182cf0f743b4db54d106545ded52a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/white_sakura_petals.json"
+hash = "d365fd1baf64f0eb652f421f185183d59542960524cba21ba17eb37907c14607"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/winter_cyclamen.json"
+hash = "b4a97193fe71769952793449cd79edde037f12c4a1be9647cc1ebb4ef083b78a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/winter_rose.json"
+hash = "c4d4875a8230e16b4b944ed4d09696292204c1c5a0d78428f8d2f3005e0daf86"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/winter_scilla.json"
+hash = "f63e8293cbed33fb96c9efc1bbde12cbe3813f81631d16bf7b6810940a8e4f7a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/winter_succulent.json"
+hash = "4792014f69fecd81a18257254563bc9ad1ac9c8cafc58ba7aff95062ac442e1f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/witch_hazel_blossom.json"
+hash = "3e17211b78fd8e3babe47e0bb25b227fb4202aa50b3a9641d826f4f22bf67a50"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/witch_hazel_branch.json"
+hash = "f5da0b36d02f6236532f41088b8f69ebbffbaaed8400c6ca2cb9766b46186e07"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/wood_blewit.json"
+hash = "9db324b8b17e191bc9d1f440aae560ae672cc13f86c35802b388bfe8553d1952"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/yellow_daffodil.json"
+hash = "f1e60129d7cdf93914e0924e4aa8f1531379ec28ca8053e8a0969b15b06f8262"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/yellow_sakura_petals.json"
+hash = "7130f1758148508569525518b4051518ed760958595fa2c8bbbc7db27259e656"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/yellow_tulip.json"
+hash = "d302f11122c562ae35b855a8fc17a987c7792d079e3851f048958d4d15357331"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/pot_interaction/flatten_lush_dirt.json"
+hash = "88f287dd0ed0a01cffed3c1014ae97c6a81e6d801be8b07feb0fed9a548bb946"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/pot_interaction/flatten_lush_grass_block.json"
+hash = "4f8b271a6967e9aeb611403cb547e94335edf2e8780f78b21b3e82ba5655a9d3"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/pot_interaction/flatten_sandy_dirt.json"
+hash = "04ee709faaf06e17d3f1ca77ad58defc45e3815872b51c9f7722c0580bbed1f4"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/pot_interaction/till_lush_dirt.json"
+hash = "d543657b9504dc6d153d52b213d97b38ae0f7eb6a6e11fe2c9a9d85890e46b0c"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/pot_interaction/till_lush_grass_block.json"
+hash = "8d2cb01ac8a5989db52bfcc81b74a98c31fdc1a124e64e8b28e61a0854114762"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/pot_interaction/till_sandy_dirt.json"
+hash = "d5a24a223430002dbb6095015e6580dc0cc70cb1dd07eff2246232a97e904bd1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/black_sand.json"
+hash = "e46992f97222b4962714c525748a6bcd71fb59846c2ef7e0a2ef4c8586e77f22"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/blue_sand.json"
+hash = "8d7592ea222f8692b60803493bd537de09a083b9a71cbf577711cf5e65518b37"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/dacite.json"
+hash = "7484b133f2e112b2f3bd8ee4fd5aed7fa0f3569a0606b87f3b1c994fabfe21f1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/end_sand.json"
+hash = "e39d5259b16e0e49d6895a6e92645fca2b0f850e4c5a63a57f4fb21dd015d5dd"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/lush_dirt.json"
+hash = "bd14fabd8108db0f7df7b43464427d6a6bf45c0b61b85f13199e87554ced58c0"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/lush_dirt_path.json"
+hash = "396f3e7db41b601752ae8a5f7a2714fdae1b706949552aea31467c0c9b77b5e5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/lush_farmland.json"
+hash = "9b1f80c205805ac20a949a51bf40ccf9922948896f844000df5adce48965abec"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/lush_grass_block.json"
+hash = "6b04439e84e7e995ee1662e8c6e75fa7e50a7865a526afeab0aabd7bd24c74b0"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/mossy_stone.json"
+hash = "22cb7cedd75110461bcd2063da6df2c02e47571c8177b786b4dcef3b6ef0d0e1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/overgrown_dacite.json"
+hash = "a33ed421d63ac021596b77cf43165bcad2c1f4e331f8ed636f4c0b2af64daa82"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/overgrown_stone.json"
+hash = "39a6011adfe48c657e435ec4bdce06dadcdc255edde1ef35c3f2b08f6a7427dc"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/peat.json"
+hash = "d490c0be66641309774634279c0ddabc4f88c1531d47df1f96df700fbcc21cf1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/pink_sand.json"
+hash = "9ee4abf9efdc6921752a6cfe1dcc61a0d740b4e522623f9a281a0b7758da6fd6"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/podzol_dacite.json"
+hash = "d6455c2d95b8efb0125f0bfe01500fd453916cae5857355277d6c5270cf2d22f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/purple_sand.json"
+hash = "a768b011b4a14ed16c258cebccd27aa7bc0de01d391f46c70f49313c8b5b1f3b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/quicksand.json"
+hash = "87a2572ca7ae8d11b25f27f4373e4d4ce41639e2cfcab2a8b6d9decf657b46cd"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/red_quicksand.json"
+hash = "1d26fcaab511905f843384cacfad1c3ce723db2f59c8eaf5102574b63416a88a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/red_rock.json"
+hash = "38d68e35050709a65ab59fa8ba7f36d8e3a735d04dbe784c1fcb85375294f36b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/rocky_stone.json"
+hash = "b01bfdfd84a0bb3018802e764e4b84fb121afbb0863ab93ca3c75b6aad5a5de5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/sandy_dirt.json"
+hash = "8c9f189ce37207b971e312b3f5c046c6cf194353725941604538b2e73de05368"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/sandy_dirt_path.json"
+hash = "50dcf938bde8ca98c1304cb36130fa3accb283895b802978016ed5e6e1e4d4a1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/sandy_farmland.json"
+hash = "23390454b06d4c8a0f196bcb5c3cd9b4a654403cbb0bb9344b669e3d02020dc0"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/white_sand.json"
+hash = "ed9688d381f07e6802ec27831bcf6dbe44187f7af9b7d732e17c1020132103f9"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/soil/windswept_sand.json"
+hash = "ffb41f9603fcef34db5051da7126c39c36efe1245992a877614ed0b483f8c417"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
