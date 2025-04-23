@@ -1554,6 +1554,11 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
+file = "mods/cfl.pw.toml"
+hash = "ed872e440c5cfd14d7298412962d1b52f3149c9f3339511788e3973d267a12c1"
+metafile = true
+
+[[files]]
 file = "mods/chalk-colorful-addon.pw.toml"
 hash = "0392dc43f2a743dfe67119aa6b43b0967e83dfb78240855da1a97d4ba78bf458"
 metafile = true
