@@ -801,8 +801,8 @@ file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/
 hash = "058be3fe9fffbff902c6dae92b7675dd158f461c53bb8db135d57e2307adcfa9"
 
 [[files]]
-file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/belladona.json"
-hash = "73c1357e8851b4d0e3c978dc411e7dbecb3f2c0e0313a1779a9498e3e09cc1cb"
+file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/belladonna.json"
+hash = "040efe1fd0fc2da826f72e42f8d2f3f52a6f4caf03ac70b4507664cb519b3907"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/fruiting_bramble.json"
@@ -814,7 +814,7 @@ hash = "02a5faeb0f26965fdd8fcd7aa7ca1c9a442ec9fefbc6d6207eb50f5c3d126067"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/mandrake_root.json"
-hash = "d353d8cbe35d03b486a951f0b340f4e35c0cb6c9082cd26001396ea9f2caefdd"
+hash = "acc520e4421ff827a8674910454e1f5856c28ff9ae2c631c71478005cad215d6"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/allium_flower_bush.json"
@@ -1338,7 +1338,7 @@ hash = "16ec5a6bb284ae50c856d64592377e52887f1832384bd47ec2097deda5f63332"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/saltsprout.json"
-hash = "7a58634be91eb440b9e1ecbeb6f97f193d6839a9c3c4dbe6aebbea87541f0ade"
+hash = "6183dc913036b2ba6cf4884dc74832cc3bce9a6650d668bdac9018493d2c726e"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/sunfire_tomato.json"
@@ -1426,11 +1426,11 @@ hash = "05b4133336420e91dcbca513cfd55321c459465039eb261bcfefa57c489ed485"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/frost_wisteria.json"
-hash = "abde3008ef45caa3851e9fd3751c863d32a66573d89bab4e539d504928177316"
+hash = "f12a87529f95fac82511c1e119afd2af5ee6307f05fbd9698b048873e9dbe886"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/lavender_wisteria.json"
-hash = "fe74022a435c3137900e63de0e115a30642994031b3eb9beef83266f880d16a1"
+hash = "5f61366616831cb2d14b437a08a6bbccab4312e0e1db8acda6e2ca18bae04f5d"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/mother_aurel.json"
@@ -1442,7 +1442,7 @@ hash = "184d7c67bb2785bd8b2db0b67d00ec58922db10dd5432e1b90f785a95dc48aa7"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/rose_wisteria.json"
-hash = "7840e60c85c7445f3154db9fa58ccb4ecab8061d6b75101f59ed0d519130274d"
+hash = "a1c963865a699259cdeb02b023d6530d22c8c47b5491bd40dc4d66ac29c1c6fd"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"

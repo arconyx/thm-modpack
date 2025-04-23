@@ -14,7 +14,7 @@
     {
       "chance": 1.00,
       "output": {
-        "item": "paradise_lost:lavender_wisteria_log"
+        "item": "paradise_lost:wisteria_log"
       },
       "minRolls": 2,
       "maxRolls": 4

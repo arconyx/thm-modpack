@@ -3,14 +3,14 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "bewitchment:mandrake_root_seeds",
-        "bewitchment:mandrake_root"
+        "bewitchment:mandrake_rootseeds",
+        "bewitchment:mandrake"
       ]
     }
   ],
   "type": "botanypots:crop",
   "seed": {
-    "item": "bewitchment:mandrake_root_seeds"
+    "item": "bewitchment:mandrake_root"
   },
   "categories": [
     "dirt"
@@ -18,13 +18,21 @@
   "growthTicks": 1200,
   "display": {
     "type": "botanypots:aging",
-    "block": "bewitchment:mandrake_root"
+    "block": "bewitchment:mandrake"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "bewitchment:mandrake_root"
+        "item": "bewitchment:mandrake"
+      },
+      "minRolls": 1,
+      "maxRolls": 2
+    },
+    {
+      "chance": 0.05,
+      "output": {
+        "item": "bewitchment:mandrake"
       },
       "minRolls": 1,
       "maxRolls": 2
@@ -33,14 +41,6 @@
       "chance": 0.05,
       "output": {
         "item": "bewitchment:mandrake_root"
-      },
-      "minRolls": 1,
-      "maxRolls": 2
-    },
-    {
-      "chance": 0.05,
-      "output": {
-        "item": "bewitchment:mandrake_root_seeds"
       },
       "minRolls": 1,
       "maxRolls": 2

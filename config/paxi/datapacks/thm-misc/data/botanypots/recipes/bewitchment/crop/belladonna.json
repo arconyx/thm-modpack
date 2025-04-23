@@ -3,14 +3,14 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "bewitchment:belladona_seeds",
-        "bewitchment:belladona"
+        "bewitchment:belladonna_seeds",
+        "bewitchment:belladonna"
       ]
     }
   ],
   "type": "botanypots:crop",
   "seed": {
-    "item": "bewitchment:belladona_seeds"
+    "item": "bewitchment:belladonna_seeds"
   },
   "categories": [
     "dirt"
@@ -18,13 +18,13 @@
   "growthTicks": 1200,
   "display": {
     "type": "botanypots:aging",
-    "block": "bewitchment:belladona"
+    "block": "bewitchment:belladonna"
   },
   "drops": [
     {
       "chance": 1.00,
       "output": {
-        "item": "bewitchment:belladona"
+        "item": "bewitchment:belladonna"
       },
       "minRolls": 1,
       "maxRolls": 2
@@ -32,7 +32,7 @@
     {
       "chance": 0.05,
       "output": {
-        "item": "bewitchment:belladona"
+        "item": "bewitchment:belladonna"
       },
       "minRolls": 1,
       "maxRolls": 2
@@ -40,7 +40,7 @@
     {
       "chance": 0.05,
       "output": {
-        "item": "bewitchment:belladona_seeds"
+        "item": "bewitchment:belladonna_seeds"
       },
       "minRolls": 1,
       "maxRolls": 2
