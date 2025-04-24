@@ -10,7 +10,7 @@
   ],
   "type": "botanypots:crop",
   "seed": {
-    "item": "sandwichbale:lettuce_seeds"
+    "item": "sandwichable:lettuce_seeds"
   },
   "categories": [
     "dirt"

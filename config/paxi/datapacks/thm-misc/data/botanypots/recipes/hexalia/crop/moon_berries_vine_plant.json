@@ -13,21 +13,21 @@
     "type": "botanypots:transitional",
     "phases": [
       {
-        "block": "hexalia:moon_berries_vine_plant",
+        "block": "hexalia:moon_berries_vine",
         "rotation": "X_180",
         "properties": {
           "age": 25
         }
       },
       {
-        "block": "hexalia:moon_berries_vine_plant",
+        "block": "hexalia:moon_berries_vine",
         "rotation": "X_180",
         "properties": {
           "age": 25
         }
       },
       {
-        "block": "hexalia:moon_berries_vine_plant",
+        "block": "hexalia:moon_berries_vine",
         "rotation": "X_180",
         "properties": {
           "age": 25,

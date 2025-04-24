@@ -18,7 +18,7 @@
   "growthTicks": 1200,
   "display": {
     "type": "botanypots:aging",
-    "block": "hexalia:rabbage"
+    "block": "hexalia:rabbage_crop"
   },
   "drops": [
     {
