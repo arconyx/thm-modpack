@@ -8,14 +8,29 @@
     "dirt"
   ],
   "growthTicks": 1200,
-  "display": [
-    {
-      "block": "bewitchment:fruiting_bramble"
-    },
-    {
-      "block": "bewitchment:fruiting_bramble"
-    }
-  ],
+  "display": {
+    "type": "botanypots:transitional",
+    "phases": [
+      {
+        "block": "bewitchment:fruiting_bramble",
+        "properties": {
+          "has_fruit": false
+        }
+      },
+      {
+        "block": "bewitchment:fruiting_bramble",
+        "properties": {
+          "has_fruit": false
+        }
+      },
+      {
+        "block": "bewitchment:fruiting_bramble",
+        "properties": {
+          "has_fruit": true
+        }
+      }
+    ]
+  },
   "drops": [
     {
       "chance": 1.00,
