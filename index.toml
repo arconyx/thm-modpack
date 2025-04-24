@@ -798,23 +798,23 @@ hash = "9b43a056c58f7869423d2db3b2405f4df0b2b22b55b6643e5d0efbf355bf3447"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/aconite.json"
-hash = "058be3fe9fffbff902c6dae92b7675dd158f461c53bb8db135d57e2307adcfa9"
+hash = "a4f494bdbc119739d053666f8d20224f970845272cd51037190f88c0e309a54e"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/belladonna.json"
-hash = "040efe1fd0fc2da826f72e42f8d2f3f52a6f4caf03ac70b4507664cb519b3907"
+hash = "0823c3ae85f38b324ad53823ee70b27cb6bd39ecb62b387dce353afed32d4455"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/fruiting_bramble.json"
-hash = "8a75a3439dd1d19e32856af118e56b1bc9d7fbc5158981ac7bd63ecd8113ad90"
+hash = "302fad6f30dacfdb5e4f0df4d39de7b936775775f1312ab45a705b44e8b6441c"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/garlic.json"
-hash = "02a5faeb0f26965fdd8fcd7aa7ca1c9a442ec9fefbc6d6207eb50f5c3d126067"
+hash = "99ca1949f6c095ae33d44c2be81aaf4ef6f2a76cf73f085e2ec29759b680e470"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/bewitchment/crop/mandrake_root.json"
-hash = "47cf76524efc1779fe774f94a4edbbff17b7d3205a7e181d63d7850ce33dff74"
+hash = "3867b481dd48b60d78ed7d24d4c3d6c9eefb9a79741b72fdec86476c3613b966"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/biomeswevegone/crop/allium_flower_bush.json"
@@ -1326,15 +1326,15 @@ hash = "2475258837dffe34d39b4cef3cd54dcceb98ac7c53c777ab23e59fe4ade769f5"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/mandrake.json"
-hash = "4240a59025da3c589c32349c19a7282753aec99d0bb6ba90187690afdb322937"
+hash = "8059a710ae04a860455f95d2e935e3768f88fe658314059bc678cb3248b61af5"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/moon_berries_vine_plant.json"
-hash = "6620e8b17edc84cb9c8e2633a97549f418cbf0d1fcb3fa95e44cfda300523eab"
+hash = "c4093e3767a9fe1491a0511352f54452549fc112b8def2d22ffde2bc129ab75d"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/rabbage.json"
-hash = "16ec5a6bb284ae50c856d64592377e52887f1832384bd47ec2097deda5f63332"
+hash = "5bc599bc914683b3158c045852419efa155719f726bc633dc13d574b41b89807"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/saltsprout.json"
@@ -1342,7 +1342,7 @@ hash = "6183dc913036b2ba6cf4884dc74832cc3bce9a6650d668bdac9018493d2c726e"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/hexalia/crop/sunfire_tomato.json"
-hash = "057d5ab7482ee434394c41978d9963d635e9736122e336189c2a8964fad08cac"
+hash = "269da18ea4d3c02d5199aea414c8c8545c9f4598910c3075d1ca2d687c9448fd"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/paradise_lost/pot_interaction/flatten_dirt_path.json"
@@ -1370,23 +1370,23 @@ hash = "b246956dfc50a1c5bf96aaf81c4aab1d76bb534bea02e99f496287e750ec1385"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/ancient_grain.json"
-hash = "d78a9113a2f2ebddb052c93e8745fe801a803deeab93fd7f274a8730f25f9230"
+hash = "1372ca97b763bb6adcb557292a5c56a8cf998a307b44dc2d12757f432d9c952f"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/cucumber.json"
-hash = "d3129b5ee36f7461f87473a7dcc83d74ac00b061e828e4d3ca772af7715caa9f"
+hash = "7cfbcc08efebb321517a850e9987d895243d7c01a7f23e61f9c58f99a0412ab8"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/lettuce.json"
-hash = "eb5f2bc09071c3d278e4270b98b3f31564645f2d8f2cb03eb922d8e80606d46b"
+hash = "a545b0017e2f2b8036e63c8757bdc265a493e7924fe579bece2c730caf0f0348"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/onion.json"
-hash = "ee15abfb637298be46c477c4eda24c3094269542423e8d9f5a30b3422fc5cc40"
+hash = "f55ccea248d1a77b0ad3a1507a2ffb324a09d09e10d0f8f970c0695500eba3a4"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/tomato.json"
-hash = "711000dc663777babd89b2e2c92faf0dc358d253d21d53e9a7afd1e177435435"
+hash = "754109acc5850ae23327b32902d41eeb3d5a17852c827d9f71f3e0c46b74ebb8"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/supplementaries/soil/flax_bale.json"
