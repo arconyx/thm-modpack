@@ -12,7 +12,8 @@
     "item": "bewitchment:garlic"
   },
   "categories": [
-    "dirt"
+    "dirt",
+    "farmland"
   ],
   "growthTicks": 1200,
   "display": {

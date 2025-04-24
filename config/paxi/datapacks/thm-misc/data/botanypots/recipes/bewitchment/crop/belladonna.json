@@ -13,7 +13,8 @@
     "item": "bewitchment:belladonna_seeds"
   },
   "categories": [
-    "dirt"
+    "dirt",
+    "farmland"
   ],
   "growthTicks": 1200,
   "display": {
