@@ -1378,7 +1378,7 @@ hash = "7cfbcc08efebb321517a850e9987d895243d7c01a7f23e61f9c58f99a0412ab8"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/lettuce.json"
-hash = "a545b0017e2f2b8036e63c8757bdc265a493e7924fe579bece2c730caf0f0348"
+hash = "3afe9bb403cbb41d9fdec8dd7c978d870dc2d47c9467b8a9bf7e236dafb0c00e"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/botanypots/recipes/sandwichable/crop/onion.json"
