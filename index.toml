@@ -2169,11 +2169,6 @@ hash = "3aa882a32dc94e135dc7830f1d769556a7e611205904c7ec49cb0f2083a6a194"
 metafile = true
 
 [[files]]
-file = "mods/mealapi.pw.toml"
-hash = "7046d48a4240a04e30b00ff8b09ddc6cb0c5ce295b6941998424d8ad3a44e86e"
-metafile = true
-
-[[files]]
 file = "mods/melon-slabs.pw.toml"
 hash = "61524bc5d5fcfabe23924a4a0b72f2f6330d1e810cecf91e6e0a967cc2c0f972"
 metafile = true
