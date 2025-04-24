@@ -4,7 +4,7 @@
       "type": "bookshelf:item_exists",
       "values": [
         "sandwichable:lettuce_seeds",
-        "sandwichable:lettuce"
+        "sandwichable:lettuce_head"
       ]
     }
   ],
@@ -25,7 +25,7 @@
     {
       "chance": 1.00,
       "output": {
-        "item": "sandwichable:lettuce"
+        "item": "sandwichable:lettuce_head"
       },
       "minRolls": 1,
       "maxRolls": 2
@@ -33,7 +33,7 @@
     {
       "chance": 0.05,
       "output": {
-        "item": "sandwichable:lettuce"
+        "item": "sandwichable:lettuce_head"
       },
       "minRolls": 1,
       "maxRolls": 2
