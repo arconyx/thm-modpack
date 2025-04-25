@@ -2554,6 +2554,11 @@ hash = "8043299ede0a1aa0bed04e6426c482210a2d2ec739f019a23af71116687ed0b8"
 metafile = true
 
 [[files]]
+file = "mods/via-romana.pw.toml"
+hash = "15ccc377f7eca10697449486c5a736e1e543dea771b4f0bae802ed713229932a"
+metafile = true
+
+[[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "419eef46a9dcaa8e79c830d7f146e5c4cabe52e10a6f12011a7302557a51924f"
 metafile = true

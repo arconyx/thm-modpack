@@ -1,0 +1,13 @@
+name = "Via Romana: Infrastructure-Driven Fast Travel"
+filename = "Via_Romana-fabric-1.20.1-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FVToiKwr/versions/bk1ZaaLR/Via_Romana-fabric-1.20.1-1.3.3.jar"
+hash-format = "sha512"
+hash = "8b416952c7e3db0e14c6be6b75154260327ebe900174a9d8c542a9afcf77c589a7cc3ce62767162fa56b4554d4e36894693df54ebe97fefc96736852bda26e46"
+
+[update]
+[update.modrinth]
+mod-id = "FVToiKwr"
+version = "bk1ZaaLR"
