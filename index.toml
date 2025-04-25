@@ -69,6 +69,10 @@ file = "config/indypets.json"
 hash = "d35df1897fd4905301604a5604a45f4326e352bc10461058655b6ca7d6646dc5"
 
 [[files]]
+file = "config/oneironaut/server.json5"
+hash = "ad142c357368166490b53184d0a1c3a582b603909e05ff5371a32d2a179427d1"
+
+[[files]]
 file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/data/additionalstructures/tags/worldgen/biome/badlands_or_wasteland.json"
 hash = "bc301d87649033b85a5acacb58c6afbe982334f7ff05eb228861e7985e6dd027"
 
