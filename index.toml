@@ -1584,6 +1584,11 @@ hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
@@ -1867,6 +1872,11 @@ file = "mods/enchanters-library-1.0.0.jar"
 hash = "028ab69443a7baf87f205271006dcf440d1eeffe1a52708edc52c2d5bc4144c0"
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
+metafile = true
+
+[[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "4618cc574a70501f21bb4d6642ee611aaedf8675b7a2e78e9a10f48b5cbb838f"
 
@@ -2014,6 +2024,11 @@ hash = "325dabaad0c39bce62f37899ecafa82c39112662bd36e9ca94868815c4b149e9"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+metafile = true
+
+[[files]]
 file = "mods/immersive-melodies.pw.toml"
 hash = "6a0856cf4491d94a913d588d1d9e6feb1b954a0f1127d5f6736d23b71b903d70"
 metafile = true
@@ -2086,6 +2101,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "694c91d6f341271b0b071a814fb64defbd52af1b228cb593595836c0d9f68151"
 metafile = true
 
 [[files]]
@@ -2174,6 +2194,11 @@ hash = "61524bc5d5fcfabe23924a4a0b72f2f6330d1e810cecf91e6e0a967cc2c0f972"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
+metafile = true
+
+[[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "45808460ed8c07392b6f4bbbcb3187bfe01e935992097a0c01f5ab3efab276f9"
 metafile = true
@@ -2181,6 +2206,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "f40488b90039380bde4615baca056eaec3afb62defccd7301a15af1c602970c3"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
@@ -2206,6 +2236,11 @@ metafile = true
 [[files]]
 file = "mods/more-slabs-stairs-and-walls.pw.toml"
 hash = "3e1093e8130c56a4355871043335a092413a916f5185ec24ab51fc4ae75fcd88"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
