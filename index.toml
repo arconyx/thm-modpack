@@ -2499,6 +2499,11 @@ hash = "bea541cfe919d9fee2275295d7e5cd203fcba7aa2731c0f979961bd9a5fb3efb"
 metafile = true
 
 [[files]]
+file = "mods/tag-tooltips.pw.toml"
+hash = "94c12d35e312e3b426089ce035c9f83b27927211c39df7bad2c9ff2b147fdc2b"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b3ae602303fd717bff2344bfb89aa427e2b4a1ab5fffdcc25183b22102c492df"
 metafile = true

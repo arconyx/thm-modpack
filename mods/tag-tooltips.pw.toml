@@ -1,0 +1,13 @@
+name = "Tag Tooltips"
+filename = "tagtooltips-fabric-1.20.1-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2MgfuPip/versions/9FnPs1X2/tagtooltips-fabric-1.20.1-1.1.0.jar"
+hash-format = "sha512"
+hash = "97714773a3ae6709081e15735a048965a256a247b5914428adedbcab66d3dd48679703784573bd1d9db50ddd99e9a109e9809440a3c45dfa601e2b96ab723c57"
+
+[update]
+[update.modrinth]
+mod-id = "2MgfuPip"
+version = "9FnPs1X2"
