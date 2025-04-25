@@ -1733,6 +1733,11 @@ hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
 file = "mods/clean-f3.pw.toml"
 hash = "b5af3194d6df56cc66492a178625a37947027a7d761eb29153f33869508a6863"
 metafile = true
@@ -1872,8 +1877,18 @@ file = "mods/enchanters-library-1.0.0.jar"
 hash = "028ab69443a7baf87f205271006dcf440d1eeffe1a52708edc52c2d5bc4144c0"
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
 metafile = true
 
 [[files]]
@@ -2616,4 +2631,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d90ecf3f72efb4801c1dd35342e15ea293a41c6bb2e8d80377de0e0ad3cc127f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "4d1f80d4aea6f81427b67313796afa14e4319d6284ea512169243a74f7c74ba7"
 metafile = true
