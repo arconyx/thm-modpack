@@ -545,6 +545,202 @@ file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.pn
 hash = "e4e5262c5e95ee0b9c0fb196f0c1eed60afadda067f8f583474099fabd41d196"
 
 [[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/badlands/houses/compost_pile_1.nbt"
+hash = "6b7d72fdb5f85ae9e18faf4f3f561af0995dc14397a24700f8a667d9029c4b02"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/bamboo/houses/compost_pile_1.nbt"
+hash = "b1bc1be5a54b3b9cdcf57fff5871f16c75cc6452f1374121fb836ba8dbf1b1a7"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/birch/houses/compost_pile_1.nbt"
+hash = "5c2bb2617b55b779d734b5bb2b2a25b4432afcfc8ffce0cf2ee130c6d5cac63b"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/cherry/houses/compost_pile_1.nbt"
+hash = "1ce7dabf540e35b3d3e99c38e72fcaa7f01f27dc612edb5411d4f2f4b4152193"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/dark_forest/houses/compost_pile_1.nbt"
+hash = "f256825118f7f084f498bb5e46a827a376303e429cad1e932ae386c3ab613b76"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/giant_taiga/houses/compost_pile_1.nbt"
+hash = "d92eaf0847697188342004db6e7b7f7cf1aab7e549cbf1e0336287e5ee6be0e1"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/jungle/houses/compost_pile_1.nbt"
+hash = "ac4d7aeffff101f8ab90cdb36ddc86c6041ca6128c0978a2c5d8ffdb9cae1e3a"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/mountains/houses/compost_pile_1.nbt"
+hash = "8b9ba29054a73cfc5dfa27eaaff48d30f33676cb56f06eee29f5eb2567810328"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/mushroom/houses/compost_pile_1.nbt"
+hash = "7ddb7555866db3d464d818a2f19b706730655ae11510dea3a0682cb47fe07707"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/mushroom/houses/mushroom_farm.nbt"
+hash = "a9b92943b59afc7b65ee0e64db12b665c0676975978e154681207b6af6981bb2"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/oak/houses/compost_pile_1.nbt"
+hash = "d180351f4b1b692e32a5607c6bcc4bd8c1ee004690eaaeefd323ac5ae97863eb"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/ocean/houses/compost_pile_1.nbt"
+hash = "11d9a0606f61d0edd1e5c8caefdd562959c35d6fdada3581178cdf0cb5c6dd74"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/farmersdelight/structures/villages/swamp/houses/compost_pile_1.nbt"
+hash = "357869606a9ea0267adef64254cfb3c07d51a58accae023955f248fe8334fe7f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/badlands/houses.json"
+hash = "acc610a123f7131387d0df6c387be91cd817386f9d1049cc805dd218378099ed"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/bamboo/houses.json"
+hash = "2c469d9c62ff28db370fee90e8c7fe189de454ef8918c0c8f86e874bdc38ea89"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/birch/houses.json"
+hash = "bae18b4195d68f323faa3558791668e5fe3e7da8952b431350074d16116f8068"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/cherry/houses.json"
+hash = "9524b25b9546c596554e1e47e3e7e91ab7c4129bb5964f00fa287a301d5d68d4"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/dark_forest/houses.json"
+hash = "1a26190e016bffb1a40cee1ad5ff200b7fad2921aee2d8b36be5e34f2bf9501c"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/giant_taiga/houses.json"
+hash = "6086fe66457c7097c3a22eac9779d2105522565f9d80ff7eabee263b39c817bc"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/jungle/houses.json"
+hash = "04b06d99d3e36fb1a0979facf7a9439c18d94b22595d99d37ddbe4549db14614"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/mountains/houses.json"
+hash = "9c1b2f4d3589e068aca6a0c766ce8403e9d4e3426d33c506ec0f2e1008b51861"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/mushroom/houses.json"
+hash = "ffa006eb0d84e13b1e0a2e624bfe9bd7c6c767e50dfadf1398894c18804d5904"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/oak/houses.json"
+hash = "a94d2e1c79e147f29c9ef102d2f398d9ce19707ec4c7df437e2fff4e72b961e3"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/ocean/houses.json"
+hash = "851754633ed7850b0cf5cd031e87c463cc3b636185945165339b0b263732ce7f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/pool_additions/villages/swamp/houses.json"
+hash = "89dce3be18a46320f11ced689a7c85a30c79724129911233d50c5ef7c7209082"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_badlands.json"
+hash = "bb7e1fb9a4fef6fbae44c79fe9328bd4ac20128781f92ec9e64e17b4640352bc"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_bamboo.json"
+hash = "d02f5ed23f52f128ab226599309b061f1f7406a684896db8f33bdad21c5d853f"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_birch.json"
+hash = "092ce8cfcfb0b36b7e0e193a6f0f6cd8f5170debcb6c8008375145641a8259b7"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_cherry.json"
+hash = "c5a2536f09722a11a6ac19f34c59cd9581355b36857458f9eefd24eea7d90150"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_dark_forest.json"
+hash = "3582d10023894c8fcae6bb81a08173dfdcc5607e03adf77b67fc2bce94a9e516"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_giant_taiga.json"
+hash = "386b59e91ac53b4d7f2838cd949ae7b9de55a4cd3dc123d8bb31e31eb1ac9719"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_jungle.json"
+hash = "36a674771ffc95ee0ad0d52420ae69a40343d94e64147ef9be84633fd4ccdcac"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mountains.json"
+hash = "3d12d87660c3621c8234f5dbe1a5f824bf7649268987779a0c2ff80000e45b5a"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_mushroom.json"
+hash = "8f391b795c258f1ae0e679d6a328e427c952b4210c4d9559ceeb6904a38e048c"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_oak.json"
+hash = "594001c78b4f83afcf310bccb9a9fb452cba97740b6aac388d076a6fec168246"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_ocean.json"
+hash = "cf02f822460537075c07c3ffd8d532611d4b03f9c237ad53c0aac000294327f8"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/rs_pieces_spawn_counts_additions/village_swamp.json"
+hash = "538fd396a5dba3e480b2d09f65660645472e225ce9e9f99c4f9380018ef3aff5"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/badlands/crop_randomizer.json"
+hash = "13a226855761bd8e05604d1854f732894a3d82aecbacb9a837c06b1c8f49dd50"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/bamboo/crop_randomizer.json"
+hash = "f4a5867fb3bf0cdba183b579d4c085476af959781f3e2588ac7e35ad78fbbc99"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/birch/crop_randomizer.json"
+hash = "9e71d976c45855747e4bf8414cec9d5a5ea485cc2d056a9b18dd551c2085b6a6"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/cherry/crop_randomizer.json"
+hash = "6b572d398795def67dc07ccdf1e1b07d4fdca38127ebe9cd57e3fc24195ec6af"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/dark_forest/crop_randomizer.json"
+hash = "9f134ddf3d845dc44a1c561759d0f1b578ba0c93af7dadad8ead41f1836aa3c3"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/giant_taiga/crop_randomizer.json"
+hash = "7eb9e4f16a974a9b767b95910b2523ca27f44753f6ad4997084a303959a0c539"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/jungle/crop_randomizer.json"
+hash = "c22af0c8e3ec5a3aae119d517b48b24166db1821d40e93034717936907e11953"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/mountains/crop_randomizer.json"
+hash = "118ae0b1854fa63b59ecd6e0cfb0b2e8db64c380ae906c0701ab20ac6123d251"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/mushroom/mushroom_randomizer.json"
+hash = "c72c37f823304900abccdd37147323804ce89ced9ff27af0c8bbc8c29959a696"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/oak/crop_randomizer.json"
+hash = "f58fe53b37a7e03f2802d20a3ea4d50543f719694ab7ce176b8a1b0605368b9b"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/data/repurposed_structures/worldgen/processor_list/villages/swamp/crop_randomizer.json"
+hash = "0641b43379c1ca62113d20c5223f97a69a9b92fb2926e4f6b63e01b39cc172ab"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6/pack.mcmeta"
+hash = "3bcdfd8976ee2212ab0152643027f3dc04d9a0fe12f29cb78505fe6ac82163cf"
+
+[[files]]
 file = "config/paxi/datapacks/Repurposed_Structures-Friends_and_Foes_v5/data/friendsandfoes/structures/villages/badlands/copper_golem_area.nbt"
 hash = "68de0763ae63df99bd2cbcc7e30f079f878fddaba47ed2daafc808d9d0c3b69a"
 
