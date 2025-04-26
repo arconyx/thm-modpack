@@ -26,7 +26,7 @@ hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
 
 [[files]]
 file = "config/bclib/main.json"
-hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+hash = "52c52d38a20a80738e422ade4f970873bb34b91b3c9b778f7dbdf9fa7363c619"
 
 [[files]]
 file = "config/bclib/server.json"
