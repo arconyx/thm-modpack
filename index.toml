@@ -1837,9 +1837,8 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
-file = "mods/eden-ring-reforked.pw.toml"
-hash = "8a3c963e3114899867d96c3a3b05b45fe60851e6094da14568c70d354caf181e"
-metafile = true
+file = "mods/eden-ring-20.1.21.jar"
+hash = "1c3c25df99d4ad664d438d99c935b3afe1cae705afdf35c54dddbdadc646ea01"
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
