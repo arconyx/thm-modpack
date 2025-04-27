@@ -2081,10 +2081,6 @@ file = "config/polymorph-integrations.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/pridemoths/common-config.properties"
-hash = "f1c0eedae72cf3e386b430d74b2aae1ce98f4955e40be93cfdcc0912c7ba4363"
-
-[[files]]
 file = "config/profundis.json"
 hash = "348032877e24f1cc06b2ef019b08dd5bbbc4d25036ed785bd19ffce787225614"
 
