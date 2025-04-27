@@ -11,3 +11,8 @@ hash = "92b73a70737cfc1daebca211bd1525de7684b554be392714ee29cbd558f2a27a8bdda22a
 [update.modrinth]
 mod-id = "fQEb0iXm"
 version = "jiDwS0W1"
+
+[option]
+optional = true
+default = true
+description = "Experimental networking optimisations"
