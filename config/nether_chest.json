@@ -1,0 +1,10 @@
+{
+  "allowHoppers": true,
+  "allowInsertion": true,
+  "allowExtraction": true,
+  "enableMultichannelMode": true,
+  "ignoreNbtInMultichannelMode": false,
+  "ignoreCountInMultichannelMode": false,
+  "channelBlacklist": [],
+  "channelWhitelist": []
+}

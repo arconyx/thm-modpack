@@ -1,0 +1,10 @@
+{
+  "betternether:plugin": true,
+  "biomeswevegone:plugin": true,
+  "revelationary:plugin": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:fabric": true
+}
