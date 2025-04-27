@@ -36,7 +36,7 @@ _version = 3
 	#
 	# How many LOD sync requests per second should a client send? 
 	# Also limits the amount of player's requests allowed to stay in the server's queue.
-	syncOnLoadRateLimit = 50
+	syncOnLoadRateLimit = 20
 	#
 	# Defines the radius around the central point within which generation is allowed, in blocks. 
 	# If this value is set to 0, generation bounds are disabled.
@@ -86,7 +86,7 @@ _version = 3
 		# to be incorrect that can either cause world gen 
 		# lock-ups and/or crashes. 
 		# If either of those happen try setting this to True.
-		assumePreExistingChunksAreFinished = false
+		assumePreExistingChunksAreFinished = true
 		#
 		# If true LOD generation for pre-existing chunks will attempt to pull the lighting data 
 		# saved in Minecraft's Region files. 
@@ -120,7 +120,7 @@ _version = 3
 		# Expected Compression Ratio: 0.14
 		# Estimated average DTO read speed: 11.89 ms
 		# Estimated average DTO write speed: 192.01 ms
-		dataCompression = "LZMA2"
+		dataCompression = "LZ4"
 		#
 		# Enabling this will drastically increase chunk processing time
 		# and you may need to increase your CPU load to handle it.
@@ -282,7 +282,7 @@ _version = 3
 			updateBranch = "AUTO"
 			#
 			# Automatically check for updates on game launch?
-			enableAutoUpdater = true
+			enableAutoUpdater = false
 			#
 			# Should Distant Horizons silently, automatically download and install new versions? 
 			# This setting is force disabled on dedicated servers for stability reasons.
