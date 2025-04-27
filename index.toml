@@ -3150,6 +3150,11 @@ file = "mods/sandwichable-1.3.1.a+1.20.1_pool-spawn-edit.jar"
 hash = "b18c30a9152bb4efc73e060b168aa771686c0454926d0dc82e4bbdc80305a8da"
 
 [[files]]
+file = "mods/scarves.pw.toml"
+hash = "a393c8a89aa87b7a46d570553757e9a527c6dd839784bb88b0eae02fe5e78431"
+metafile = true
+
+[[files]]
 file = "mods/scholar.pw.toml"
 hash = "ab61419d2a844be219563360454526e1809907a5ead09fcafd5a3ba0c3ae45e4"
 metafile = true
