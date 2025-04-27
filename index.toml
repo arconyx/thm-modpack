@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+hash = "558a50c6e21aa104dd4e61151bf789bf12cdd1b6cbfe927358c8e6220b0ba7db"
 metafile = true
 
 [[files]]
@@ -2496,6 +2496,11 @@ hash = "bf53453ba4a60c969294a52b8e7886a2a8f9aed0a5ad5f8c30680eedbf82db8a"
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
