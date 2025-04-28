@@ -3205,6 +3205,11 @@ hash = "8a37fcac261932aa94595891b5beebc2f2bd6fae4c58129e90ffe57fb5def381"
 metafile = true
 
 [[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
 metafile = true
