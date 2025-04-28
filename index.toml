@@ -382,7 +382,7 @@ hash = "146cb3d3a5ad9c9343adcfe1deeff0cd659e879840444d06fd53cba62734746f"
 
 [[files]]
 file = "config/ledger.toml"
-hash = "8f98b34b366490f0b3c346bb296cf50c4dad7433cd1b7ad39554992ae43c3815"
+hash = "e0819c19bb238dc86feaaf7078bd2fe1cfc38a2d0fb94adf6abfa4f97933806c"
 
 [[files]]
 file = "config/libnetworkstack.txt"
