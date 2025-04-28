@@ -18,7 +18,7 @@ hash = "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d"
 
 [[files]]
 file = "config/amcdb.properties"
-hash = "e0051d34898f6c78bc39d94b9d41e619d23965ac48703b04a2acd0b6cf9812ae"
+hash = "d5fcd01fc435e5d70f2fff197062bd67dd58201fd88476a99eef821447a36e31"
 
 [[files]]
 file = "config/armorposer.toml"
