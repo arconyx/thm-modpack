@@ -5,6 +5,8 @@ queueTimeoutMin = 5
 queueCheckDelaySec = 10
 # Automatically purge entries older than the number of days specified. Set to -1 to disable
 autoPurgeDays = -1
+# debug
+logSQL = true
 
 [search]
 # Number of actions to show per page
