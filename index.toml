@@ -2807,7 +2807,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "82d49e37ee8a4883be87a1cb5d8748f5a6bcfc758f4173b68f78f9e7caf989a7"
+hash = "d6903bcaf2fe5c79bb54d8bcbff9b69a9545970717c39ccbf478a1010d1cfbdd"
 metafile = true
 
 [[files]]
