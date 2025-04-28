@@ -58,7 +58,7 @@ hash = "285f55d00f7e50b3e6191e22fc02083dd3648e1fe717da6a20a59bfc84044fab"
 
 [[files]]
 file = "config/better_log4j_config.xml"
-hash = "fa937243f1734b2d4ec72e91e7228ef10cccfb7cbb4a805d0a6fadb2392d8e6f"
+hash = "4cd54ad7e6f4296fa76b878c924a8ace61a36eeb21373e076d43b307a03e156f"
 
 [[files]]
 file = "config/betterarcheology-common.toml"
@@ -382,7 +382,7 @@ hash = "146cb3d3a5ad9c9343adcfe1deeff0cd659e879840444d06fd53cba62734746f"
 
 [[files]]
 file = "config/ledger.toml"
-hash = "e0819c19bb238dc86feaaf7078bd2fe1cfc38a2d0fb94adf6abfa4f97933806c"
+hash = "65bcae0172c365d13aa304a3a0a8841b178fac146d19459139472ae35f8e2508"
 
 [[files]]
 file = "config/libnetworkstack.txt"
