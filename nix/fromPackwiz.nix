@@ -64,10 +64,12 @@ let
   mkModAttrset =
     pkgs: dir:
     listToAttrs (
-      filter isServerMod map (path: {
-        name = baseNameOf path;
-        value = fromMod path;
-      }) (tomlFiles pkgs dir)
+      filter isServerMod (
+        map (path: {
+          name = baseNameOf path;
+          value = fromMod path;
+        }) (tomlFiles pkgs dir)
+      )
     );
 
   # this creates an attrset value for
