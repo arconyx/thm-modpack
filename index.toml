@@ -3000,6 +3000,11 @@ hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "f4e30d7382bed2274ece18518504ebdc13392951b60e2ac1e7dffec6c10f64e9"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "3f8403f025de1e1dfe03390d15aedd9dfaf30b1f46a009c61648d8098eae1e6e"
 metafile = true
