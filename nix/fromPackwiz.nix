@@ -56,7 +56,7 @@ let
   mkPackwizPackages = pkgs: dir: fetchMods pkgs (mkModAttrset pkgs dir);
 
   # attrset -> boolean
-  isServerMod = mod: mod.side == "server" || mod.side == "both";
+  isServerMod = mod: mod.value.side == "server" || mod.value.side == "both";
 
   # `dir` is a path to the folder containing your .pw.toml files
   # files for mods. make sure they are the only files in the folder
