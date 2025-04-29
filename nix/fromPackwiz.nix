@@ -10,6 +10,7 @@ let
     readFile
     replaceStrings
     fromTOML
+    filter
     ;
 
   tomlFiles =
@@ -54,14 +55,16 @@ let
   # attrset -> path -> attrset
   mkPackwizPackages = pkgs: dir: fetchMods pkgs (mkModAttrset pkgs dir);
 
+  # attrset -> boolean
+  isServerMod = mod: mod.side == "server" || mod.side == "both";
+
   # `dir` is a path to the folder containing your .pw.toml files
   # files for mods. make sure they are the only files in the folder
-  #
-  # path -> attrset
+
   mkModAttrset =
     pkgs: dir:
     listToAttrs (
-      map (path: {
+      filter isServerMod map (path: {
         name = baseNameOf path;
         value = fromMod path;
       }) (tomlFiles pkgs dir)
