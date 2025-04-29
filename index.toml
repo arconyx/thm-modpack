@@ -2150,7 +2150,7 @@ hash = "774b553576a62a67ff029185fb346fea4eb3770d4b197a8151d141f25c6fe547"
 
 [[files]]
 file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
+hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 
 [[files]]
 file = "config/spectrumjetpacks.json5"
