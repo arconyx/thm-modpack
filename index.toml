@@ -2025,6 +2025,11 @@ file = "config/paxi/datapacks/thm-misc/pack.mcmeta"
 hash = "2ba917efab092309975ef4b00f9e257cb7e598a31095557aff4964b3a16faa66"
 
 [[files]]
+file = "config/paxi/resourcepacks/sparkles.pw.toml"
+hash = "4d1f80d4aea6f81427b67313796afa14e4319d6284ea512169243a74f7c74ba7"
+metafile = true
+
+[[files]]
 file = "config/pehkui/config.json"
 hash = "75e8ec2af2fc88915cdb24c8bcc5c1fe4091851ff2b1ed910aa53c0f110883a6"
 
@@ -3350,9 +3355,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d90ecf3f72efb4801c1dd35342e15ea293a41c6bb2e8d80377de0e0ad3cc127f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/sparkles.pw.toml"
-hash = "4d1f80d4aea6f81427b67313796afa14e4319d6284ea512169243a74f7c74ba7"
 metafile = true
