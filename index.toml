@@ -165,6 +165,62 @@ file = "config/biomeswevegone/world_generation.json5"
 hash = "87844bffb16585a02b79a209e1c622878fcf17f7c04dd26a301a0282ff1beb4f"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "638be7c31be0d72ac5c75896d18a980551ea46367eafbe972777b0b4438f232a"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "5abda0daec6d5c9bb84a7a6178c352bfebbc2537dd6e033bc2d472b240eae173"
+
+[[files]]
+file = "config/bluemap/maps/world_edenring_edenring.conf"
+hash = "8d4bddf3fa0e5fb387123679bf646778faf22b7121d808ea9d3798bb9044cada"
+
+[[files]]
+file = "config/bluemap/maps/world_oneironaut_noosphere.conf"
+hash = "898a2e857ac2fc80cf5e5ac7fbb5976564f568b4c99d1a3aa1e3aa78bc9a5f4c"
+
+[[files]]
+file = "config/bluemap/maps/world_paradise_lost_paradise_lost.conf"
+hash = "f54db501e33c3eb3f573451e23e20bd084cc0179fedefe3e4971571fd9990c70"
+
+[[files]]
+file = "config/bluemap/maps/world_spectrum_deeper_down.conf"
+hash = "f81918e5fbee8c3038968386f64c9d1496d61c431531e67f866f60e1913692b9"
+
+[[files]]
+file = "config/bluemap/maps/world_the_bumblezone_the_bumblezone.conf"
+hash = "c2599d75b1c5756a16a2442fa7901112802f20593c9efd3fd82fb4ff1e5fd676"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+hash = "073ed08979efb33521d5fe8dc4b939d0b9dade220081d59fb5bb8a2680323788"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+hash = "897705ff44b710ea423b9ff5dfd9b507215218bd40ef87e7f59032ae3e71a8d1"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/bosses_of_mass_destruction.json5"
 hash = "6bf64126b4f95b7f41c468ed61851b823a9fd02c6cb4b4cdf4736530af5bb820"
 
