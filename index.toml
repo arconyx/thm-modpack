@@ -3005,11 +3005,6 @@ hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
 metafile = true
 
 [[files]]
-file = "mods/paradise-lost.pw.toml"
-hash = "e950c7b54e6888450cf526fb99cbbda3e7091855d9fdc5c905965d55aefbf64c"
-metafile = true
-
-[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "f7cc92b62ddea918624ece8bab499bdb3829d13b16551f0df0377b7a0c51841b"
 metafile = true
