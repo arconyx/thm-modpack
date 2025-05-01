@@ -1981,6 +1981,11 @@ hash = "47237935ab1dbb9fd99f831bdb3d6773ae8c7d3aa00bab06501c6cbd6fcfa5d4"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "0b5feeae74fe992084ec5cb12eab3404ddd5054e85c9006f7ba4d65f209de13f"
 metafile = true
@@ -2349,6 +2354,11 @@ metafile = true
 [[files]]
 file = "mods/hexical-2.0.0.jar"
 hash = "63b3a9f9341761503901c07e52912464f85f0f1894db3f3ddd951dac3120b3e2"
+
+[[files]]
+file = "mods/hexmapping.pw.toml"
+hash = "3c6fd0d6526dda772627517c0ef132b2864bbfd193bca75b35205cb8bb33114b"
+metafile = true
 
 [[files]]
 file = "mods/hextended-staves.pw.toml"

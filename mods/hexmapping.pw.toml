@@ -1,0 +1,13 @@
+name = "HexMapping"
+filename = "hexmapping-fabric-1.20.1-0.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/be6NQmwM/versions/CUi685Um/hexmapping-fabric-1.20.1-0.0.3.jar"
+hash-format = "sha512"
+hash = "19036b2df33b12ddb4af5fc06d8043b6e494028dfb087409724aaf60204cef6a633bd5deb0473f4a6bb0ef320b9877a29a658b2ec0bc6884d8cd007be6d9c83e"
+
+[update]
+[update.modrinth]
+mod-id = "be6NQmwM"
+version = "CUi685Um"
