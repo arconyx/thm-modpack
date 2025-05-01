@@ -897,6 +897,11 @@ file = "config/paxi/datapacks/lootr-better-end-compat/pack.mcmeta"
 hash = "c7f276dd70fb9152dd7a6de68b1c48b925050b4082d78088bc5c9d372e3fe504"
 
 [[files]]
+file = "config/paxi/datapacks/repurposed-structures-bountiful-compat.pw.toml"
+hash = "699add81f482578de9afcd4d30512acf1005504dd067d255a823d3ed83d3d10e"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
 hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
 metafile = true
