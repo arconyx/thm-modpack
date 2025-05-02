@@ -933,6 +933,18 @@ file = "config/paxi/datapacks/AS_Config_Datapack-1.20.x-(v.4.2.2-fabric)/pack.pn
 hash = "e4e5262c5e95ee0b9c0fb196f0c1eed60afadda067f8f583474099fabd41d196"
 
 [[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Bountiful_v3.zip"
+hash = "880d7a0791d51be8e93fafb8e1181f2f6b6eb655642f36786803291a5c2770cf"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Farmers_Delight_v6.zip"
+hash = "ff899242a00ddafb7fdb7d7a2b0654f1da06f3ac1a85bbb0a0512489dcf51272"
+
+[[files]]
+file = "config/paxi/datapacks/Repurposed_Structures-Friends_And_Foes_v5.zip"
+hash = "8a2cfd70366a5671012e6c70c97ff1f9058f24ce56d4a1e466904fd06f141fbe"
+
+[[files]]
 file = "config/paxi/datapacks/lootr-better-end-compat/CREDIT"
 hash = "c97578482cbbc84dcbf1aedcaabc38703ded9eff22bb793258d153385ebf61af"
 
@@ -947,21 +959,6 @@ hash = "71893b61f86303f514295c89a2c5560167e9e2993fec78ecf4f90a487c43b722"
 [[files]]
 file = "config/paxi/datapacks/lootr-better-end-compat/pack.mcmeta"
 hash = "c7f276dd70fb9152dd7a6de68b1c48b925050b4082d78088bc5c9d372e3fe504"
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-bountiful-compat.pw.toml"
-hash = "699add81f482578de9afcd4d30512acf1005504dd067d255a823d3ed83d3d10e"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
-hash = "4062b56e7e43679c61575eb1f09930f2987bbfc150fbd910d30c1633e5f5e157"
-metafile = true
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/anxff/tags/worldgen/biome/spawns_fireflies.json"
