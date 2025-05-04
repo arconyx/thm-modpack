@@ -1962,7 +1962,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
+hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
 metafile = true
 
 [[files]]
@@ -2100,7 +2100,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "97930270e62043237fbf013a316a7cf16a0e931d6c209af95e51bcfc360037a7"
+hash = "a64fd77827cfe582e2ad434fbf5fd6a70450796c191525cab9ea33d42e98a212"
 metafile = true
 
 [[files]]
@@ -2219,7 +2219,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "3adbd90351458dbb20a0c1a4bf6c7eda081782eacb5252a863cff3dea6cfc7c0"
+hash = "b4ab0cc9a2ddcc3753b6775a62092f90e8f41f47c58a8f4cfcb41001c404d490"
 metafile = true
 
 [[files]]
@@ -2445,7 +2445,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "11d5be630e67ca0cc667224467a8f67e63843d2b05a2d5c626143b3b4adaf987"
+hash = "1e4336614c173ee2b189c86a93e49a98cf241b80b34733bac37d1bd26ae2b4f5"
 metafile = true
 
 [[files]]
@@ -2630,7 +2630,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "230c231ae1dcd4ee08b0cacf8c9cd617e7c0b0533609f92dfe82e53287d5a9f7"
+hash = "0b60e339316c855ac576bc8884185c8678e951c39bec99bd1c76106d5efaf573"
 metafile = true
 
 [[files]]
@@ -2730,7 +2730,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "a27d8585b88946ca03f3476a70e1679a113d3059f2daf68581bd1d70994ac137"
+hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
 metafile = true
 
 [[files]]
@@ -2898,7 +2898,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "bea541cfe919d9fee2275295d7e5cd203fcba7aa2731c0f979961bd9a5fb3efb"
+hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
 metafile = true
 
 [[files]]
@@ -2913,7 +2913,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "b9cfce05b161178bb1ae2a92197d3145b2468bc03f165dff8b1267b4145b8f42"
+hash = "65628104692308673398aa33c3ef913b713393dc1209fbd81d670dc2f0a6f719"
 metafile = true
 
 [[files]]
@@ -2963,7 +2963,7 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "15ccc377f7eca10697449486c5a736e1e543dea771b4f0bae802ed713229932a"
+hash = "3ad078f281d370915c160ed058f6afeef707ce8811cb801cfb32c4ce0996102b"
 metafile = true
 
 [[files]]
