@@ -1665,6 +1665,10 @@ file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.j
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/hexcasting/tags/entity_types/cannot_teleport.json"
+hash = "e336183e17e9b6c7dbf62539ebd56b5d383f4eb1d97432e0f6a002e89697cc12"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/minecraft/tags/items/stone_crafting_materials.json"
 hash = "ef877f92d90fbdf895129ec6f494e6c1b3c766f1c3b81f161de4c51a5567054b"
 
