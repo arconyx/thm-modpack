@@ -22,7 +22,7 @@ compactLargeContainers = false
 # Logs all registered screen handler IDs for use in screen overrides
 # Logs all registry tab provider contents (blocks etc) to help find bad tabs
 # default: true
-configLogging = true
+configLogging = false
 # Whether to log vanilla tab provider contents
 # For development purposes, not modpack configuration
 # default: false
@@ -45,8 +45,12 @@ blockRaycastTimeout = 0
 # Manually set whether tabs should be shown on a given screen
 # 
 [screenOverrides]
+       "fwaystones:waystone" = false
+	"fwaystones:pocket_wormhole" = false
+	"fwaystones:abyss" = false
 	"minecraft:smoker" = true
-
+       "minecraft:scarf_stapler" = false
+	"minecraft:scarf_table" = false
 # 
 # -------------------------------
 # 
@@ -91,10 +95,29 @@ blockRaycastTimeout = 0
 # | ""                   | No tab at all!                             | Use this to disable bad block tabs in your pack
 # 
 [blockProviderOverrides]
+       "farmersdelight:*_cabinet" = "inventory_tabs:block_simple_storage"
+	"farmersdelight:basket" = "inventory_tabs:block_simple_storage"
+	"farmersdelight:cooking_pot" = "inventory_tabs:block_simple"
+	"farmersdelight:cutting_board" = ""
+	"farmersdelight:skillet" = ""
+	"farmersdelight:stove" = ""
+	"#fwaystones:waystones" = ""
 	"minecraft:crafting_table" = "inventory_tabs:block_unique"
 	"#minecraft:doors" = ""
 	"minecraft:fletching_table" = ""
-
+	"#sandwichable:basins" = ""
+	"sandwichable:bottle_crate" = "inventory_tabs:block_simple_storage"
+	"sandwichable:desalinator" = "inventory_tabs:block_simple"
+	"sandwichable:pickle_jar" = ""
+	"sandwichable:sandwich" = ""
+	"sandwichable:sandwich_table" = ""
+	"sandwichable:toaster" = ""
+	"scarves:scarf_stapler" = "" 
+	"scarves:scarf_table" = ""
+	"supplementaries:book_pile" = ""
+	"supplementaries:book_pile_horizontal" = ""
+	"supplementaries:faucet" = ""
+	"supplementaries:flag_*" = ""
 # 
 # -------------------------------
 # 
@@ -117,6 +140,8 @@ blockRaycastTimeout = 0
 # | ""            | No tab at all!                       | Use this to disable bad item tabs in your pack
 # 
 [itemProviderOverrides]
+       "fwaystones:abyss_watcher" = ""
+	"fwaystones:pocket_wormhole" = ""
 	"minecraft:dirt" = ""
 
 # 
@@ -126,4 +151,16 @@ blockRaycastTimeout = 0
 # Non-registry Tab Providers like player_inventory and vehicle_inventory can't be disabled here
 # 
 [registryProviderDefaults]
-	"inventory_tabs:block_simple" = true
+       "inventory_tabs:block_shulker_box" = true
+	"inventory_tabs:block_ender_chest" = true
+	"inventory_tabs:block_chest" = true
+	"inventory_tabs:block_unique" = true
+	"inventory_tabs:block_simple_storage" = true
+	"inventory_tabs:block_simple" = false
+	"inventory_tabs:entity_sneak" = true
+	"inventory_tabs:entity_simple" = true
+	"inventory_tabs:item_unique" = true
+	"inventory_tabs:item_sneak" = true
+	"inventory_tabs:item_simple" = true
+	"inventory_tabs:player_inventory" = true
+	"inventory_tabs:vehicle_inventory" = true

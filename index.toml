@@ -362,7 +362,7 @@ hash = "d35df1897fd4905301604a5604a45f4326e352bc10461058655b6ca7d6646dc5"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "7393c8eb936b3b8bd619631be27a07eb77bd24864aba1bca8f5a4a8d2ac57fc3"
+hash = "97eaa7243f49a52a783e7305276e3e08e9df1614d0fd743375c29e545d074f6b"
 
 [[files]]
 file = "config/item-descriptions.json"
