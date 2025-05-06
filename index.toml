@@ -1665,6 +1665,10 @@ file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.j
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/fwaystones/recipes/abyss_watcher.json"
+hash = "9c967cb3af98e6acf1920fc48b8809f7d08ebeecfd395aca485ad9f616e136aa"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/hexcasting/tags/entity_types/cannot_teleport.json"
 hash = "e336183e17e9b6c7dbf62539ebd56b5d383f4eb1d97432e0f6a002e89697cc12"
 

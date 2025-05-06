@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#E#"
+  ],
+  "key": {
+    "E": "minecraft:ender_eye",
+    "#": "minecraft:flint"
+  },
+  "result": {
+    "id": "fwaystones:abyss_watcher",
+    "count": 1
+  }
+}
