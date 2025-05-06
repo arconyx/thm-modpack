@@ -1709,6 +1709,34 @@ file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/rooted_dirt.json"
 hash = "5e70566ee7ffa45cb1e5f7ac53da1b55fde9d74c47b403b3277daf97f18efe8c"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/deepslate_brick_fwaystone.json"
+hash = "f7c00f2f0b310f8e0c2a251af5b3bee953aca77c0e0c7b5cd3ffba0a9568594b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/desert_fwaystone.json"
+hash = "50ea3b5ad5f6f34c254c5563104faa7607fa70d48f81a10fc178fc48f8064a8b"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/fwaystone.json"
+hash = "40a512040edae64a016a1aee4b05390a0f4a2c49b2e18eee54a985093b3a6ca9"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/mossy_waystone.json"
+hash = "c27f6242beb8efb30ddfdc3622ca5693a41bbf5fdb1a330ec26a4c30748cb77d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/sandy_waystone.json"
+hash = "ca534529b38fcde7d0beb4b21ceb97a96df01b593961e2677bf45f4c0e7276a5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/stone_brick_fwaystone.json"
+hash = "a369025402886e197d7e45e49049785cf09df67d317810e92aff561bebfe6e91"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/waystone.json"
+hash = "b05c25376b1a3bdfd51057d218b291d1626c70d73d4a0d82432bb9a8a7f4d4e2"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/supplementaries/tags/potion/tipped_spikes_blacklist.json"
 hash = "9e77e5ea6c5a615b7c10eefb8c376ab4f1b2036fa96add4b6f15ee3bb2b710e4"
 
