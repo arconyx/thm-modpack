@@ -1670,7 +1670,7 @@ hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/fwaystones/recipes/abyss_watcher.json"
-hash = "9c967cb3af98e6acf1920fc48b8809f7d08ebeecfd395aca485ad9f616e136aa"
+hash = "f1b1ba1053f9b49cba7a7407a2109a38d50c4db768b7f233b7f2830ded973a66"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/hexcasting/tags/entity_types/cannot_teleport.json"

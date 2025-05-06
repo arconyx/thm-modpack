@@ -4,11 +4,15 @@
     "#E#"
   ],
   "key": {
-    "E": "minecraft:ender_eye",
-    "#": "minecraft:flint"
+    "E": {
+	 "item": "minecraft:ender_eye"
+    },
+    "#": {
+	 "item": "minecraft:flint"
+    }
   },
   "result": {
-    "id": "fwaystones:abyss_watcher",
+    "item": "fwaystones:abyss_watcher",
     "count": 1
   }
 }
