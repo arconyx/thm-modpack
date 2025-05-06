@@ -425,6 +425,10 @@ file = "config/map_atlases-common.json"
 hash = "022fca6a5212dd7a4a6e24710305dfa9ef4efa819edbb3abe2a76a13d7b5f391"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "3e9f8d45844532c3c7d3cd868e3f4ce260c2e0448ba9c11e3b41cdc41b54f068"
+
+[[files]]
 file = "config/moonlight-common.json"
 hash = "516805b2e1c9d36851a890900fa572a077f7bad5869cfe8d9d5816543f73149d"
 
