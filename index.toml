@@ -1685,6 +1685,98 @@ file = "config/paxi/datapacks/thm-misc/data/minecraft/tags/items/stone_tool_mate
 hash = "465b833d72a5e8a25dc1646e0e0374da07940dbb1b82b22ebf29d9c12a4207ce"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/acacia_biomes.json"
+hash = "dc21f8da9cc42ed198e72e05c4fc71215fbf4af4cf487b6c19f66ae1d7354db7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/beach_biomes.json"
+hash = "bad2059313d0cf346ebf914e515f77f6cbfef7b8bfd93b3c3c57e621c3454551"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/birch_biomes.json"
+hash = "378eb7d021fbc439e9207fb8ecc87751ab90ec7c2fe1d9776c074f01daf5f8d5"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/cherry_biomes.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/crimson_biomes.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/dark_oak_biomes.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/desert_biomes.json"
+hash = "bac54ca86690de37029b16c1161b2d0ec640193cb18dd2e39e77514da3f270e0"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/end_biomes.json"
+hash = "2cd2884b866f8ac5f2074d300a7d38963bc8a0c80de2986980ba1532063f64f1"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/flower_biomes.json"
+hash = "73a7e9a61e67dc1fc57b304acce09079f1ded31582a7a43304ca337f7e3452eb"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/jungle_biomes.json"
+hash = "daf32ed34aad4800e91213fd865aefdd2e80f14389316b67275a1fb8d3909387"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/mangrove_biomes.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/mountain_biomes.json"
+hash = "02c056170c4c0931bf55011ba7e7847f2ca2dda9161fb0d69e69794c5e23ba35"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/mushroom_island_biomes.json"
+hash = "bad3e494366da9dbbb2afc1d915b6a3444cdca19db8768e4b48ec9002fbfd47f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/nether_biomes.json"
+hash = "bead3f0950c2d4dd685517f49cd1e5e467c6fac923774afac3c5d88aa47f4d96"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/nether_wastes_biomes.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/oak_biomes.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/ocean_biomes.json"
+hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/overworld_biomes.json"
+hash = "fc77f8b212d80341477a1d94155ead64b98d04d56d02ced31002340a7b29f94a"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
+hash = "a5b09c24fe2140bafb53aad9aa77f40226fd7fae8189dffb4ea825ce04cb46bb"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/snowy_biomes.json"
+hash = "42d6ad5747455fc86ba730c3bab7bf89aef5b0549f3527389c78b0f2eee1e4d7"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/stony_shore_biomes.json"
+hash = "eebc009a2395bd5b5d728da9df3395ee4637a9316d3055ecde2ca46c91c2d370"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/swampy_biomes.json"
+hash = "1bf93bd2435e762eb63d16f566f259ca9a593843f7e342ff3363add23cd83f13"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/taiga_biomes.json"
+hash = "c2077b6ab66e508a8132b2312aa53d9e1f1bcfcec6ddf488a169221918c1e227"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/cobblestone.json"
 hash = "da08bd2d87122ed506b5f5bf3b627a1b2228921d165f450e23423cb52efc572e"
 
