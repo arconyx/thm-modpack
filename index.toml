@@ -1777,6 +1777,26 @@ file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structur
 hash = "c2077b6ab66e508a8132b2312aa53d9e1f1bcfcec6ddf488a169221918c1e227"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_1.json"
+hash = "8a6dd6f60b551b62932d818f509a9db79c48833f91e3537d7855832554e3b490"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_2.json"
+hash = "60b1e3d963c634f4cb298448398f5ecd9cd7973e07c649529328442936b8361c"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_3.json"
+hash = "767181449326f3942b114d52c6db071c6c65039746bf3ea318ad6939ee82ed91"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/worldgen/structure/other_decoration/end_scraps/end_scraps_4.json"
+hash = "ed7f9b17c0c9657ce769bfbdc242d3b750736c932b08887ac2da04d82cb68c7f"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/worldgen/structure/well/wells/end_well.json"
+hash = "439365ade05a6af9e7065aeccff64ef241f6d9ce127501759ad23484429d51e1"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/mvs/worldgen/template_pool/other_decoration/horse_campsite.json"
 hash = "e6aef4a7cf61bf5eb0e94057c2f4ed9f8136fb77750a2ba3dbd52363d7134147"
 
