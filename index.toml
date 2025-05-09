@@ -1777,6 +1777,10 @@ file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structur
 hash = "c2077b6ab66e508a8132b2312aa53d9e1f1bcfcec6ddf488a169221918c1e227"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/mvs/worldgen/template_pool/other_decoration/horse_campsite.json"
+hash = "e6aef4a7cf61bf5eb0e94057c2f4ed9f8136fb77750a2ba3dbd52363d7134147"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/nyro/advancements/cobblestone.json"
 hash = "da08bd2d87122ed506b5f5bf3b627a1b2228921d165f450e23423cb52efc572e"
 
