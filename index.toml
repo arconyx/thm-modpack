@@ -1669,6 +1669,34 @@ file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.j
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_beetroots.json"
+hash = "788477bd22ef277d5797959d5012678f77aebfa52a8e3949bf81cd88d78f842d"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_cabbages.json"
+hash = "fb47b2b1d7d63c25964dc93cfae03683bb4c4370725f6d137cf08e2ef2397b22"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_carrots.json"
+hash = "6c410899adcb5e07e6781edb27b030992ff9cacf767f8d5b01a11dff93dfd518"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_onions.json"
+hash = "57f1222f6cc4ba7e57b7cbeb282f237a08150b5d9b01a65cbd29d46eb43bb9c0"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_potatoes.json"
+hash = "d06d09a42acf8f524dc7c59ba8cebb5fc2ba11031fbda007a55b0850fc87c3a2"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_rice.json"
+hash = "a597a8e82a5c0772f303495f98fe7f374bfb2aeac48491f02f5cf04ac3345dfe"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_tomatoes.json"
+hash = "0d91daa60b6ad4cf46c819dd77f1c0e362e4038ff0f01507e021c8cf773d2ca9"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/fwaystones/recipes/abyss_watcher.json"
 hash = "f1b1ba1053f9b49cba7a7407a2109a38d50c4db768b7f233b7f2830ded973a66"
 
