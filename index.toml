@@ -1857,6 +1857,10 @@ file = "config/paxi/datapacks/thm-misc/data/supplementaries/tags/potion/tipped_s
 hash = "9e77e5ea6c5a615b7c10eefb8c376ab4f1b2036fa96add4b6f15ee3bb2b710e4"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/tconstruct/worldgen/structure_set/overworld_sky_island.json"
+hash = "cffee753a7c6296f07376c40d911dd807c6d32872b6b96f4c0f0d86a594d16d7"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/yungsbridges/worldgen/placed_feature/bridge_list.json"
 hash = "71510080205d736abc466ad01a5d3359b7a6eb7580bec8ce648d7c6c4de081d2"
 
