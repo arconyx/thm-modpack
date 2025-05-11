@@ -1686,11 +1686,11 @@ hash = "9a688c4e3e27f34da0e6aee96f5f1b2d3b4ceb2bf3a396af8439bf79982fb2f4"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/tags/worldgen/biome/has_structure/small_prairie_house_biomes.json"
-hash = "6ad5b199fccab6dd90ef08657abd2f49434e1dc28fd05d9d7037fbef5e3741f8"
+hash = "46d8d2548546db8465430757e8d406d2e55ec0f913ca6034034584857decb5b5"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/tags/worldgen/biome/has_structure/wishing_well_biomes.json"
-hash = "6ad5b199fccab6dd90ef08657abd2f49434e1dc28fd05d9d7037fbef5e3741f8"
+hash = "46d8d2548546db8465430757e8d406d2e55ec0f913ca6034034584857decb5b5"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/worldgen/structure_set/major_structures.json"
