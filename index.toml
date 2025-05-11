@@ -1674,7 +1674,7 @@ hash = "9a688c4e3e27f34da0e6aee96f5f1b2d3b4ceb2bf3a396af8439bf79982fb2f4"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/tags/worldgen/biome/has_structure/giant_mushroom_biomes.json"
-hash = "9a688c4e3e27f34da0e6aee96f5f1b2d3b4ceb2bf3a396af8439bf79982fb2f4"
+hash = "4cefb01efe15637ddb3dc1cb4cb7aa6fd1c34eed8e820654a1010c35b8e2e042"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/tags/worldgen/biome/has_structure/illager_windmill_biomes.json"
