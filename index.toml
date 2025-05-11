@@ -1789,10 +1789,6 @@ file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structur
 hash = "0846dbafb7268c471c5b7d8fec6459579a59ecf9a5184023b40b42a4706f3faf"
 
 [[files]]
-file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/overworld_biomes.json"
-hash = "fc77f8b212d80341477a1d94155ead64b98d04d56d02ced31002340a7b29f94a"
-
-[[files]]
 file = "config/paxi/datapacks/thm-misc/data/mvs/tags/worldgen/biome/has_structure/plains_and_oak_biomes.json"
 hash = "a5b09c24fe2140bafb53aad9aa77f40226fd7fae8189dffb4ea825ce04cb46bb"
 
