@@ -2647,7 +2647,7 @@ metafile = true
 
 [[files]]
 file = "mods/ioticblocks.pw.toml"
-hash = "5798343ead56724652e437636b291b7240801757cdc982577a9cae8ed776d20d"
+hash = "2754c3da3ef6a69e1237c6edeb636de8571814f264e97cc74f656e356d5720cf"
 metafile = true
 
 [[files]]
@@ -2747,7 +2747,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
-hash = "e6e632c4776339e06e0cb8d038bbc993fe87cadbef25c3cc0e22c6fa879e662c"
+hash = "52474049a6eef09eb3cbd35d92c4249808f4d2338bd4da272991f2924da3c47f"
 metafile = true
 
 [[files]]
@@ -2772,7 +2772,7 @@ metafile = true
 
 [[files]]
 file = "mods/mariums-soulslike-weaponry.pw.toml"
-hash = "3aa882a32dc94e135dc7830f1d769556a7e611205904c7ec49cb0f2083a6a194"
+hash = "f996acc77564a0e43e8dc87f3471218bf459c99a4a09cfef80f10312d65a4858"
 metafile = true
 
 [[files]]
@@ -2822,7 +2822,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0b60e339316c855ac576bc8884185c8678e951c39bec99bd1c76106d5efaf573"
+hash = "b7a5102d9c5e8b022ea507d219520130ebfefd0eeddfd74c3627aa6f27335932"
 metafile = true
 
 [[files]]
@@ -3100,7 +3100,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "65628104692308673398aa33c3ef913b713393dc1209fbd81d670dc2f0a6f719"
+hash = "8809f920132c11dc051a1959afe06c22bb990dc4f43633f7c6b0920d56f392ae"
 metafile = true
 
 [[files]]
@@ -3120,7 +3120,7 @@ metafile = true
 
 [[files]]
 file = "mods/trade-cycling.pw.toml"
-hash = "689aa0e715b22a92073bc2d514f211565891dbbc6e2e5514facf5e6ffa74b97c"
+hash = "df71b5d7427e9a508e9f298b5cdec84aa8c4fcb584beb0d16d86efb9d47b3bcd"
 metafile = true
 
 [[files]]

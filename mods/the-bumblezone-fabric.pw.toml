@@ -1,13 +1,13 @@
 name = "The Bumblezone - Fabric"
-filename = "the_bumblezone-7.7.0+1.20.1-fabric.jar"
+filename = "the_bumblezone-7.7.1+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/eA8SXqWL/versions/zEsl8Kfj/the_bumblezone-7.7.0%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/eA8SXqWL/versions/3oVLG5Xw/the_bumblezone-7.7.1%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "9e376fbbbe5e9b3016009148197dcb9ecc37251b9aa58321d808439c1247b796994a8d6716e914e3517b9f6fb189658fbbbbc9782c8dd3230e6329cf0024bede"
+hash = "26db5db248acbda631d6ab7b9e4d7218521968451c5c27a447f39eee36a9f4cf4d4a874ce611596f1c95b16a92304424118186b3f0e3c1bf8ba86e4703b45e9a"
 
 [update]
 [update.modrinth]
 mod-id = "eA8SXqWL"
-version = "zEsl8Kfj"
+version = "3oVLG5Xw"
