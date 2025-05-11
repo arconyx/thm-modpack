@@ -1665,6 +1665,14 @@ file = "config/paxi/datapacks/thm-misc/data/botanytrees/recipes/paradise_lost/ro
 hash = "a1c963865a699259cdeb02b023d6530d22c8c47b5491bd40dc4d66ac29c1c6fd"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/worldgen/structure_set/major_structures.json"
+hash = "0f217fae6cc649d5a6bb42d4597efaf17f960b766c0c3b97b87638b3db7dc5ea"
+
+[[files]]
+file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
+hash = "8200129ef1cf8e716adf3a962b04adb70ffe0c1ef82e23791c7fed8a8117bdfe"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
