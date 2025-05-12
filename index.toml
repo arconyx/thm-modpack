@@ -1694,11 +1694,11 @@ hash = "46d8d2548546db8465430757e8d406d2e55ec0f913ca6034034584857decb5b5"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/worldgen/structure_set/major_structures.json"
-hash = "0f217fae6cc649d5a6bb42d4597efaf17f960b766c0c3b97b87638b3db7dc5ea"
+hash = "0fc1b31b225201d28c9b6a4d2c6e4c10819bb6455492f75a95d58e7f9ba19495"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
-hash = "8200129ef1cf8e716adf3a962b04adb70ffe0c1ef82e23791c7fed8a8117bdfe"
+hash = "bd5a3ccb8f2ba1bc93bdee5e84d2236662d6112d8d7aa1dd18f86d2d6c8810be"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.json"
