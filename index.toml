@@ -1694,7 +1694,7 @@ hash = "46d8d2548546db8465430757e8d406d2e55ec0f913ca6034034584857decb5b5"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/worldgen/structure_set/major_structures.json"
-hash = "0fc1b31b225201d28c9b6a4d2c6e4c10819bb6455492f75a95d58e7f9ba19495"
+hash = "5340d9adf2951c8cac9d5627bd4b2c69afa12267ad49330b1ade645f827a856f"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/dungeons_arise/worldgen/structure_set/minor_structures.json"
