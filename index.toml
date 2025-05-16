@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "4ddc3480b79f22efb35582d90b28173a41dc246440122c986f94365c36e9c255"
+hash = "8d3b4fa1222dc89e3186e471ecdf857e62639f713438d41d3f5f1b2da0770c29"
 
 [[files]]
 file = "config/Revelationary.json"
