@@ -1942,10 +1942,6 @@ file = "config/polymorph-integrations.toml"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "config/profundis.json"
-hash = "348032877e24f1cc06b2ef019b08dd5bbbc4d25036ed785bd19ffce787225614"
-
-[[files]]
 file = "config/realisticbees.json5"
 hash = "e9b541ed4bb6dbfd47ed5a4ff222e574d40d9fa9344a4b2b9ee0c5112fd37f1b"
 
@@ -2965,11 +2961,6 @@ metafile = true
 [[files]]
 file = "mods/porting_lib-2.3.9+nested-loot-modifiers.jar"
 hash = "771a0fea8cb9177e1257493f1bd444ee984f1c924b8c38557348a26536b1c6e4"
-
-[[files]]
-file = "mods/profundis.pw.toml"
-hash = "3636612fee16b3aa8cd5b0e2cde531dc2daf973d6ceb981491b3b7798cbc72c5"
-metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
