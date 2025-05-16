@@ -2175,6 +2175,11 @@ hash = "ca67672fc310f47ba2135504b1c36a1747463ba957693b030f25cbc3b07760d5"
 metafile = true
 
 [[files]]
+file = "mods/async-locator.pw.toml"
+hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
