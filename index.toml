@@ -3075,6 +3075,10 @@ hash = "5a8336071f8e411b99512874064e218edc63ba6370534afd45addb71095249df"
 metafile = true
 
 [[files]]
+file = "mods/spyglass_astronomy-1.0.15-mc1.20.1.jar"
+hash = "71a568501236b74b96138e210eb519d3abf01808a57278ea17fc0f928cc68c77"
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
