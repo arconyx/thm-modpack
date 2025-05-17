@@ -2136,11 +2136,6 @@ hash = "590cb44660f4bfaf74a8ad3807637a0b1966d1913ca7cfe9d926dfc125214f1a"
 metafile = true
 
 [[files]]
-file = "mods/almanac-for-spyglass-astronomy.pw.toml"
-hash = "9ccb3e31e569981ab70c1b90440660367d891e0606d3bb1cd4af5c265ee66639"
-metafile = true
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
