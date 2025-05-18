@@ -44,7 +44,7 @@ _version = 3
 	#
 	# Maximum speed for uploading LODs to the clients, in KB/s.
 	# Value of 0 disables the limit.
-	maxDataTransferSpeed = 100
+	maxDataTransferSpeed = 0
 	#
 	# If true, clients will receive real-time LOD updates for chunks outside the client's render distance.
 	enableRealTimeUpdates = true
