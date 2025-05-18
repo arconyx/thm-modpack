@@ -2106,6 +2106,10 @@ file = "config/yungscavebiomes-fabric-1_20_1.toml"
 hash = "17ae165475207f045d6102dc6113d8547209919d30cf5fdc546cd80a84f2302a"
 
 [[files]]
+file = "mods/Almanac-0.6.0.jar"
+hash = "efe21287d83995baa64195f42e68463fb9136764d173ce09b00ab54c38f3a256"
+
+[[files]]
 file = "mods/BotanyPots-Fabric-1.20.1-13.0.0.jar"
 hash = "58ec0f94ad0a5cf844a87ec8df6f1850eaf1c2719b24e74c1a013e25e33f6e01"
 
@@ -3074,6 +3078,10 @@ metafile = true
 file = "mods/spectrum.pw.toml"
 hash = "5a8336071f8e411b99512874064e218edc63ba6370534afd45addb71095249df"
 metafile = true
+
+[[files]]
+file = "mods/spyglass_astronomy-1.0.15-mc1.20.1.jar"
+hash = "ce321d7cecd691ba49087dfff9827211395430f4d87396c2acc7fada20666a7c"
 
 [[files]]
 file = "mods/stackdeobf.pw.toml"
