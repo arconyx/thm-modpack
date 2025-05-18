@@ -25,9 +25,8 @@ file = "config/packetfixer.properties"
 hash = "6063c8e6a2a33f886a01c3bf877970f8a05b2224f3c0dc6f0e31826ae14e4be2"
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
-metafile = true
+file = "mods/DistantHorizons-2.3.3-b-dev-1.20.1-fabric-forge.jar"
+hash = "a506e59b4e9bb90b0e1dfcc7f7a4e10d51b608663b2d955da1c2c9bed48b07f2"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
