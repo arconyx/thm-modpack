@@ -34,6 +34,11 @@ hash = "8f54b2270c2d87b56a73b4355305cc4a4dd277330cad97d137b98073ec0d8e83"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
@@ -46,6 +51,16 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "87f0d6de5b49977d7f466057f411f165e7c98e73b4ef09bc725eb57a890dafd3"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/packet-loggers.pw.toml"
+hash = "0d0960d5dd0d7957c5f11b7413f322bd441f89e958bb88b9450c0a6f2c98e617"
 metafile = true
 
 [[files]]
