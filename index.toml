@@ -2549,6 +2549,11 @@ hash = "fb431ca2b3ff4fb5e8a2d310e34adcb188264c15809965133f817ae3f451517c"
 metafile = true
 
 [[files]]
+file = "mods/faster-random.pw.toml"
+hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "558a50c6e21aa104dd4e61151bf789bf12cdd1b6cbfe927358c8e6220b0ba7db"
 metafile = true
