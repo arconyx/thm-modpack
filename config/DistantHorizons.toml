@@ -48,6 +48,11 @@ _version = 3
 	#
 	# If true, clients will receive real-time LOD updates for chunks outside the client's render distance.
 	enableRealTimeUpdates = true
+	#
+	# Enables adaptive transfer speed based on client performance.
+	# If true, DH will automatically adjust transfer rate to minimize connection lag.
+	# If false, transfer speed will remain fixed.
+	enableAdaptiveTransferSpeed = true
 
 	[server.experimental]
 		#
