@@ -1,13 +1,13 @@
 name = "Jupiter"
-filename = "Jupiter-2.1-fabric.jar"
+filename = "Jupiter-2.2-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/PRoHPboo/Jupiter-2.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/IEkoxH6Y/Jupiter-2.2-fabric.jar"
 hash-format = "sha512"
-hash = "8b157ad325d68d38e21989f488b0d1963058da7c4dfb2fc85e4d4af3d27e57894d378d0c81ba435c089cdb21a793b0c7675f661b5829c548437b1bc10e3da562"
+hash = "0ef1330ddd9e9910b13ecb08ee2286df227216ad597992a3610f1d7bcb18c2b893fb47bfbd890fb17e66e26cb760f79e99260c7b0de7f57b1b5b49b97cf1dca2"
 
 [update]
 [update.modrinth]
 mod-id = "XbiLGMMU"
-version = "PRoHPboo"
+version = "IEkoxH6Y"

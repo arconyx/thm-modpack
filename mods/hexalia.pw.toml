@@ -1,13 +1,13 @@
 name = "Hexalia"
-filename = "hexalia-1.2.4-1.20.1+fabric.jar"
+filename = "hexalia-1.2.5-1.20.1+fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/bkz5C0dQ/versions/mBFrvoIO/hexalia-1.2.4-1.20.1%2Bfabric.jar"
+url = "https://cdn.modrinth.com/data/bkz5C0dQ/versions/41bPPQhn/hexalia-1.2.5-1.20.1%2Bfabric.jar"
 hash-format = "sha512"
-hash = "8bf9060966373aa69059c47f805847c2396b489e83a97a3793e3f981ab0f299658a7ac9166d5f8c80391ebdb85849f6567babdb11b80b900ee967fa783a4bc0d"
+hash = "4e935e974a6f3933b223da2f0001615042ab6896d85473239971c10f6a0e2b7bf456606609c6a4cbf30cfc5bdd9a9fd54130eacbd2e56813db260ab058aeb771"
 
 [update]
 [update.modrinth]
 mod-id = "bkz5C0dQ"
-version = "mBFrvoIO"
+version = "41bPPQhn"

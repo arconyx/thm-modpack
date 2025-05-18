@@ -2520,7 +2520,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -2609,7 +2609,7 @@ hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
 
 [[files]]
 file = "mods/hexalia.pw.toml"
-hash = "470d0d851d7cb827cc72a700d47fd6afcc1f0abe756d9e6211c6e01197891ccc"
+hash = "3143df2712bb0c25bcaeacbc437574f2a95a799cbcb533b6870fcd199d9566be"
 metafile = true
 
 [[files]]
@@ -2653,7 +2653,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "6a0856cf4491d94a913d588d1d9e6feb1b954a0f1127d5f6736d23b71b903d70"
+hash = "a8d06087b85c115c2d67107293e761b828bc1ec4be754cf09f77419c530ed6ad"
 metafile = true
 
 [[files]]
@@ -2703,7 +2703,7 @@ metafile = true
 
 [[files]]
 file = "mods/jupiter.pw.toml"
-hash = "3db3f81ef2f5b2441ea6bccc659dad579c22445038a34fde539ca46f95a6446c"
+hash = "27fc75f9a256f061cd390d60af6b0dae954df4e21784be0fcaccf4d3696d97eb"
 metafile = true
 
 [[files]]
@@ -2768,7 +2768,7 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
-hash = "5cb9996ba53a38d94f86ae72a6106a338b221367ca40b21359e038b4f7ea283c"
+hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
 metafile = true
 
 [[files]]
@@ -2838,7 +2838,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
+hash = "c1687f3c586612a2a5ddd5670ecc469cecaf87b7f62e0bfd4727e087d46ca4d8"
 metafile = true
 
 [[files]]
@@ -3002,7 +3002,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "e56cf3eb96a7a5220b71fe584d946e7d7d8c8ad5db67195e62e70e357f626aec"
+hash = "f73302083619fa0b2fc62a0d243ca170432486b4673ddf1a7e2a1275691af687"
 metafile = true
 
 [[files]]
@@ -3155,7 +3155,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "1176112cb6bc5f85b1c28434b11ae2166f0e85a222d563643984d399871cac39"
+hash = "c517922e676af5b8a25c75fe145fe4ac3b9220ebf0b408758ff3f163ac5c3182"
 metafile = true
 
 [[files]]
@@ -3170,7 +3170,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "aaa4777fa08ae6054753e654effa299f31252499709838b87a99cbea56bcee3e"
+hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Immersive Melodies"
-filename = "immersive_melodies-0.4.0+1.20.1-fabric.jar"
+filename = "immersive_melodies-0.5.0+1.20.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/o7JhV7ev/immersive_melodies-0.4.0%2B1.20.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/HAK50kAm/immersive_melodies-0.5.0%2B1.20.1-fabric.jar"
 hash-format = "sha512"
-hash = "3350972c3ca4c18e9cf8c0b233cc44e003fe94f16b6ac93d206f3e1d4f0a184ba87d7f04e03c0038e3af79f8d21038fdb6fe8ba72ded7f8bd00b8ff9adf10819"
+hash = "0a1ca564eef83609a1d75ee15693af2742fe82f2ce25193e46daa717c9305ae6ab73d6427b218a726bdc20674da04de7503e9fad64856d42d53d63db1c16162d"
 
 [update]
 [update.modrinth]
 mod-id = "TaSmHw8V"
-version = "o7JhV7ev"
+version = "HAK50kAm"
