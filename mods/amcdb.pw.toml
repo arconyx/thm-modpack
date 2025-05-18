@@ -1,8 +1,0 @@
-name = "amcdb"
-filename = "amcdb-1.2.5.jar"
-side = "server"
-
-[download]
-url = "https://thehivemind.gay/share/amcdb-1.2.5.jar"
-hash-format = "sha512"
-hash = "91633eb644a697a95f34b928ba051b8cc567aa6cf44b5d4981804d344ba40f4a65ee9427134c4404ebff203f3e358e41943cf4c045dbcdaf34b014c68f328d74"
