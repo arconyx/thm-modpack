@@ -26,7 +26,7 @@ hash = "6063c8e6a2a33f886a01c3bf877970f8a05b2224f3c0dc6f0e31826ae14e4be2"
 
 [[files]]
 file = "mods/DistantHorizons-2.3.3-b-dev-1.20.1-fabric-forge.jar"
-hash = "a506e59b4e9bb90b0e1dfcc7f7a4e10d51b608663b2d955da1c2c9bed48b07f2"
+hash = "f775bd04a6994c6cd51748f0bccae1ea119bf1aee446a5332e0610222717a79f"
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
@@ -56,11 +56,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
-metafile = true
-
-[[files]]
-file = "mods/packet-loggers.pw.toml"
-hash = "0d0960d5dd0d7957c5f11b7413f322bd441f89e958bb88b9450c0a6f2c98e617"
 metafile = true
 
 [[files]]
