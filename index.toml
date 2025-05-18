@@ -59,11 +59,6 @@ hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
 metafile = true
 
 [[files]]
-file = "mods/packet-loggers.pw.toml"
-hash = "0d0960d5dd0d7957c5f11b7413f322bd441f89e958bb88b9450c0a6f2c98e617"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
