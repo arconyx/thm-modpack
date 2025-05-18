@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8d3b4fa1222dc89e3186e471ecdf857e62639f713438d41d3f5f1b2da0770c29"
+hash = "5b93aa07aa10d51db8b11af63c7a96a2f5cd15c8b4d24a58335c4872fa9ddfdd"
 
 [[files]]
 file = "config/Revelationary.json"
@@ -2408,7 +2408,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "8276518c6ba5c30439e6361e115d6b26cd0a96904f7792d1501013aa05c3512f"
+hash = "f071b93ea6f338b797ea7f34c1e1bf8016f3e2ad73475b5ff100e4a7298a86fc"
 metafile = true
 
 [[files]]
