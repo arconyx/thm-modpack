@@ -2106,6 +2106,10 @@ file = "config/yungscavebiomes-fabric-1_20_1.toml"
 hash = "17ae165475207f045d6102dc6113d8547209919d30cf5fdc546cd80a84f2302a"
 
 [[files]]
+file = "mods/Almanac-0.6.0.jar"
+hash = "a184ac13fc5fe51bdae84fcbc2b0464010213738164063e31a866daefcb9bda8"
+
+[[files]]
 file = "mods/BotanyPots-Fabric-1.20.1-13.0.0.jar"
 hash = "58ec0f94ad0a5cf844a87ec8df6f1850eaf1c2719b24e74c1a013e25e33f6e01"
 
