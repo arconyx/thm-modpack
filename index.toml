@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "8af036b9183d12211d69a609fd4bbbdc473f29af99a8292373ca0b2582547b65"
+hash = "b4d7cb7e6c46ac22bef165a4ea43f0dceb80886ea70a4f1a315e97567a85492d"
 
 [[files]]
 file = "config/c2me.toml"
