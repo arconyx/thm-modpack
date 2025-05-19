@@ -5,12 +5,16 @@ file = "config/DistantHorizons.toml"
 hash = "b4d7cb7e6c46ac22bef165a4ea43f0dceb80886ea70a4f1a315e97567a85492d"
 
 [[files]]
+file = "config/better_log4j_config.xml"
+hash = "fa937243f1734b2d4ec72e91e7228ef10cccfb7cbb4a805d0a6fadb2392d8e6f"
+
+[[files]]
 file = "config/c2me.toml"
 hash = "caf48624269a329f822dade949ec77c0e6d0120afa4cd6a687bfd164c155fd63"
 
 [[files]]
 file = "config/libnetworkstack.txt"
-hash = "6cffb9f5852113311346ef545fa463584d31970b93e05b11880f54ed40a881ca"
+hash = "5ea2ef363b73503a16065be8013f72c79a9432c394874ef2302c89a5a160826f"
 
 [[files]]
 file = "config/lithium.properties"
@@ -27,6 +31,11 @@ hash = "6063c8e6a2a33f886a01c3bf877970f8a05b2224f3c0dc6f0e31826ae14e4be2"
 [[files]]
 file = "mods/DistantHorizons-2.3.3-b-dev-1.20.1-fabric-forge.jar"
 hash = "f775bd04a6994c6cd51748f0bccae1ea119bf1aee446a5332e0610222717a79f"
+
+[[files]]
+file = "mods/better-log4j-config.pw.toml"
+hash = "826f777e990d29ef3478a1055317f2eb9d5efeaf3dc2b9960a757dc49cec56c2"
+metafile = true
 
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"

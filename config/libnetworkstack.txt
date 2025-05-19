@@ -3,11 +3,11 @@
 # Removing or altering comments doesn't replace them.
 
 # True to enable all debug logging.
-debug.log=false
+debug.log=true
 
 # True to enable recording type information when writing packets
 # (which is used when an exception is thrown while reading packets)
-debug.record_types=false
+debug.record_types=true
 
 # True to enable recording stacktraces when writing packets
 # (which is used when an exception is thrown while reading packets)
