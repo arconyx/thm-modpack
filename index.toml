@@ -30,7 +30,7 @@ hash = "6063c8e6a2a33f886a01c3bf877970f8a05b2224f3c0dc6f0e31826ae14e4be2"
 
 [[files]]
 file = "mods/DistantHorizons-2.3.3-b-dev-1.20.1-fabric-forge.jar"
-hash = "f775bd04a6994c6cd51748f0bccae1ea119bf1aee446a5332e0610222717a79f"
+hash = "8701ab4afc729149499129078346e4d05571191d5404f6d73c4bd07c19cfd950"
 
 [[files]]
 file = "mods/better-log4j-config.pw.toml"
