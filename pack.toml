@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "28114401c3775609d3bfa5193261fb6571edfeee05b887d5a88d69a7bc2eb507"
+hash = "b216757f6bdf8b8d325bb46df87b196d141641dfe4832cce516dc082fbd434c4"
 
 [versions]
 fabric = "0.16.14"
