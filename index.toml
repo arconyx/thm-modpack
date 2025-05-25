@@ -3005,7 +3005,7 @@ metafile = true
 
 [[files]]
 file = "mods/sparsestructures.pw.toml"
-hash = "58d7767ed9ce171b4a3afe10e5d945074bdf65458b09e7c8f98a229d28dd9439"
+hash = "f88c8cf3a0254074fc3bf71791dd276b83446fe275de55bfa25fd7fc2a1e4665"
 metafile = true
 
 [[files]]
