@@ -2896,11 +2896,6 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
-file = "mods/pl3xmap.pw.toml"
-hash = "68974fa98e2cacf5037d40e8caf58863308bea5c541198bfb3288a5d405edba9"
-metafile = true
-
-[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
@@ -3006,6 +3001,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/sparsestructures.pw.toml"
+hash = "58d7767ed9ce171b4a3afe10e5d945074bdf65458b09e7c8f98a229d28dd9439"
 metafile = true
 
 [[files]]
