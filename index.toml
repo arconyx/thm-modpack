@@ -1954,6 +1954,10 @@ file = "config/spark/config.json"
 hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 
 [[files]]
+file = "config/sparsestructures.json5"
+hash = "75a830a8a005a44bbc21b51066d54558f6dd1fa61960e9fedd173ade24913725"
+
+[[files]]
 file = "config/spectrumjetpacks.json5"
 hash = "a8a7728880866b9b575481cd3087f536a09017150158adc86334cdb59c7f0287"
 
