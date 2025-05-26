@@ -149,10 +149,6 @@ file = "config/betteroceanmonuments-fabric-1_20.toml"
 hash = "dbba9af53d8bfb9f46cb4c9ab525a72026ad0a13c36e8dd8efe7398a767c3187"
 
 [[files]]
-file = "config/betterwitchhuts-fabric-1_20.toml"
-hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
-
-[[files]]
 file = "config/bewitchment.json"
 hash = "0a21871155d1d3f06c21aa29c6c9af515d276d4f24f8f2115f58127b02423854"
 
@@ -3189,11 +3185,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "81856f95f3e0d336c755d5415580094924b53d3a86ed042e6dbf2deeec448f72"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "a55e6247a74bb3e5e13358f60918c06eeede47832602925c174b1a1511daec07"
 metafile = true
 
 [[files]]
