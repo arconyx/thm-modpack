@@ -2038,10 +2038,6 @@ file = "config/yigd.json"
 hash = "0696d939637cd5d93ec7f231d7aef482c2ceb6a05177f751276c60544649ca1e"
 
 [[files]]
-file = "config/yungscavebiomes-fabric-1_20_1.toml"
-hash = "17ae165475207f045d6102dc6113d8547209919d30cf5fdc546cd80a84f2302a"
-
-[[files]]
 file = "mods/Almanac-0.6.0.jar"
 hash = "a184ac13fc5fe51bdae84fcbc2b0464010213738164063e31a866daefcb9bda8"
 
@@ -3182,9 +3178,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "a3f44136de67f6082858d7f21dd576d93874f0225b91bff2a4e13fe90877dde7"
-metafile = true
-
-[[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "03a44e4a940e981bc6e8153932b3a36f119783885942818bbfeeaf9000f97db3"
 metafile = true
