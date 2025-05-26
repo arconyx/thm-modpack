@@ -3172,11 +3172,6 @@ hash = "056652d48ab3934e87ebcdef25306d3a7a564fab873c0c826ba8403f23ca99d7"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-dungeons.pw.toml"
-hash = "660ec443fe901efb46da60ef5f4578fe5d20f5aa7c6aa3baf2199593019514f0"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-end-island.pw.toml"
 hash = "af7ad6f2f43fe76205e3294024dedb4f4900abdb3390511f80f02aec9d2ced23"
 metafile = true
