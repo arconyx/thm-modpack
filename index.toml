@@ -1943,7 +1943,7 @@ hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 
 [[files]]
 file = "config/sparsestructures.json5"
-hash = "105d288928efced690e2465347bfddbc6896a9eebe69b618d5090f259c065055"
+hash = "160fb8ea499e8afdc5abb531b84c9d2ca02f5ca6e810cdb64290043afa5fe32f"
 
 [[files]]
 file = "config/spectrumjetpacks.json5"
