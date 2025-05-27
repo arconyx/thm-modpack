@@ -8,33 +8,363 @@
   //       a spread factor below 1 means all structures are more common
   //       a spread factor of 0 disables all structures entirely
   "spreadFactor": 2,
-
   // Some structure mods/datapacks do not specify a custom salt or use the same salt for all their structures, which might cause structure overlap.
   // Enabling this is supposed to reduce this phenomenon, as all structure sets will have their own salt, hashed from their id.
   // If unsure, leave this enabled.
   "idBasedSalt": true,
-
   // this is a list of custom spread factors
   "customSpreadFactors": [
-    // example of the mansion being doubled in rarity (the mod's default)
     {
-      "structure": "minecraft:mansion",
-      "factor": 2
+      "structure": "additionalstructures:big_dungeons",
+      "factor": 1
     },
-    // add the structures you want to modify in the format:
-    // (don't forget to remove "//", and use dots for decimal numbers)
-    //
-    // {
-    //     "structure": "namespace:structure_name",
-    //     "factor": number
-    // },
-    //
-    // where "structure" is a structure_set or the name of a structure
-    // /!\ if you put the name of a structure, all structures in its set will be modified
-    // (example: "minecraft:village_plains" will modify all structures in the "villages" set)
-    // see https://minecraft.wiki/w/Tutorials/Custom_structures#Structure_Set for more info
-    //
-    // tip: you can dump all structure sets in a file by running the custom command /dumpstructuresets
-    // tip: the same spread factors rules apply here (set to 0 to disable said structure)
+    {
+      "structure": "additionalstructures:boats",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:bushes",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:camps",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:dead_trees",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:dragon_fossils",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:dungeon-spawners",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:end_buildings",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:end_crystals",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:flotsam",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:fossils",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:ice_floes",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:illager_houses",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:meteor",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:mushroom_houses",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:nether_buildings",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:oasis",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:obsidian_structures",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:pillars",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:portals",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:pyramids",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:rocks",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:ruins",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:scarecrows",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:shulker_cluster",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:silverfish_cluster",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:skulls",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:snow_piles",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:snowmen",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:spawn_altars",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:sphinx",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:spider_nests",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:statues",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:stone_circles",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:suspicious_patches",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:temples",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:tombs",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:totems",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:towers",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:trees",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:underground_bases",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:underground_structures",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:villager_structures",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:wall_ruins",
+      "factor": 1
+    },
+    {
+      "structure": "additionalstructures:wells",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:end_village",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:eternal_portal",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:giant_ice_star",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:giant_mossy_glowshroom",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:megalake",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:megalake_small",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:mountain",
+      "factor": 1
+    },
+    {
+      "structure": "betterend:painted_mountain",
+      "factor": 1
+    },
+    {
+      "structure": "betterfortresses:fortress",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:altars",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:gardens",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:ghast_hive",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:jungle_temples",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:nether_city",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:pillars",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:portals",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:pyramid",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:respawn_points",
+      "factor": 1
+    },
+    {
+      "structure": "betternether:spawn_altar_ladder",
+      "factor": 1
+    },
+    {
+      "structure": "dungeons_arise:major_structures",
+      "factor": 1
+    },
+    {
+      "structure": "dungeons_arise:minor_structures",
+      "factor": 1
+    },
+    {
+      "structure": "incendium:greater_structures",
+      "factor": 1
+    },
+    {
+      "structure": "incendium:lesser_structures",
+      "factor": 1
+    },
+    {
+      "structure": "mes:astral_hideaway",
+      "factor": 1
+    },
+    {
+      "structure": "mes:astral_meteorite",
+      "factor": 1
+    },
+    {
+      "structure": "mes:ender_spire",
+      "factor": 1
+    },
+    {
+      "structure": "mes:enderbloom_grove",
+      "factor": 1
+    },
+    {
+      "structure": "mes:enderkeep_courtyard",
+      "factor": 1
+    },
+    {
+      "structure": "mes:enderpin_spikes",
+      "factor": 1
+    },
+    {
+      "structure": "mes:enderskog",
+      "factor": 1
+    },
+    {
+      "structure": "mes:enderwatch_tower",
+      "factor": 1
+    },
+    {
+      "structure": "mes:endscraps",
+      "factor": 1
+    },
+    {
+      "structure": "mes:manuscript_shrine",
+      "factor": 1
+    },
+    {
+      "structure": "mes:monolith",
+      "factor": 1
+    },
+    {
+      "structure": "mes:mythic_garden",
+      "factor": 1
+    },
+    {
+      "structure": "mes:phantom_citadel",
+      "factor": 1
+    },
+    {
+      "structure": "mes:placid_prairie",
+      "factor": 1
+    },
+    {
+      "structure": "mes:ruined_pillar",
+      "factor": 1
+    },
+    {
+      "structure": "mes:starlight_voyager",
+      "factor": 1
+    },
+    {
+      "structure": "minecraft:end_cities",
+      "factor": 1
+    },
+    {
+      "structure": "minecraft:nether_complexes",
+      "factor": 1
+    },
+    {
+      "structure": "minecraft:nether_fossils",
+      "factor": 1
+    },
+    {
+      "structure": "minecraft:villages",
+      "factor": 1
+    },
   ]
 }
