@@ -366,5 +366,9 @@
       "structure": "minecraft:villages",
       "factor": 1
     },
+    {
+      "structure": "supplementaries:way_sign",
+      "factor": 1
+    },
   ]
 }
