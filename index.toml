@@ -2565,11 +2565,6 @@ file = "mods/hexical-2.0.0.jar"
 hash = "63b3a9f9341761503901c07e52912464f85f0f1894db3f3ddd951dac3120b3e2"
 
 [[files]]
-file = "mods/hexmapping.pw.toml"
-hash = "3c6fd0d6526dda772627517c0ef132b2864bbfd193bca75b35205cb8bb33114b"
-metafile = true
-
-[[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "325dabaad0c39bce62f37899ecafa82c39112662bd36e9ca94868815c4b149e9"
 metafile = true
