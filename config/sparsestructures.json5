@@ -367,8 +367,36 @@
       "factor": 1
     },
     {
-      "structure": "supplementaries:way_sign",
+      "structure": "spectrum:city_below",
       "factor": 1
     },
+    {
+      "structure": "spectrum:excavation_site",
+      "factor": 1
+    },
+    {
+      "structure": "spectrum:lizard_den",
+      "factor": 1
+    },
+    {
+      "structure": "spectrum:pedestal_ruins_deepslate",
+      "factor": 1
+    },
+    {
+      "structure": "spectrum:pedestal_ruins_stone",
+      "factor": 1
+    },
+    // { // really common anyway
+    //   "structure": "spectrum:preservation_ruins",
+    //   "factor": 1
+    // },
+    {
+      "structure": "spectrum:undergrowth_manor",
+      "factor": 1
+    },
+    {
+      "structure": "supplementaries:way_sign",
+      "factor": 1
+    }
   ]
 }
