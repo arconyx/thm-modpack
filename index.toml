@@ -2034,6 +2034,18 @@ file = "config/yigd.json"
 hash = "0696d939637cd5d93ec7f231d7aef482c2ceb6a05177f751276c60544649ca1e"
 
 [[files]]
+file = "kubejs/config/client.properties"
+hash = "5765b36665042bb92184b289586769a2dfcf799684f305036d8c852c38e38211"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "a89a6a5512d5289b5748a29f412bac0df1dd7be0130a751ce43a652ddd6ccc84"
+
+[[files]]
+file = "kubejs/server_scripts/alpha_grove.js"
+hash = "9738d7f99bcc01ecf4bcad332c225081cc666220ba40aa9e2c3968e7df5e949c"
+
+[[files]]
 file = "mods/Almanac-0.6.0.jar"
 hash = "a184ac13fc5fe51bdae84fcbc2b0464010213738164063e31a866daefcb9bda8"
 
