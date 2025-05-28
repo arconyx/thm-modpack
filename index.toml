@@ -2168,7 +2168,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-log4j-config.pw.toml"
-hash = "989b845e6ccf31bd1462e0b243b034594abe1fc92a963f28b4c32dbc66d7c93c"
+hash = "826f777e990d29ef3478a1055317f2eb9d5efeaf3dc2b9960a757dc49cec56c2"
 metafile = true
 
 [[files]]
