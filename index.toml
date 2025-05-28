@@ -1817,6 +1817,10 @@ file = "config/paxi/datapacks/thm-misc/data/nyro/recipes/rooted_dirt.json"
 hash = "5e70566ee7ffa45cb1e5f7ac53da1b55fde9d74c47b403b3277daf97f18efe8c"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/scriptor/worldgen/placed_feature/engravings.json"
+hash = "8e05b8dc39af3910c451f342aaf18ca868359085dd66088019c526010472aa68"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/structory_towers/worldgen/template_pool/waystones/deepslate_brick_fwaystone.json"
 hash = "f7c00f2f0b310f8e0c2a251af5b3bee953aca77c0e0c7b5cd3ffba0a9568594b"
 
