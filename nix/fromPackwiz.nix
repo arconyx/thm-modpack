@@ -115,8 +115,8 @@ in
       # but this should mostly be handled by flake.lock
 
       installPhase = ''
-        mkdir -p $out/config
-        cp -r ./config/* $out/config/ || true # Copy config if it exists
+        mkdir -p $out
+        cp * -r $out/
       '';
 
       passthru = {
