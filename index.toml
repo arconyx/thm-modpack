@@ -2327,7 +2327,7 @@ metafile = true
 
 [[files]]
 file = "mods/coolrain.pw.toml"
-hash = "a0cc19c4111ecaf62fbc0df8ba33ebd4ba9aa2603b2a2e28ba8ec9cfacc392cd"
+hash = "dd3c03678a537da1f286dd617e8d127b76b778a207864a5b1c20813bfa7304db"
 metafile = true
 
 [[files]]
@@ -2439,7 +2439,7 @@ hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "0c47d03d8d357331a7d48f1fb498708c5aae3ade57727280aa39c9744dab7c32"
+hash = "2ad2c2531e6248d3cbb45211d7758b450db0c331ee1ad67a32095cd2b85c6423"
 metafile = true
 
 [[files]]
@@ -2519,7 +2519,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "6ef4d5626e258509b479220129ccc987b3f9e8ac33a6a5e227772f3cde1dbb9f"
+hash = "73eaf730f838085585517587a39a8d8d865c58646346a5bfbf703e5f3ac30314"
 metafile = true
 
 [[files]]
@@ -2568,7 +2568,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
-hash = "2d274f5041bef18a29219be9ee832c80b0368c605e8be54d5a3e15c67c583d49"
+hash = "551b3d384d4bbb2915a75b1e9e94ced6121643a1cec9186887859a6eee1e251a"
 metafile = true
 
 [[files]]
@@ -2612,7 +2612,7 @@ metafile = true
 
 [[files]]
 file = "mods/inline.pw.toml"
-hash = "1e4336614c173ee2b189c86a93e49a98cf241b80b34733bac37d1bd26ae2b4f5"
+hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
 
 [[files]]
@@ -2632,7 +2632,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "4b2d106ce00d09612a66ced11538304eedc540267a285976da54da8f2f624eb2"
+hash = "f4cb0a5d18f3eea04a88d2a1d95e1fd0221d968244cd8d084874f4c5484ce6af"
 metafile = true
 
 [[files]]
@@ -2782,7 +2782,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c1687f3c586612a2a5ddd5670ecc469cecaf87b7f62e0bfd4727e087d46ca4d8"
+hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
 metafile = true
 
 [[files]]
@@ -3084,7 +3084,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "8809f920132c11dc051a1959afe06c22bb990dc4f43633f7c6b0920d56f392ae"
+hash = "f64d64db70aa5da4caaad5822adfe9b3e7275564939a24ce4c5624da89db620e"
 metafile = true
 
 [[files]]
@@ -3109,7 +3109,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "c517922e676af5b8a25c75fe145fe4ac3b9220ebf0b408758ff3f163ac5c3182"
+hash = "760d018cbc3d725cabf4dc5b4e11e383cdb9c9d7afe0750a4289c3d423e43060"
 metafile = true
 
 [[files]]
