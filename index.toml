@@ -2513,11 +2513,6 @@ hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
 
 [[files]]
-file = "mods/fwaystones.pw.toml"
-hash = "3251cbd6f9d698f979aa5db8ad95bedb3d39b4deb41ec18ab91635b650d977db"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "73eaf730f838085585517587a39a8d8d865c58646346a5bfbf703e5f3ac30314"
 metafile = true
@@ -3146,6 +3141,10 @@ metafile = true
 file = "mods/windchimes.pw.toml"
 hash = "7ef1612adfce02572d20a2a9682f35ff4f2b2da50fa7645b8c73a46c108b12a9"
 metafile = true
+
+[[files]]
+file = "mods/wraith-waystones-3.3.2-nors+mc1.20.1.jar"
+hash = "8ffdc5dde4cd172c8a04bca371a52e86996946a84dd41ce86fbd4679f248ec86"
 
 [[files]]
 file = "mods/wthit.pw.toml"
