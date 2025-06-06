@@ -2332,7 +2332,7 @@ metafile = true
 
 [[files]]
 file = "mods/corgilib.pw.toml"
-hash = "6d227a660261be3af65212f8ac0c5551605f1cad3d7bb2caed017418a6c077c2"
+hash = "3681a4dd6134dc64b5af240379c1f98023b2217fd6af8c08763d3228bad01fbe"
 metafile = true
 
 [[files]]
@@ -2454,7 +2454,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
@@ -2548,7 +2548,7 @@ hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
 
 [[files]]
 file = "mods/hexalia.pw.toml"
-hash = "3143df2712bb0c25bcaeacbc437574f2a95a799cbcb533b6870fcd199d9566be"
+hash = "d70b3ec4da9d556a3d94d222d1f017961cdc626e544b9bc5897fda287d5a3dd2"
 metafile = true
 
 [[files]]
@@ -2627,7 +2627,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f4cb0a5d18f3eea04a88d2a1d95e1fd0221d968244cd8d084874f4c5484ce6af"
+hash = "a615fd6551b3d47e2d0e42e4ec30df6293bec90c135f1022113425ab8f23f7a6"
 metafile = true
 
 [[files]]
@@ -2777,7 +2777,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "86bfc097974f2e848f28a866c15d58f68bcf01e058012ab5c7ecff9b2bf7a6f7"
+hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
 metafile = true
 
 [[files]]
@@ -2797,7 +2797,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "b7a5102d9c5e8b022ea507d219520130ebfefd0eeddfd74c3627aa6f27335932"
+hash = "a43ab30d8cff19323e003c0dfc15edb07eadb9b0acc2f44297caf9dd4226e20c"
 metafile = true
 
 [[files]]
@@ -2836,7 +2836,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "816fc39fb6ab3808d83b1d40390640d39373d88f6c8dee900284afce8c6ec225"
+hash = "acad2a12b636b0ca49683143e75db1e9c27ab8601f2f7aab720c962749e1935b"
 metafile = true
 
 [[files]]
@@ -3064,7 +3064,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "b52762ecbf8d003dcfece87414708d94db789a01d98cae1530464f2906a958f2"
+hash = "524dd7f62c4168f80fe6c5b890492962a05c8b8b751ae4cc16934d21326ce136"
 metafile = true
 
 [[files]]
@@ -3148,7 +3148,7 @@ hash = "8ffdc5dde4cd172c8a04bca371a52e86996946a84dd41ce86fbd4679f248ec86"
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "474e73cafba120bc46797df5a0a52ef06ba5063c6a7ae477013e171b05742350"
+hash = "958c0f10c3482bcbc870e82eb7bf75e0dfa0565fd33db12dea1f59e9a330e4a0"
 metafile = true
 
 [[files]]
