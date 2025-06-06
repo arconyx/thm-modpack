@@ -1637,6 +1637,10 @@ file = "config/paxi/datapacks/thm-misc/data/edenring/recipes/limphium_painting.j
 hash = "3290c6693067f0f15d55c3e55fd3ea1e211447a53893dad0631d2fcfbb1e2fe9"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/farmers_respite/advancements/tea_to_coffee.json"
+hash = "cad4ea7cffadc4101935e287a5d32c942bcbea669a04d7bf22140d2d56e7d7c7"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_beetroots.json"
 hash = "788477bd22ef277d5797959d5012678f77aebfa52a8e3949bf81cd88d78f842d"
 
