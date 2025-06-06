@@ -1642,7 +1642,7 @@ hash = "cad4ea7cffadc4101935e287a5d32c942bcbea669a04d7bf22140d2d56e7d7c7"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/farmers_respite/recipes/coffee_from_tea.json"
-hash = "9c1f4a6c00b6c4a5bd21390204caf581310d84c8b4f38643f69514f46bb05356"
+hash = "3900fc29c0c3e85c512d8c0e7b463c31d84109d03dd3dc7a0c3821a6c40d8dcc"
 
 [[files]]
 file = "config/paxi/datapacks/thm-misc/data/farmersdelight/worldgen/placed_feature/patch_wild_beetroots.json"
