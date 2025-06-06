@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "c:tea_leaves"
+        }
+    ],
+    "result": {
+        "item": "farmersrepsite:coffee_beans",
+        "count": 1
+    }
+}
