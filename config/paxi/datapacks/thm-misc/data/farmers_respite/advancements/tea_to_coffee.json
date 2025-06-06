@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_tea_leaves": {
+            "conditions": {
+                "items": [
+                    {
+                        "tag": "c:tea_leaves"
+                    }
+                ]
+            },
+            "trigger": "minecraft:inventory_changed"
+        },
+        "has_the_recipe": {
+            "conditions": {
+                "recipe": "farmers_respite:coffee_from_tea"
+            },
+            "trigger": "minecraft:recipe_unlocked"
+        }
+    },
+    "requirements": [
+        [
+            "has_tea_leaves",
+            "has_the_recipe"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "farmers_respite:coffee_from_tea"
+        ]
+    }
+}
