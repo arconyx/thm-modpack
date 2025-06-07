@@ -2284,6 +2284,11 @@ hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
+metafile = true
+
+[[files]]
 file = "mods/cicada.pw.toml"
 hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
 metafile = true
