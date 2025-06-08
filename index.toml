@@ -2074,8 +2074,8 @@ file = "mods/DragonMountsSoWEdition-1.3.jar"
 hash = "55bc8bab802a8e07a5bc5111914425218ad8affe32d44995d08a1844105d45ae"
 
 [[files]]
-file = "mods/FarmersDelight-1.20.1-2.3.0thm+refabricated.jar"
-hash = "4e99dec0b5450415d4899c763b8b3796919812a2e06461422a1ceede70f88c93"
+file = "mods/FarmersDelight-1.20.1-2.3.0refabricated-Sandwichable_Compat.jar"
+hash = "ab39c980a4fbe76ceb49abb1c00f6732aaa2e84bbb6b2ab4f49fd36070a1b917"
 
 [[files]]
 file = "mods/Farmersrespite-Fabric-3.0.8.jar"
@@ -2986,8 +2986,8 @@ hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
 
 [[files]]
-file = "mods/sandwichable-1.3.1.a+1.20.1_pool-spawn-edit.jar"
-hash = "b18c30a9152bb4efc73e060b168aa771686c0454926d0dc82e4bbdc80305a8da"
+file = "mods/sandwichable-1.3.1.a1.20.1-FD_Compat.jar"
+hash = "25d3a10fbd0b5a9b64d67642db392e2af43bd8bef75482a534f1552e995366f6"
 
 [[files]]
 file = "mods/scarves.pw.toml"
