@@ -2003,7 +2003,7 @@ hash = "66411004727a2a464b72a8431300a891f629405070c598ccf1f1097d14a1946e"
 
 [[files]]
 file = "config/via_romana.toml"
-hash = "217e7ccbf7bc7e87bee1ce54129b91912ae90c49d057eddcddce8e1020e5875a"
+hash = "bf71b22d604b79021b9fa6bbd2b08d469b91546464d8eeaa9cc0487cc857182c"
 
 [[files]]
 file = "config/waila/blacklist.json5"
