@@ -2757,9 +2757,8 @@ hash = "29606673e03555c6b330be2a8545b6d7411e5ece34727672e60de0f8558d6384"
 metafile = true
 
 [[files]]
-file = "mods/malum.pw.toml"
-hash = "9bd1a9b827a3be3c3dc7e953bb3d8179d9eb24659f3ecbbf9adbc0e6b14be012"
-metafile = true
+file = "mods/malum-1.20.1-1.6.3.0b-fabric.jar"
+hash = "8146f3192414ba9a75d962382b2f3907d6ea82da36acdc879a0ac5f169328908"
 
 [[files]]
 file = "mods/map-atlases.pw.toml"
