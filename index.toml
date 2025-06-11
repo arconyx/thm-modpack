@@ -2560,8 +2560,8 @@ hash = "6a0af715b6a087f28f3a440f18b73b87786ef293a475c186659b7b5eac10ffa3"
 metafile = true
 
 [[files]]
-file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial-teleport-experiment.jar"
-hash = "bcfb8776ec7254c451c0070585e8bab2c706c227f78bcc8c6ee8da296285cb68"
+file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
+hash = "bcb97aad5d2556416d29ddc2c6d29427b4da307775c31d5d8e9e54c1cb58b415"
 
 [[files]]
 file = "mods/hexalia.pw.toml"
