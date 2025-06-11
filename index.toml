@@ -2561,7 +2561,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexal-fabric-1.20.1-0.3.0-3-skyevg-unofficial.jar"
-hash = "bcb97aad5d2556416d29ddc2c6d29427b4da307775c31d5d8e9e54c1cb58b415"
+hash = "3d0d1b4b501b7d1c0de9a045f51e981113a275035f64401172659be91f64ed67"
 
 [[files]]
 file = "mods/hexalia.pw.toml"
