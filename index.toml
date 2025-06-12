@@ -285,6 +285,10 @@ file = "config/hexdebug/server.toml"
 hash = "e53078de57839bee0d277e0b63b7a79c589df21ebccfcec6102c0bea6cec4738"
 
 [[files]]
+file = "config/hextweaks.json"
+hash = "466a145e9d94fef2ed66f6620491ad910888e861916894fdd1beab06e37a08bd"
+
+[[files]]
 file = "config/immersive_melodies.json"
 hash = "c14e3a1635c72e487dd2707e7bd558c1325211e2121353e6a98f071297a2e637"
 
@@ -2599,6 +2603,11 @@ hash = "0e06bb3e8f9e3e5c319b842321898874b93612ca0864f556f46e10399fe4a9e5"
 [[files]]
 file = "mods/hextended-staves.pw.toml"
 hash = "325dabaad0c39bce62f37899ecafa82c39112662bd36e9ca94868815c4b149e9"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "304fda9dadcfbc199dd2415aba2a164cb2f31fea6b44ed242271fef6fb194174"
 metafile = true
 
 [[files]]
