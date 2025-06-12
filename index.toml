@@ -301,6 +301,14 @@ file = "config/inventory_tabs.toml"
 hash = "97eaa7243f49a52a783e7305276e3e08e9df1614d0fd743375c29e545d074f6b"
 
 [[files]]
+file = "config/inventoryessentials-common.toml"
+hash = "2a6b69965f5fd90464676dbbfa756bf8895a2643dcf72962d578777421f6f2fc"
+
+[[files]]
+file = "config/inventorysorter/blacklist.json5"
+hash = "4e3b6411de3922e361b599262cf5907c28b04327d4664cb69bcb33df9dcbc083"
+
+[[files]]
 file = "config/item-descriptions.json"
 hash = "6d08fd25798a26197dec97e64a9c01e5afab9545835efb90d82fea7f6e04031a"
 
@@ -2159,6 +2167,11 @@ hash = "2b153d649184fcf793de475b3b3beaf238f7b558226ffc57896096a7ddcd99ad"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7dc148833d9a455f8ddebab5c3d8a03c2797cff1296d8c0bcb526e6226b97cb3"
+metafile = true
+
+[[files]]
 file = "mods/bclib-3.0.15.jar"
 hash = "826d2df3129d6e399dd081b369a420f2c05da0ff88c5391d3d7516a7207af287"
 
@@ -2638,6 +2651,16 @@ metafile = true
 [[files]]
 file = "mods/inline.pw.toml"
 hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "9aa5670b6258dbf17fc99a0e353c67be7fd1ec2b95eba2fdc3bb63a24f2be3ae"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "b5661c408bd1b00cdfff31a4e02133d09c6da01bc47bec347313be4f614b269b"
 metafile = true
 
 [[files]]
