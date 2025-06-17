@@ -2709,6 +2709,11 @@ hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "b24ecf89d0c4e30df9b15a84f0aaea63ea0e329710a0d5151802f9f8e41d3d8e"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
