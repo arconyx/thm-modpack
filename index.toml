@@ -2094,9 +2094,8 @@ file = "mods/Farmersrespite-Fabric-3.0.8.jar"
 hash = "2aa70b33fad98fcbb55be95e46e3fa68c3e71605920826a22ff929249a5c4714"
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "b8dcd81b72048d30a1a7182dd6163c3cbd9658e22fa84e9dd2387164a649dd01"
-metafile = true
+file = "mods/accessories-fabric-1.0.0-beta.47+1.20.1.jar"
+hash = "dcc60dfcdb7f7441a61fdce381ffaacf7aa7ab892a92553fbfceff6841a00249"
 
 [[files]]
 file = "mods/accessories_tclayer-3.8.1-beta.14.1+1.20.1.jar"
