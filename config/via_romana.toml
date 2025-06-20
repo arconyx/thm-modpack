@@ -2,8 +2,8 @@
 infrastructure_check_radius = 1.0
 node_distance_minimum = 10.0
 node_distance_maximum = 20.0
-path_quality_threshold = 0.6
-path_distance_minimum = 50.0
+path_quality_threshold = 0.3
+path_distance_minimum = 5.0
 path_distance_maximum = 100000.0
 travel_fatigue_cooldown = 30.0
 [Management]

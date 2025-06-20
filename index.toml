@@ -2015,7 +2015,7 @@ hash = "66411004727a2a464b72a8431300a891f629405070c598ccf1f1097d14a1946e"
 
 [[files]]
 file = "config/via_romana.toml"
-hash = "bf71b22d604b79021b9fa6bbd2b08d469b91546464d8eeaa9cc0487cc857182c"
+hash = "b69891d4218acd71ab7b3d53c51979513b56ccd668e08771b867cbf47d8b8eaf"
 
 [[files]]
 file = "config/waila/blacklist.json5"
