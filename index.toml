@@ -2606,7 +2606,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexical-2.0.0.jar"
-hash = "904eac035bd2b7f91526d7fb09a34138292323bbd0160f6d33b7b18ee9755f9c"
+hash = "a1eae2d12154c0e23f1af7e5c7ae8a2c1f94f56c25bbbab0f59e82556943c34a"
 
 [[files]]
 file = "mods/hexposition-1.3.0.jar"
