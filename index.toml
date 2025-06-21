@@ -2871,6 +2871,11 @@ file = "mods/moreiotas-fabric-1.20.1-0.1.0-5.jar"
 hash = "4023ed1fae0d5ed845e72ea5f3c280e26f7fce20df44b569a6610e1b938de9ee"
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "9bcd5484584504d10e94fd8b866d5ff9c63dd3515f828ed934d1997f34d60eec"
+metafile = true
+
+[[files]]
 file = "mods/nether-chest.pw.toml"
 hash = "e7ca0e487cf95f8d3f2204ae931c54bc361d3d6f738cee65f41b7fc78d4e9a9c"
 metafile = true
