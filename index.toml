@@ -1697,6 +1697,10 @@ file = "config/paxi/datapacks/thm-misc/data/liteminer/tags/blocks/excluded_block
 hash = "9f763b8f441bac0a4a6454b6a83ccd7cffe9966158c32d39366a3e8596271eab"
 
 [[files]]
+file = "config/paxi/datapacks/thm-misc/data/minecraft/dimension_type/overworld.json"
+hash = "2457244f5716305539a04f43ea5867cdc234fb40562c01bed3bee0f73d43434d"
+
+[[files]]
 file = "config/paxi/datapacks/thm-misc/data/minecraft/tags/items/stone_crafting_materials.json"
 hash = "ef877f92d90fbdf895129ec6f494e6c1b3c766f1c3b81f161de4c51a5567054b"
 
