@@ -2161,7 +2161,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
+hash = "501acdaa439603e3a002cd2da5aad794ff9f39b2c75270bfab5779e2d7c6e0d8"
 metafile = true
 
 [[files]]
@@ -2314,7 +2314,7 @@ metafile = true
 
 [[files]]
 file = "mods/cicada.pw.toml"
-hash = "77603230f3f6cd056c28676af9769609653e547c271b47373cf1d036b6457f3d"
+hash = "62fb498f541daf662929f2e1241fe4fc350af6f90f529de76a8f4a1987b2a756"
 metafile = true
 
 [[files]]
@@ -2438,7 +2438,7 @@ metafile = true
 
 [[files]]
 file = "mods/emiffect.pw.toml"
-hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
+hash = "0fa3061d1035a2c2ca204b01df8b284e79c90e7bcfd1c1555b3058114a288447"
 metafile = true
 
 [[files]]
@@ -2462,7 +2462,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
+hash = "8a9386b76d226cf0bd2ab2faaa97442bb532702ca5fb7436b66b1383e0e306e3"
 metafile = true
 
 [[files]]
@@ -2476,7 +2476,7 @@ hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "2ad2c2531e6248d3cbb45211d7758b450db0c331ee1ad67a32095cd2b85c6423"
+hash = "91dab84ae147fd26d1b61456329b78e76ef4109c21ecf9f96b6f967618079ab7"
 metafile = true
 
 [[files]]
@@ -2496,7 +2496,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -2556,7 +2556,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "4d29811fbd9d1660887edd7e872518e67b7fd4ea231bc22b680be37b5c000072"
+hash = "486365308053b52809d840574fcf011125a146c2ab51ff8efb0f72c8cc1a759e"
 metafile = true
 
 [[files]]
@@ -2585,7 +2585,7 @@ hash = "3d0d1b4b501b7d1c0de9a045f51e981113a275035f64401172659be91f64ed67"
 
 [[files]]
 file = "mods/hexalia.pw.toml"
-hash = "d70b3ec4da9d556a3d94d222d1f017961cdc626e544b9bc5897fda287d5a3dd2"
+hash = "1ea8b5fe9edb4abdc84b20725f2f04a7a19a9f534ba6bf170475de94e6a5a6cd"
 metafile = true
 
 [[files]]
@@ -2628,12 +2628,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+hash = "67099bc47fc849c2964b3b64b6f3af6fcbf941d9a4f1c03dda25f746b279015b"
 metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "a8d06087b85c115c2d67107293e761b828bc1ec4be754cf09f77419c530ed6ad"
+hash = "40a8d97db3162ea083e5ad40a6a8f7ba0f260d714b74854ba77d2644e1914bbf"
 metafile = true
 
 [[files]]
@@ -2723,7 +2723,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "d7cf7b5f76fdd8f9c63a95c9d82bce7162321232675b53d7b54aebaf537d70e0"
+hash = "e727cc5823b7391db5c30bbaa3769fed77533db693011d0dc8698b0e4303b71d"
 metafile = true
 
 [[files]]
@@ -2837,7 +2837,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
+hash = "f149a969021fee77abd79fee4906f80abbbd928b3f68bf14de1a2685ee9a2a80"
 metafile = true
 
 [[files]]
@@ -2923,7 +2923,7 @@ metafile = true
 
 [[files]]
 file = "mods/packet-fixer.pw.toml"
-hash = "82c9f3b080b24f089af2bdfa5b1c608b22855bbd7dc8b3b84b13412581715a1f"
+hash = "75a49055e92c17417705ebb966720416814db5a0d99d5dc717dc28b4989bfda2"
 metafile = true
 
 [[files]]
@@ -3129,7 +3129,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "524dd7f62c4168f80fe6c5b890492962a05c8b8b751ae4cc16934d21326ce136"
+hash = "b11cea13bf0ad750ca66e2afbb1ec0094f60cdca3698130818a5de5803ea12a4"
 metafile = true
 
 [[files]]
@@ -3144,7 +3144,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
-hash = "f64d64db70aa5da4caaad5822adfe9b3e7275564939a24ce4c5624da89db620e"
+hash = "314a3db95672a0ff849e57f12994b263ce4abb11c02cc6d7a63868133ef85198"
 metafile = true
 
 [[files]]
@@ -3169,7 +3169,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "760d018cbc3d725cabf4dc5b4e11e383cdb9c9d7afe0750a4289c3d423e43060"
+hash = "736c973b73d145aac2728acf181a18bd39a4b0126cfead47345d22a72c0898ce"
 metafile = true
 
 [[files]]
@@ -3223,7 +3223,7 @@ metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "9509a3f9d500e733aa8a0271f97a437799437f140383de4ca8ae44c1846df99c"
+hash = "fc1d7a1ee1bb2d4906b2686d105c82b67297e8a8376bd3882fea0fdb7e6499eb"
 metafile = true
 
 [[files]]
