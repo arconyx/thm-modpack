@@ -3044,10 +3044,6 @@ hash = "ab61419d2a844be219563360454526e1809907a5ead09fcafd5a3ba0c3ae45e4"
 metafile = true
 
 [[files]]
-file = "mods/scriptor-1.2.6-1.20.1-1-g5ad356f.dirty.jar"
-hash = "f14ad69eff1e5d0f054207318ce12e437747fe057b377324d9d840b8653f50d3"
-
-[[files]]
 file = "mods/simple-hats.pw.toml"
 hash = "50034f442817b191a1b8d91577475ceadb148b67c0d262f7bd88168904aef666"
 metafile = true
