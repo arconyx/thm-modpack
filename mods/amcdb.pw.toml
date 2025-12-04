@@ -1,8 +1,13 @@
-name = "amcdb"
-filename = "amcdb-1.2.5.jar"
+name = "AMCDB"
+filename = "amcdb-1.3.0.jar"
 side = "server"
 
 [download]
-url = "https://thehivemind.gay/share/amcdb-1.2.5.jar"
+url = "https://cdn.modrinth.com/data/8X31FLYC/versions/AF4dKwqr/amcdb-1.3.0.jar"
 hash-format = "sha512"
-hash = "91633eb644a697a95f34b928ba051b8cc567aa6cf44b5d4981804d344ba40f4a65ee9427134c4404ebff203f3e358e41943cf4c045dbcdaf34b014c68f328d74"
+hash = "d06b15a6b049b352f973eeb128c92469f6760312308fd0b41dbb11e7fbf9408c2163b8d71282683b289abb54998e41d4146ae9bc0c18396161512e3df383787c"
+
+[update]
+[update.modrinth]
+mod-id = "8X31FLYC"
+version = "AF4dKwqr"

@@ -2122,7 +2122,7 @@ metafile = true
 
 [[files]]
 file = "mods/amcdb.pw.toml"
-hash = "187a1ec2a2f31d4c9c6c4086ae2567658db9e36e1988364ef6f3e684a9c9d8ca"
+hash = "21ceb4ab833315e9a633516092c04d83217191a7541ad7fede38dd510d28b7f9"
 metafile = true
 
 [[files]]
