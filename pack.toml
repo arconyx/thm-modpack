@@ -1,16 +1,13 @@
-name = "THM Magic Modpack"
+name = "THM Forever Server Mods"
 author = "ArcOnyx"
-version = "0.3"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1f8d00b17bbc5d7ab72f24d8938bf8205fff3840d793e883b1b95b14d58cd5ca"
+hash = "b33a206e09c9064c95ac0c5c4c4305f8bef06b5e6747db78771988350996f99f"
 
 [versions]
-fabric = "0.16.14"
-minecraft = "1.20.1"
-
-[options]
-datapack-folder = "config/paxi/datapacks"
+fabric = "0.18.3"
+minecraft = "1.21.11"

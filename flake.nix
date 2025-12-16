@@ -2,23 +2,29 @@
   description = "Packwiz environment";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
-    flake-utils.url = "github:numtide/flake-utils";
+    nixpkgs.url = "https://channels.nixos.org/nixpkgs-unstable/nixexprs.tar.xz";
   };
 
   outputs =
-    { nixpkgs, flake-utils, ... }:
-    flake-utils.lib.eachDefaultSystem (
-      system:
-      let
-        pkgs = nixpkgs.legacyPackages.${system};
-        fromPackwiz = import ./nix/fromPackwiz.nix;
-      in
-      {
-        devShells.default = pkgs.mkShell {
-          buildInputs = with pkgs; [ packwiz ];
-        };
-        packages.default = fromPackwiz.package pkgs ./.;
-      }
-    );
+    { nixpkgs, ... }:
+    let
+      supportedSystems = [
+        "x86_64-linux"
+        "aarch64-linux"
+      ];
+      forAllSystems = nixpkgs.lib.genAttrs supportedSystems;
+    in
+    {
+      devShells = forAllSystems (
+        system:
+        let
+          pkgs = nixpkgs.legacyPackages.${system};
+        in
+        {
+          default = pkgs.mkShell {
+            buildInputs = [ pkgs.packwiz ];
+          };
+        }
+      );
+    };
 }
