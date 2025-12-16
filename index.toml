@@ -3,3 +3,78 @@ hash-format = "sha256"
 [[files]]
 file = "config/amcdb.properties"
 hash = "8ebd414bbea9412959280ee7f5163a2af942f0bacf64ad2eeb5e5584bae7094c"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fc8ffe66dc0c7eb55cf2ce38d1ae4bf1c4cdfbfdcda2636b1cd140c851e03cc5"
+metafile = true
+
+[[files]]
+file = "mods/amcdb.pw.toml"
+hash = "21ceb4ab833315e9a633516092c04d83217191a7541ad7fede38dd510d28b7f9"
+metafile = true
+
+[[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "e68b724497f2a9ea4cead44c579f9acb128a9d5bbf7c198716c77b1f1cbbbe5c"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "dfffedda4233bede8ba87164c925631fa4b383e293bbc740ed32f7b9c89595ca"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
+metafile = true
+
+[[files]]
+file = "mods/death-backup.pw.toml"
+hash = "6f5850283e6ef5c39c228d72e421e17dfe74082cfa2b501150783c99463406ef"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "8395078cc9b359cf76e0bf950c57b886101446d1c7893a733c9cc16fd6c7d2f8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cf6edd71a012b437bca4bcac93c44d1109632db31b5f638d28b58fa77cf771b5"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "76a12a836d4c7f0f943a1e391dd2d7b5c4673caa497fff16593d49449376b117"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "ec6cca86e9b3f9095b6b8fe66398618067cc23e5c273cfdb25dfb5263c7aeec6"
+metafile = true
+
+[[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "c1906aafc5af2f95945d31f840263f3490efe781461fbcee33df3f3a68c431b3"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "d92bfa71e44d6ea1eff1e95955f776db2a3855c02b2d45ba98ef9a53913df485"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "424ba6f67a9392eb474ead2ea4ce5e3b6cc4f9041a4d27e61ad60a1abb009a50"
+metafile = true
