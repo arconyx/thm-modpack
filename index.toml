@@ -14,11 +14,11 @@ hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
 
 [[files]]
 file = "config/collective.json5"
-hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+hash = "ef2a4f3b28bf12df241cfaba733a4e96549909b2a91ff774da71c0e5c1bc4da4"
 
 [[files]]
 file = "config/deathbackup.json5"
-hash = "e96cb6bacbddf60b7912a750140818c7bf675a13c9bc8cc14b43cb059c38a0e8"
+hash = "9292dabe8b0a5a4b0118b4cacbd6a548234cb31d27e85e65d685fd1aaa414833"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
