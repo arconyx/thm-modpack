@@ -95,6 +95,11 @@ hash = "ec6cca86e9b3f9095b6b8fe66398618067cc23e5c273cfdb25dfb5263c7aeec6"
 metafile = true
 
 [[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "2a61a08e39ea21bb9652683bf239345b04af91bf439c4ec60a6246b7cb37b9f4"
+metafile = true
+
+[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "c1906aafc5af2f95945d31f840263f3490efe781461fbcee33df3f3a68c431b3"
 metafile = true
