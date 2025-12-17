@@ -5,6 +5,46 @@ file = "config/amcdb.properties"
 hash = "8ebd414bbea9412959280ee7f5163a2af942f0bacf64ad2eeb5e5584bae7094c"
 
 [[files]]
+file = "config/armorposer.toml"
+hash = "3d722c9b0301d7b8766ac9ee1aa5ca52ad3a46012185a1db2fe348aece6534d3"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba"
+
+[[files]]
+file = "config/collective.json5"
+hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
+
+[[files]]
+file = "config/deathbackup.json5"
+hash = "e96cb6bacbddf60b7912a750140818c7bf675a13c9bc8cc14b43cb059c38a0e8"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "88e156ebea5860a21c27da03912948a7849f9dd0ba5c4ccc9c102f3c52208c81"
+
+[[files]]
+file = "config/noisium.json"
+hash = "3b6acdbc5ce36d9a81fb2a889760b5eb9fd88683cb06e234eca92559ad151329"
+
+[[files]]
+file = "config/resourceful-config-web.json"
+hash = "cf77cf1cb3809cebe552f1079dfeaca07cf409edc46f92df9686d7c8e843f9fc"
+
+[[files]]
+file = "config/structure_layout_optimizer.jsonc"
+hash = "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "fc8ffe66dc0c7eb55cf2ce38d1ae4bf1c4cdfbfdcda2636b1cd140c851e03cc5"
 metafile = true
@@ -35,11 +75,6 @@ hash = "6f5850283e6ef5c39c228d72e421e17dfe74082cfa2b501150783c99463406ef"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "8395078cc9b359cf76e0bf950c57b886101446d1c7893a733c9cc16fd6c7d2f8"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "cf6edd71a012b437bca4bcac93c44d1109632db31b5f638d28b58fa77cf771b5"
 metafile = true
@@ -67,11 +102,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "d92bfa71e44d6ea1eff1e95955f776db2a3855c02b2d45ba98ef9a53913df485"
-metafile = true
-
-[[files]]
-file = "mods/squaremap.pw.toml"
-hash = "c6993c6cccc8afb4d7161d9f739e80ff6692374a3ce72be36062a8bf7228724a"
 metafile = true
 
 [[files]]
