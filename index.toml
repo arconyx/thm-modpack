@@ -75,6 +75,11 @@ hash = "d92bfa71e44d6ea1eff1e95955f776db2a3855c02b2d45ba98ef9a53913df485"
 metafile = true
 
 [[files]]
+file = "mods/squaremap.pw.toml"
+hash = "c6993c6cccc8afb4d7161d9f739e80ff6692374a3ce72be36062a8bf7228724a"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "424ba6f67a9392eb474ead2ea4ce5e3b6cc4f9041a4d27e61ad60a1abb009a50"
 metafile = true
