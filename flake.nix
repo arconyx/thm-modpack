@@ -3,22 +3,17 @@
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
-    flake-utils.url = "github:numtide/flake-utils";
   };
 
   outputs =
-    { nixpkgs, flake-utils, ... }:
-    flake-utils.lib.eachDefaultSystem (
-      system:
-      let
-        pkgs = nixpkgs.legacyPackages.${system};
-        fromPackwiz = import ./nix/fromPackwiz.nix;
-      in
-      {
-        devShells.default = pkgs.mkShell {
-          buildInputs = with pkgs; [ packwiz ];
-        };
-        packages.default = fromPackwiz.package pkgs ./.;
-      }
-    );
+    { nixpkgs, ... }:
+    let
+      pkgs = nixpkgs.legacyPackages.x86_64-linux;
+    in
+    {
+      devShells.x86_64-linux.default = pkgs.mkShell {
+        buildInputs = with pkgs; [ packwiz ];
+      };
+      packages.x86_64-linux.default = pkgs.callPackage ./package.nix { src = ./.; };
+    };
 }
