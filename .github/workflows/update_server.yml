@@ -24,12 +24,12 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Checkout modpack repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.4.0
         with:
           path: thm-modpack
 
       - name: Checkout server repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v4.4.0
         with:
           repository: arconyx/thm-config
           path: thm-config
